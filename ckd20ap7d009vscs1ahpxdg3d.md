@@ -1,1 +1,128 @@
-IyMgVGVuaGEgc2V1IHByw7NwcmlvIHNtYXJ0IG1pcnJvcgoKPiBBaW5kYSBsZW1icm8gZGUgdmVyIG9zIHBhaW7DqWlzIGRvIHNob3BwaW5nIE1hcmtldCBQbGFjZSBxdWFuZG8gY3JpYW7Dp2EgZSBhY2hhciBpbmNyaXZlbCBhcXVpbG8KCmltYWdlbSBkZSBjYXBhOiAgWyJpbmZvIHBhbmVsIl0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvNDk1MDI5Njk2NzFATjAxLzEwNDYxMDQwNzE1KSBieSBbZXN0b3JkZV0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvNDk1MDI5Njk2NzFATjAxKSBpcyBsaWNlbnNlZCB1bmRlciBbQ0MgQlktTkMtTkQgMi4wXShodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnktbmMtbmQvMi4wLz9yZWY9Y2NzZWFyY2gmYXR5cGU9cmljaCkKClNhYmUgYXF1ZWxlcyBwYWluw6lpcyBkZSBpbmZvcm1hw6fDtWVzIGNvbW8gcXVpb3NxdWVzIGRpZ2l0YWlzIGVtIGVtcHJlc2FzLCBzaG9wcGluZ3Mgb3UgYXTDqSBtZXNtbyBlbSB1bSBjb25zdWx0w7NyaW8gbcOpZGljbz8gSsOhIHF1aXMgdGVyIHVtIGRlbGU/IErDoSB0ZW0gdW0gc2Vydmlkb3IgY29tIFtSYW5jaGVyXShodHRwczovL3JhbmNoZXIuY29tLykgcm9kYW5kbz8gw5N0aW1vLCB2YWkgc2VyIGJlbSBzaW1wbGVzLgoKIVsxOTgyMzEwMzQ3MV9hYjlkNjY0ZGQxX28uanBnXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTU5NTY5ODkwMDUyMi9lM3VKbFcwV2YuanBlZykKCiBbIkJhZ2dhZ2UgQ2Fyb3VzZWwgU2lnbiJdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzUxNTI2MzY4QE4wMy8xOTgyMzEwMzQ3MSkgYnkgW0FyYW5hbWldKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzUxNTI2MzY4QE4wMykgaXMgbGljZW5zZWQgdW5kZXIgW0NDIEJZIDIuMF0oaHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LzIuMC8/cmVmPWNjc2VhcmNoJmF0eXBlPXJpY2gpCgpVbWEgZGFzIHZhbnRhZ2VtIGRlc3RhIGFib3JkYWdlbSDDqSBxdWUgdm9jw6ogcG9kZXLDoSB0ZXIgdsOhcmlvcyBwYWluZWlzIGZ1bmNpb25hbmRvIGRlIG1hbmVpcmEgaWd1YWwgcHJlY2lzYW5kbyBjb25maWd1cmFyIGFwZW5hcyBlbSB1bSBsdWdhciwgbyBzZXJ2aWRvciwgZGlmZXJlbnRlbWVudGUgZGUgYWxndW1hcyBhYm9yZGFnZW5zIG5haXMgcXVhaXMgdm9jw6ogdGVyaWEgcXVlIGlyIGNvbmZpZ3VyYW5kbyBwYWluZWwgcG9yIHBhaW5lbC4KCk91dHJhIGJvYSB2YW50YWdlbSDDqSBhIHZvY8OqIHBvZGVyw6EgcHJvbG9uZ2FyIGEgdmlkYSBkYSBzdWEgW1Jhc3BiZXJyeSBQaSBaZXJvIFddKGh0dHBzOi8vd3d3LnJhc3BiZXJyeXBpLm9yZy9wcm9kdWN0cy9yYXNwYmVycnktcGktemVyby13LykgdW1hIHZleiBxdWUgb3V0cmFzIGFib3JkYWdlbnMgZmF6ZW0gZWxhIHNlciBvIHNlcnZpZG9yIGUgbyBwYWluZWwgYW8gbWVzbW8gdGVtcG8sIGZhemVuZG8gY29tIHF1ZSBhIHBsYWNhIGVzcXVlbnRlIG11aXRvIGUgY2FzbyB2b2PDqiBuw6NvIHRlbmhhIHVtIGJvbSBkaXNzaXBhZG9yIGRlIGNhbG9yIGVsYSBhY2FiYXLDoSBlc3F1ZW50YW5kbyBkZW1haXMuCgojIyBNYWdpY01pcnJvcjIKCkNhc28gbsOjbyBjb25oZcOnYSBhaW5kYSBvIFtNYWdpY01pcnJvcjJdKGh0dHBzOi8vbWFnaWNtaXJyb3IuYnVpbGRlcnMvKSwgcmVjb21lbmRvIGVudHJhciBubyBzaXRlIGRlbGVzIGUgZGFyIHVtYSBvbGhhZGEgcG9yIGNpbWEgbm8gcHJvamV0by4gQWxndW5zIGRvcyBwcm9qZXRvcyBxdWUganVsZ3VlaSBpbnRlcmVzc2FudGUgZXN0w6NvIGxpbmthZG9zIGRvIGFww6puZGljZS4KCk8gbGVnYWwgZG8gcHJvamV0byBlbSBzaSDDqSBxdWUgdm9jw6ogdGFtYsOpbSBwb2RlcsOhIHRyYW5zZm9ybWFyIGVsZSBlbSB1bSBbQWxleGFdKGh0dHBzOi8vZW4ud2lraXBlZGlhLm9yZy93aWtpL0FtYXpvbl9BbGV4YSkgcGFyYSBwb2RlciB1c2FyIGNvbW8gcG9udG8gZGUgYWNlc3NvIGUgbW9kaWZpY2HDp8OjbyBkZWxlcy4KCiFbMzI4ODUxMjAxNDFfOWNlM2Y4YThjYV9vLmpwZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE1OTU3MDI4MzAzOTEvWU9yYnJveGcwLmpwZWcpCgogWyJUcnVtcGV0IFBsYXlpbmcgUm9ib3QiXShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy85ODg4NzQyNEBOMDAvMzI4ODUxMjAxNDEpIGJ5IFthbGlzb25qcG9wZV0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvOTg4ODc0MjRATjAwKSBpcyBsaWNlbnNlZCB1bmRlciAgW0NDIEJZIDIuMF0oaHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LzIuMC8/cmVmPWNjc2VhcmNoJmF0eXBlPXJpY2gpIAoKIyMgUmFuY2hlcgoKMS4gQSBjb25maWd1cmHDp8OjbyBubyBSYW5jaGVyIHNlcsOhIGJlbSBzaW1wbGVzLiBCYXN0YSBjb2xvY2FyIFtiYXN0aWxpbWJhY2gvZG9ja2VyLW1hZ2ljbWlycm9yXShodHRwczovL2h1Yi5kb2NrZXIuY29tL3IvYmFzdGlsaW1iYWNoL2RvY2tlci1tYWdpY21pcnJvcikgY29tbyBpbWFnZW0gbmVjZXNzw6FyaWEgZSBlc2NvbGhlciB1bSBub21lIHBhcmEgZWxhOgohW2ltYWdlOTE5LnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE1OTU2OTM5ODkxOTMvTy1TY0ZwYjR1LnBuZykKMi4gRGVwb2lzIGRhciB1bSBiaW5kIGRhIHBvcnRhIGA4MDgwYCBlbSBhbGd1bWEgZGlzcG9uw612ZWwgbm8gc2V1IHNlcnZpZG9yIC0tIG5vIG1ldSBjYXNvIGZvaSBhIGA4NzAwYDoKIVtpbWFnZTEwNTgucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTU5NTY5Mzk3NzQ1MC90eHB5aUREdk0ucG5nKQozLiBDb21vIGVudiB2YXIsIGNvbmZpZ3VyZSBhcGVuYXMgYSB0aW1lem9uZSBjb20gYFRaYCAtLSBhIGxpc3RhIGNvbXBsZXRhIHZvY8OqIHBvZGUgdmVyIFthcXVpXShodHRwczovL2VuLndpa2lwZWRpYS5vcmcvd2lraS9MaXN0X29mX3R6X2RhdGFiYXNlX3RpbWVfem9uZXMpOgohW2ltYWdlOTU1LnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE1OTU2OTM5Njk5NDkvUTRqNm1YT2dMLnBuZykKNC4gU0hIIG5vIHNldSBzZXJ2aWRvciwgY3JpZSB1bWEgcGFzdGEgY2hhbWFkYSBgbWFnaWNfbWlycm9yYCwgZW50cmUgbmVsYSBlIGRpZ3RlIGBwd2RgLCBjb3BpZSBvIGNhbWluaG8gcGFyYSB1dGlsaXphciBkZSBiaW5kaW5nIG5vcyB2b2x1bWVzIC0tIG5vIG1ldSBjYXNvIG8gY29tYW5kbyByZXRvcm5vdSBgL2hvbWUvZmFybS9tYWdpY19taXJyb3IvYDoKIVtnMTEwMC5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNTk1NjkzOTYxMDA5L1JWOEdLTGxuZC5wbmcpCgojIyBSYXNwYmVycnkgUGkgWmVybyBXCgoxLiBDYXNvIHRlbmhhIHVtYSBSYXNwYmVycnkgUGkgWmVybyBXIG91IFcrIGNvbSBvIHNpc3RlbWEgb3BlcmFjaW9uYWwgasOhIGluc3RhbGFkbywgcHVsZSBwYXJhIG8gcGFzc28gNiwgZG8gY29udHLDoXJpbyBzaWdhIGFzIGNvbmZpZ3VyYcOnw7VlcwoyLiBCYWl4ZSBhIHZlcnPDo28gTGl0ZSBkbyBbc2lzdGVtYSBvcGVyYWNpb25hbF0oaHR0cHM6Ly93d3cucmFzcGJlcnJ5cGkub3JnL2Rvd25sb2Fkcy8pIAozLiBFc2NyZXZhIGVsZSBlbSB1bSBtaWNybyBTRCAtLSByZWNvbWVuZG8gbyBbZXRjaGVyXShodHRwczovL2dpdGh1Yi5jb20vYmFsZW5hLWlvL2V0Y2hlcikgcGFyYSBmYXplciBpc3RvIHBvcnF1ZSBjYXNvIHRlbmhhIGEgdmVyc8OjbyBtYWlzIHJlY2VudGUgbsOjbyBwcmVjaXNhcsOhIGZhemVyIG8gcGFzc28gMgo0LiBBYnJhIGEgcGFzdGEgYGJvb3RgIG5vIGNhcnTDo28gZGUgbWVtw7NyaWEsIGNyaWUgdW0gYXJxdWl2byBjaGFtYWRvIGB3cGFfc3VwcGxpY2FudC5jb25mYCBlIGNvbGUgbyBzZWd1aW50ZSB0ZXh0byBmYXplbmRvIGFzIGFsdGVyYcOnw7VlcyBuZWNlc3PDoXJpYXM6CmBgYApjb3VudHJ5PUJSICMgc2V1IHBhw61zIGFxdWkKY3RybF9pbnRlcmZhY2U9RElSPS92YXIvcnVuL3dwYV9zdXBwbGljYW50IEdST1VQPW5ldGRldgp1cGRhdGVfY29uZmlnPTEKbmV0d29yaz17Cglzc2lkPSJNeVdpRmlOZXR3b3JrIiAjIG5vbWUgZGEgc3VhIHJlZGUgZGUgd2ktZmkKCXBzaz0iYVZlcnlTdHJvbmdQYXNzd29yZCIgIyBzdWEgc2VuaGEgZG8gd2ktZmkKCWtleV9tZ210PVdQQS1QU0sKfQpgYGAKNS4gVGFtYsOpbSBjcmllIHVtIGFycXVpdm8gZGUgdGV4dG8gdmF6aW8gY29tIG8gbm9tZSBgc3NoYCBuYSBtZXNtYSBwYXN0YQo2LiBDb2xvcXVlIG8gbWljcm8gU0QgbmEgUmFzcCwgYSBsaWd1ZSBlIGFjZXNzZS1hIHJlbW90YW1lbnRlIGF0cmF2w6lzIGRlIG91dHJvIGNvbXB1dGFkb3IgLS0gYSBzZW5oYSDDqSBgcmFzcGJlcnJ5YDoKYGBgc2hlbGwKc3NoIC1sIHBpIGlwLmRhLnJhc3AuYXF1aQpgYGAKNy4gRGVwb2lzIGRpc3NvIHPDsyBjb3BpYXIgZSBjb2xhciBvIHNlZ3VpbnRlIGNvbWFuZG8gLS0gZWxlIHZhaSBleGVjdXRhciBbZXN0ZV0oaHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vRmF6ZW5kYWFhLzRhNWUwNGVjNTE0NTFjMTljMTNlZWMwNDljMzY4OGYwKSBzY3JpcHQ6CmBgYHNoZWxsCmN1cmwgaHR0cHM6Ly9naXN0LmdpdGh1YnVzZXJjb250ZW50LmNvbS9GYXplbmRhYWEvNGE1ZTA0ZWM1MTQ1MWMxOWMxM2VlYzA0OWMzNjg4ZjAvcmF3L2FjNDRmMTY1MTM3NTE2NzhhNDk1YzY5YTU1NzkxYzJmYmJjNmViM2Mvc2V0dXBSYXNwQ2xpZW50TU0uc2ggfCBzaApgYGAKOC4gU3VhIFJhc3AgaXLDoSBkZXNjb25lY3RhciBkbyBzc2ggZGVwb2lzIGRlIGZpbmFsaXphZGEsIGFjZXNzZSBlbGEgZGUgbm92byBlIGVkaXRlIG8gYXJxdWl2byBgY2hyb21pdW1fc3RhcnQuc2hgIGUgYWx0ZXJlIGEgw7psdGltYSBsaW5oYSBkZWxlIC0tIHVzZWkgbyBgbmFub2Agc8OzIGRlIGV4ZW1wbG86CmBgYHNoZWxsCm5hbm8gfi9jaHJvbWl1bV9zdGFydC5zaApgYGAKYGBgCiMhL2Jpbi9zaAp1bmNsdXR0ZXIgJgp4c2V0IC1kcG1zICMgZGlzYWJsZSBEUE1TIChFbmVyZ3kgU3RhcikgZmVhdHVyZXMuCnhzZXQgcyBvZmYgIyBkaXNhYmxlIHNjcmVlbiBzYXZlcgp4c2V0IHMgbm9ibGFuayAjIGRvbuKAmXQgYmxhbmsgdGhlIHZpZGVvIGRldmljZQptYXRjaGJveC13aW5kb3ctbWFuYWdlciAmCmNocm9taXVtLWJyb3dzZXIgLS1jaGVjay1mb3ItdXBkYXRlLWludGVydmFsPTMxMTA0MDAwIFwKCS0tc3RhcnQtZnVsbHNjcmVlbiAtLWtpb3NrIC0taW5jb2duaXRvIFwKCS0tbm9lcnJkaWFsb2dzIC0tZGlzYWJsZS10cmFuc2xhdGUgLS1uby1maXJzdC1ydW4gXAoJLS1mYXN0IC0tZmFzdC1zdGFydCAtLWRpc2FibGUtaW5mb2JhcnMgXAoJLS1kaXNhYmxlLWZlYXR1cmVzPVRyYW5zbGF0ZVVJIFwKCS0tZGlzay1jYWNoZS1kaXI9L2Rldi9udWxsIFwgaHR0cDovL2lwLmRvLnNldmlkb3IucmFuY2hlcjpwb3J0YUNvbmZpZ3VyYWRhRG9NYWdpY01pcnJvcgpgYGAKMTAuIENvbmVjdGUgbyBIRE1JIG5lbGEgLS0gYSBSYXNwIG7Do28gaXLDoSByZWNvbmhlY2VyIG8gbW9uaXRvciBzZSBlbGUgbsOjbyB0aXZlciBjb25lY3RhZG8gbmVsYSBxdWFuZG8gZWxhIGluaWNhciAtLSwgcmVpbmljaWUgZWxhIGNvbSBvIHNlZ3VpbnRlIGNvbWFuZG86CmBgYHNoZWxsCnN1ZG8gc3lzdGVtY3RsIHJlYm9vdApgYGAKClR1ZG8gZGV2ZXLDoSBlc3RhciBmdW5jaW9uYW5kbyBub3JtYWxtZW50ZSBhZ29yYS4KCiFbaW1hZ2UxMjIyLnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE1OTU3MDA3Mzc3NDUvN0d2OEVlb0dWLnBuZykKCiMjIE5vdmEgQWJhCgpVbWEgdmV6IHF1ZSBvIHNlcnZpZG9yIGVzdMOhIGNvbmZpZ3VyYWRvLCB2b2PDqiBwb2RlIGFjZXNzYXIgZWxlIGRpZ2l0YW5kbyBubyBzZXUgbmF2ZWdhZG9yIC0tIG1ldSBleGVtcGxvOgoKIVtnMTIxMi5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNTk1NzAwNDk4Nzk3LzZnMUs3N0l2Ti5wbmcpCgpVbWEgcG9zc2liaWxpZGFkZSDDqSBjYXNvIHZvY8OqIG7Do28gdGVuaGEgdW0gbW9uaXRvciBzb2JyYW5kbyBtYXMgYWluZGEgZ29zdGFyaWEgZGUgZGVpeGFyIGNvbW8gdW0gImRlc2NhbnNvIGRlIHRlbGEiIG91IGNvbW8gbyBwYWluZWwgcXVlIG1vc3RyZSB0b2RhIHZleiBxdWUgYWJyYSB1bWEgbm92YSBhYmEsIHZhaSBjb25zZWd1aXIgZmF6ZXIgaXN0by4KCk91dHJhIHBvc3NpYmlsaWRhZGUgw6kgY2FzbyBzdWEgZW1wcmVzYSBjb25maWd1cmUgb3UgasOhIGVzdGVqYSB1dGlsaXphbmRvIG8gTWFnaWNNaXJyb3IgZSBwb3NzdWEgdW1hIFZpcnR1YWwgUHJpdmF0ZSBOZXR3b3JrIChWUE4pLCB2b2PDqiBwb2RlcsOhIGFjZXNzYXIgbyBNYWdpY01pcnJvciBkYSBlbXByZXNhIGVtIGNhc2EsIHRlbmRvIGNvbSBmYWNpbGlkYWRlIGVsZSBubyBzZXUgbmF2ZWdhZG9yIG91IGF0w6kgbWVzbW8gdW0gcGFpbmVsIGNvbSBvIGVuZGVyZcOnbyBhcG9udGFuZG8gcHJvIGRhIFZQTiAtLSBlc3RlIMO6bHRpbW8gc2Vyw6EgbmVjZXNzw6FyaW8gY29uZmlndXJhciBhIFZQTiBuYSBSYXNwIG91IG5vIHNldSBwcsOzcHJpbyBtb2RlbS4KCiMjIEFww6puZGljZQoKLSBQb3IgZmF2b3IsIG11ZGUgYSBzZW5oYSBkYSBzdWEgUmFzcCBwYXJhIG7Do28gZmljYXIgdXRpbGl6YW5kbyBhIHBhZHLDo28gZGVsYSwgw6kgdW1hIGJvYSBwcsOhdGljYSBkZSBzZWd1cmFuw6dhCi0gQWRpY29uYXIgcGFyYSBhZGljaW9uYXIgbm92b3MgbcOzZHVsb3MsIHZlamEgYSBbbGlzdGFdKGh0dHBzOi8vZ2l0aHViLmNvbS9NaWNoTWljaC9NYWdpY01pcnJvci93aWtpLzNyZC1QYXJ0eS1Nb2R1bGVzKSBkZWxlcwotIFBhcmEgY29uZmlndXJhciBsaWdhciBlIGRlc2xpZ2FyIGEgdGVsYSBhdXRvbWF0aWNhbWVudGUsIHPDsyBzZWd1aXIgb3Mgc2VndWludGVzIHBhc3NvcyBuYSBzdWEgUmFzcDoKMS4gQWRpY2lvbmUgYXMgc2VndWludGVzIGZlcnJhbWVudGFzOgpgYGBzaGVsbApzdWRvIGFwdC1nZXQgLXkgaW5zdGFsbCBweXRob24zLXBpcApzdWRvIHBpcDMgaW5zdGFsbCB2Y2dlbmNtZApgYGAKMi4gUm9kZSBvIGNvbWFuZG8gLS0gZWxlIGlyw6EgcGVkaXIgcGFyYSBlc2NvbGhlciB1bSBlZGl0b3IgZGUgdGV4dG8gcGFyYSBmYXplciBhIGNvbmZpZ3VyYcOnw6NvIGRvIHByw7N4aW1vIHBhc3NvLCByZWNvbWVuZG8gbyBgbmFub2AgcG9yIHNlciBvIG1haXMgc2ltcGxlcyBkZSB1c2FyOgpgYGBzaGVsbApjcm9udGFiIC1lCmBgYAozLiBDb3BpZSBhcyBwcsOzeGltYXMgbGluaGFzIGUgY29sZSBlbGFzIC0tIGNvbSBgQ3RybGAgKyBgc2hpZnRgICsgYHZgIC0tLCBiYXNpY2FtZW50ZSB2b2PDqiBlc3RhcsOhIHBlZGluZG8gcHJhIFJhc3AgbGlnYXIgbyBtb25pdG9yIGNvbmVjdGFkbyDDoCBlbGEgw6BzIDloIGUgZGVzbGlnYXIgw6BzIDE3aCAtLSA1aCBQTToKYGBgc2hlbGwKMCA5ICogKiAqIGVjaG8gJ29uIDAnIHwgdmNnZW5jbWQgZGlzcGxheV9wb3dlciAxCjAgMTcgKiAqICogZWNobyAnc3RhbmRieSAwJyB8IHZjZ2VuY21kIGRpc3BsYXlfcG93ZXIgMApgYGAKLSBQcm9qZXRvcyByZWNvbWVuZGFkb3M6CiAgLSBbRElZIFNtYXJ0IE1pcnJvciAodGhhdCBkb2Vzbid0IHN0ZWFtIHVwISldKGh0dHBzOi8veW91dHUuYmUvcHVGU2RmSVJOSXcpCiAgLSBbQUxFWEEgU21hcnQgTWlycm9yIChOZXcgQnVpbGQpXShodHRwczovL3lvdXR1LmJlL2FhM1ZWWkEwZTVZKQogIC0gW1NtYXJ0IE1pcnJvciBUb3VjaHNjcmVlbiAod2l0aCBGYWNlIElEKSB1c2luZyBSYXNwYmVycnkgUGkgNCB8IEZ1bGwgVHV0b3JpYWxdKGh0dHBzOi8veW91dHUuYmUvUldqdkpxNFphYmspCiAgLSBbRElZIFNtYXJ0IE1pcnJvciAtIENvbXBsZXRlIEd1aWRlICgyMDIwKV0oaHR0cHM6Ly95b3V0dS5iZS9yUjNidHN4V001USkKCiMjIFJlZmVyw6puY2lhcwoKLSBbQ29uZmlndXJhbmRvIFJhbmNoZXIgZW0gdW0gQVJNXShodHRwczovL2ZhemVuZGEuaGFzaG5vZGUuZGV2L2NvbmZpZ3VyYW5kby1yYW5jaGVyLWVtLXVtLWFybS1ja2J2bmFkN3UwMDc2YzdzMWRsam5md25mKQotIFtNYWdpY01pcnJvciBvbiBSYXNwYmVycnkgUGkgWmVybyBXIGFuZCBSYW5jaGVyIC0tIDIwMjAgaW5zdGFsbF0oaHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vRmF6ZW5kYWFhLzhkOTJlY2JjNDJlZDIxMTllZGRhNDBkY2QwM2RmNmU1KQ==
+# Tenha seu próprio smart mirror
+
+> Ainda lembro de ver os painéis do shopping Market Place quando criança e achar incrivel aquilo
+
+imagem de capa:  ["info panel"](https://www.flickr.com/photos/49502969671@N01/10461040715) by [estorde](https://www.flickr.com/photos/49502969671@N01) is licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=rich)
+
+Sabe aqueles painéis de informações como quiosques digitais em empresas, shoppings ou até mesmo em um consultório médico? Já quis ter um dele? Já tem um servidor com [Rancher](https://rancher.com/) rodando? Ótimo, vai ser bem simples.
+
+![19823103471_ab9d664dd1_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1595698900522/e3uJlW0Wf.jpeg)
+
+ ["Baggage Carousel Sign"](https://www.flickr.com/photos/51526368@N03/19823103471) by [Aranami](https://www.flickr.com/photos/51526368@N03) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich)
+
+Uma das vantagem desta abordagem é que você poderá ter vários paineis funcionando de maneira igual precisando configurar apenas em um lugar, o servidor, diferentemente de algumas abordagens nais quais você teria que ir configurando painel por painel.
+
+Outra boa vantagem é a você poderá prolongar a vida da sua [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) uma vez que outras abordagens fazem ela ser o servidor e o painel ao mesmo tempo, fazendo com que a placa esquente muito e caso você não tenha um bom dissipador de calor ela acabará esquentando demais.
+
+## MagicMirror2
+
+Caso não conheça ainda o [MagicMirror2](https://magicmirror.builders/), recomendo entrar no site deles e dar uma olhada por cima no projeto. Alguns dos projetos que julguei interessante estão linkados do apêndice.
+
+O legal do projeto em si é que você também poderá transformar ele em um [Alexa](https://en.wikipedia.org/wiki/Amazon_Alexa) para poder usar como ponto de acesso e modificação deles.
+
+![32885120141_9ce3f8a8ca_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1595702830391/YOrbroxg0.jpeg)
+
+ ["Trumpet Playing Robot"](https://www.flickr.com/photos/98887424@N00/32885120141) by [alisonjpope](https://www.flickr.com/photos/98887424@N00) is licensed under  [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich) 
+
+## Rancher
+
+1. A configuração no Rancher será bem simples. Basta colocar [bastilimbach/docker-magicmirror](https://hub.docker.com/r/bastilimbach/docker-magicmirror) como imagem necessária e escolher um nome para ela:
+![image919.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595693989193/O-ScFpb4u.png)
+2. Depois dar um bind da porta `8080` em alguma disponível no seu servidor -- no meu caso foi a `8700`:
+![image1058.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595693977450/txpyiDDvM.png)
+3. Como env var, configure apenas a timezone com `TZ` -- a lista completa você pode ver [aqui](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones):
+![image955.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595693969949/Q4j6mXOgL.png)
+4. SHH no seu servidor, crie uma pasta chamada `magic_mirror`, entre nela e digte `pwd`, copie o caminho para utilizar de binding nos volumes -- no meu caso o comando retornou `/home/farm/magic_mirror/`:
+![g1100.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595693961009/RV8GKLlnd.png)
+
+## Raspberry Pi Zero W
+
+1. Caso tenha uma Raspberry Pi Zero W ou W+ com o sistema operacional já instalado, pule para o passo 6, do contrário siga as configurações
+2. Baixe a versão Lite do [sistema operacional](https://www.raspberrypi.org/downloads/) 
+3. Escreva ele em um micro SD -- recomendo o [etcher](https://github.com/balena-io/etcher) para fazer isto porque caso tenha a versão mais recente não precisará fazer o passo 2
+4. Abra a pasta `boot` no cartão de memória, crie um arquivo chamado `wpa_supplicant.conf` e cole o seguinte texto fazendo as alterações necessárias:
+```
+country=BR # seu país aqui
+ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+update_config=1
+network={
+	ssid="MyWiFiNetwork" # nome da sua rede de wi-fi
+	psk="aVeryStrongPassword" # sua senha do wi-fi
+	key_mgmt=WPA-PSK
+}
+```
+5. Também crie um arquivo de texto vazio com o nome `ssh` na mesma pasta
+6. Coloque o micro SD na Rasp, a ligue e acesse-a remotamente através de outro computador -- a senha é `raspberry`:
+```shell
+ssh -l pi ip.da.rasp.aqui
+```
+7. Depois disso só copiar e colar o seguinte comando -- ele vai executar [este](https://gist.github.com/Fazendaaa/4a5e04ec51451c19c13eec049c3688f0) script:
+```shell
+curl https://gist.githubusercontent.com/Fazendaaa/4a5e04ec51451c19c13eec049c3688f0/raw/ac44f16513751678a495c69a55791c2fbbc6eb3c/setupRaspClientMM.sh | sh
+```
+8. Sua Rasp irá desconectar do ssh depois de finalizada, acesse ela de novo e edite o arquivo `chromium_start.sh` e altere a última linha dele -- usei o `nano` só de exemplo:
+```shell
+nano ~/chromium_start.sh
+```
+```
+#!/bin/sh
+unclutter &
+xset -dpms # disable DPMS (Energy Star) features.
+xset s off # disable screen saver
+xset s noblank # don’t blank the video device
+matchbox-window-manager &
+chromium-browser --check-for-update-interval=31104000 \
+	--start-fullscreen --kiosk --incognito \
+	--noerrdialogs --disable-translate --no-first-run \
+	--fast --fast-start --disable-infobars \
+	--disable-features=TranslateUI \
+	--disk-cache-dir=/dev/null \ http://ip.do.sevidor.rancher:portaConfiguradaDoMagicMirror
+```
+10. Conecte o HDMI nela -- a Rasp não irá reconhecer o monitor se ele não tiver conectado nela quando ela inicar --, reinicie ela com o seguinte comando:
+```shell
+sudo systemctl reboot
+```
+
+Tudo deverá estar funcionando normalmente agora.
+
+![image1222.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595700737745/7Gv8EeoGV.png)
+
+## Nova Aba
+
+Uma vez que o servidor está configurado, você pode acessar ele digitando no seu navegador -- meu exemplo:
+
+![g1212.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595700498797/6g1K77IvN.png)
+
+Uma possibilidade é caso você não tenha um monitor sobrando mas ainda gostaria de deixar como um "descanso de tela" ou como o painel que mostre toda vez que abra uma nova aba, vai conseguir fazer isto.
+
+Outra possibilidade é caso sua empresa configure ou já esteja utilizando o MagicMirror e possua uma Virtual Private Network (VPN), você poderá acessar o MagicMirror da empresa em casa, tendo com facilidade ele no seu navegador ou até mesmo um painel com o endereço apontando pro da VPN -- este último será necessário configurar a VPN na Rasp ou no seu próprio modem.
+
+## Apêndice
+
+- Por favor, mude a senha da sua Rasp para não ficar utilizando a padrão dela, é uma boa prática de segurança
+- Adiconar para adicionar novos módulos, veja a [lista](https://github.com/MichMich/MagicMirror/wiki/3rd-Party-Modules) deles
+- Para configurar ligar e desligar a tela automaticamente, só seguir os seguintes passos na sua Rasp:
+1. Adicione as seguintes ferramentas:
+```shell
+sudo apt-get -y install python3-pip
+sudo pip3 install vcgencmd
+```
+2. Rode o comando -- ele irá pedir para escolher um editor de texto para fazer a configuração do próximo passo, recomendo o `nano` por ser o mais simples de usar:
+```shell
+crontab -e
+```
+3. Copie as próximas linhas e cole elas -- com `Ctrl` + `shift` + `v` --, basicamente você estará pedindo pra Rasp ligar o monitor conectado à ela às 9h e desligar às 17h -- 5h PM:
+```shell
+0 9 * * * echo 'on 0' | vcgencmd display_power 1
+0 17 * * * echo 'standby 0' | vcgencmd display_power 0
+```
+- Projetos recomendados:
+  - [DIY Smart Mirror (that doesn't steam up!)](https://youtu.be/puFSdfIRNIw)
+  - [ALEXA Smart Mirror (New Build)](https://youtu.be/aa3VVZA0e5Y)
+  - [Smart Mirror Touchscreen (with Face ID) using Raspberry Pi 4 | Full Tutorial](https://youtu.be/RWjvJq4Zabk)
+  - [DIY Smart Mirror - Complete Guide (2020)](https://youtu.be/rR3btsxWM5Q)
+
+## Referências
+
+- [Configurando Rancher em um ARM](https://fazenda.hashnode.dev/configurando-rancher-em-um-arm-ckbvnad7u0076c7s1dljnfwnf)
+- [MagicMirror on Raspberry Pi Zero W and Rancher -- 2020 install](https://gist.github.com/Fazendaaa/8d92ecbc42ed2119edda40dcd03df6e5)
