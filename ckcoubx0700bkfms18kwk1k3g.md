@@ -1,1 +1,213 @@
-IyMgQ2Fuc2FkbyBkZSBwYWdhciBjYXJvIGNvbSBvIHNoaW55YXBwcy5pbz8gTmFkYSBtYWlzIGRlICd2ZW5kb3IgbG9jay1pbicKCmZvdG8gZGUgY2FwYTogIFsiRnJlZSBhcyBpbiBSZWZsZWN0aW9uIl0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvMzc5OTY2NDY4MDJATjAxLzI4OTEzOTk1MjgzKSBieSBbY29nZG9nYmxvZ10oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvMzc5OTY2NDY4MDJATjAxKSBpcyBsaWNlbnNlZCB1bmRlciBbQ0MgQlkgMi4wXShodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvMi4wLz9yZWY9Y2NzZWFyY2gmYXR5cGU9cmljaCkKCj4gQllPRC4uLiAiQnJpbmcgWW91ciBPd24gRG9ja2VyIgoKQ29tIFVTJDogMzkgcG9yIG3DqnMgLS0gYXByb3hpbWFkYW1lbnRlIFIkOiAyMDkuMzkgc2VndW5kbyBvIEdvb2dsZSBlbnF1YW50byBlc3RhIG1hdMOpcmlhIMOpIGVzY3JpdGEgLS0gdm9jw6ogcG9kZSB0ZXI6CgotICoqQVBFTkFTKiogNTAwIGhvcmFzIGRlIHNlcnZpw6dvIHBvciBtw6pzIC0tIHF1YXNlIDIxIGRpYXMgc2Ugdm9jw6ogdGl2ZXIgYXBlbmFzICoqVU1BIEFQTElDQcOHw4NPKiogcm9kYW5kbyAyNGgsIDcgZGlhcyBwb3Igc2VtYW5hCi0gIlByZW1pdW0iICoqRS1NQUlMKiogc3Vwb3J0ZSAtLSBvdSBzZWphLCBuYWRhIGRlIHVtIGNoYXQgbm8gc2l0ZSBkZWxlcyBjYXNvIHN1YSBhcGxpY2HDp8OjbyBmaXF1ZSBmb3JhIGRvIGFyIHPDoWJhZG8gw6BzIDdoIEFNCi0gKlZlbmRvciBsb2NrLWluKiAtLSBvIHF1ZSBiYXNpY2FtZW50ZSBzaWduaWZpY2EgcXVlIHZvY8OqIHRlbSBkaWZpY3VsZGFkZSBkZSBzYWlyIGRvIHNpc3RlbWEgZGVsZXMgcGFyYSBvdXRyYXMgc29sdcOnw7VlcwoKIVszMjEyMTc0MjkwXzUxYzlkNTI5ZWFfby5qcGddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNTk0ODYzMDUzMDQ5L250QnhTY1JtVi5qcGVnKQoKIFsiU25vdyBkYXkiXShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy82NTc3Mjk5OUBOMDAvMzIxMjE3NDI5MCkgYnkgW2luZGlnb192ZWlsXShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy82NTc3Mjk5OUBOMDApIGlzIGxpY2Vuc2VkIHVuZGVyIFtDQyBCWS1OQy1ORCAyLjBdKGh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS1uYy1uZC8yLjAvP3JlZj1jY3NlYXJjaCZhdHlwZT1yaWNoKQoKQW50ZXMgZGUgY29udGludWFyLCBzZSB2b2PDqiBzZSBzZW50ZSBjb25mb3J0w6F2ZWwgY29tIHR1ZG8gaXN0byBlIG7Do28gc2Ugc2VudGUgInVsdHJhamFkbyIgcG9yIHRhaXMgdGVybW9zLCBwb3IgZmF2b3IsIGVzdGUgdGV4dG8gbsOjbyDDqSBwYXJhIHZvY8OqLiBBbGd1bnMgcG9udG9zIHF1ZSBxdWVybyBtb3N0cmFyIHPDo28gb3Mgc2VndWludGVzOgoKLSBBIHBsYXRhZm9ybWEgw6kgY2FyYSBwYXJhIG8gcXVlIGVudHJlZ2EKLSBDYXNvIGFtYW5ow6Mgb3UgZGVwb2lzIG8gc2lzdGVtYSB0ZW5oYSBxdWUgcm9kYXIgbmEgaW5mcmEgZGUgdW0gY2xpZW50ZSwgcHJvdmF2ZWxtZW50ZSB0ZXLDoSBkb3JlcyBkZSBjYWJlw6dhIHBhcmEgZmF6ZXIgZnVuY2lvbmFyCi0gRmFsdGEgZGUgdW0gImFuYWx5dGljcyIgYXZhbsOnYWRvIGRvIHNpc3RlbWEgcm9kYW5kbwoKRSBzw7MgdW0gbGVtYnJldGU6IG7Do28gY29uaGXDp28gYXMgcGVzc29hcyBxdWUgdHJhYmFsaGFtIG5hIGVtcHJlc2EgbmVtIHRlbmhvIG5hZGEgY29udHJhIGVsYXMgZS9vdSBhIGVtcHJlc2EgZW0gc2kgLS0gbsOjbyBkw7p2aWRvIHF1ZSBzZWphIHVtIGx1Z2FyIGluY3LDrXZlbCBwYXJhIHNldXMgY2xpZW50ZXMgZSB0YWx2ZXogYXTDqSDDs3RpbW8gcGFyYSBvcyBmdW5jaW9uw6FyaW9zIC0tOyBhIGlkZWlhIGRlc3RlIHRleHRvIMOpIGV2aXRhciBjb20gcXVlIHZvY8OqIGdhc3RlIGRpbmhlaXJvIGRlc25lY2Vzc2FyaWFtZW50ZSwgc2VqYSBwYXJhIGZhemVyIGVsZSByb2RhciBxdWFuZG8gYSBhcGxpY2HDp8OjbyBjcmVzY2VyIG91IGF0w6kgbWVzbW8gY29tIG8gcG9ydCBkZWxhIHBhcmEgcm9kYXIgZW0gb3V0cm8gdGlwbyBkZSBpbmZyYSBkZXBvaXMuCgpBc3NpbSBjb21vIHZvY8OqIHBvZGUgdXNhciBtdWl0YXMgdmV6ZXMgdW1hIGNoYXZlIGRlIGZlbmRhIG5vIGx1Z2FyIGRlIHVtYSBQaGlsaXBzLCB0dWRvIGJlbSwgaXN0byBmdW5jaW9uYS4uLiAqIk1hcyB2b2PDqiBkZXZlcmlhIGZhemVyIGlzc28/IiogUjogZW0gYW1ib3Mgb3MgY2Fzb3MgdW1hIGhvcmEgdmFpIGVzcGFuYXIuCgpDb21vIFtlc3RhIHBhbGVzdHJhXShodHRwczovL3lvdXR1LmJlL1d5M1RZMGdPbUp3KSBtb3N0cmEgYmVsYW1lbnRlLCBtdWl0b3MgcHJvYmxlbWFzIGFvIHVzYXIgbyBmcmFtZXdvcmsgZW0gc2kgc8OjbyAiIiJjcsO0bmljb3MiIiIgZGVsZSBlIG7Do28gZGUgb25kZSB2b2PDqiByb2RhIHN1YSBhcGxpY2HDp8Ojby4KClNlIHZvY8OqIHPDsyB0ZW0gcXVlIHJvZGFyIHVtYSBkZW1vIGRlIGFsZ3VucyBkaWFzIG91IGF0w6kgbWVzbW8gdW0gcHJvamV0byBkZSBmYWN1bGRhZGUvcGVzcXVpc2EsIHBvciBmYXZvciB2w6EgZW0gZnJlbnRlIGUgdXNlIHNpbSBvIFtzaGlueWFwcHNdKHNoaW55YXBwcy5pbykgKFNBKTsgZG8gY29udHLDoXJpbywgYXByb3ZlaXRlIG8gdGV4dG8uCgojIyBPcyB0aWVycwoKIVszNTA1NzAwMDI1XzJjNTA5NTIwOGFfby5qcGddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNTk0ODYzMzEzMzkwL0V2U2ZrTE9oYi5qcGVnKQoKIFsiT24gdGhlIExldmVsIl0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvMjIzNzUxODlATjA4LzM1MDU3MDAwMjUpIGJ5IFthYXJvbkh3YXJyZW5dKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzIyMzc1MTg5QE4wOCkgaXMgbGljZW5zZWQgdW5kZXIgW0NDIEJZLU5EIDIuMF0oaHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5kLzIuMC8/cmVmPWNjc2VhcmNoJmF0eXBlPXJpY2gpCgpJLiBDYXNvIG8gc2V1IGNhc28gZGUgdXNvIHNlamEgcmVhbG1lbnRlIHVtICdob2JieWlzdGEnLCBhIGdhbGVyYSBkbyBTQSBwb3NzdWUgdW1hIG9mZXJ0YSBncmF0dWl0YSBxdWUgdGUgcGVybWl0ZSBzdWJpciBhdMOpIGNpbmNvIGFwbGljYcOnw7VlcyBkdXJhbnRlIDI1aCBwb3IgbcOqcy4KCklJLiBDYXNvIGFzIDI1aCBuw6NvIHNlamFtIG8gc3VmaWNpZW50ZSwgdm9jw6ogcG9kZSB0ZXIgYXTDqSAxMDBoIGUgMjUgYXBsaWNhw6fDtWVzIHBvciBVUyQ6IDksMDAgLS1hcHJveGlhbWFkYW1lbnRlIFIkOiA0OC4zNCAtLSBwb3IgbcOqcwoKSUlJLiBBIG9ww6fDo28gY2l0YWRhIG5vIGNvbWXDp28gZG8gdGV4dG8gdGUgcGVybWl0ZSB1bSBuw7ptZXJvIGlsaW1pdGFkbyBkZSBhcGxpY2HDp8O1ZXMuIE1lc21vIHF1ZSBzZSB2b2PDqiByb2RhciBhcyAyNSBsaW1pdGFudGVzIGRhIMO6bGltYSBvcMOnw6NvLCBjb20gYXMgNTAwaCBkaXNwb27DrXZlaXMsIHZvY8OqIHRlcmlhIG1lbm9zIGRlIDloIHBvciBtw6pzIHBhcmEgY2FkYSBhcGxpY2HDp8OjbyBmaWNhciBvbmxpbmUKCk8gcGxhbm8gKkJhc2ljKiBxdWUgw6kgbyBjaXRhZG8gbm8gdGVyY2Vpcm8gaXRlbSDDqSBvIHF1ZSBhcGFyZWNlIGVtIGRlc3RhcXVlIG5hIHDDoWdpbmEgZG8gU0EsIG1hcyBhaW5kYSBow6EgZG9pcyBwbGFub3MgInN1cGVyaW9yZXMiIMOgIGVsZS4KCklWLiBQb3IgVVMkOiA5OSAtLSBhcHJveGltYWRhbWVudGUgUiQ6IDUzMS42MSAtLSBwb3IgbcOqcyBvIHNpc3RlbWEgc29iZSBwYXJhIDIgMDAwaCwgbyBxdWUgc8OjbyBhcHJveGltYWRhbWVudGUgMyBkaWFzIGFwZW5hcyBjYXNvIGFpbmRhIHRlbmhhIGFzIDI1IGFwbGljYcOnw7VlcyByb2RhbmRvIHBvciBtw6pzCgpWLiBFIHBvciBVUyQ6IDI5OSAtLSBhcHJveGltYWRhbWVudGUgUiQ6IDEsNjA1LjU2IC0tIHBvciBtw6pzIG8gc2lzdGVtYSBzb2JlIHBhcmEgMTAgMDAwaCwgbyBxdWUgc2VyaWEgIm1laW8iIG3DqnMgcGFyYSBhcyBtZXNtYXMgMjUgYXBsaWNhw6fDtWVzCgpVbSBwb250byBpbXBvcnRhbnRlLCBwcmluY2lwYWxtZW50ZSBwYXJhIHF1ZW0gdmFpIGNvbG9jYXIgdW1hIGFwbGljYcOnw6NvIGVtIHByb2R1w6fDo28sIMOpIHF1ZSBtZXNtbyBuYXMgZHVhcyDDumx0aW1hcyBvcMOnw7VlcyAqKm8gc3Vwb3J0ZSBhaW5kYSDDqSBwb3IgZS1tYWlsLioqCgpTZWd1aW5kbyBhIGlkZWlhIGRlICoiVGhlIEdvb2QsIFRoZSBCYWQgIGFuZCBUaGUgVWdseSIqOgoKLSBHb29kOiBJCi0gQmFkOiBJSQotIFVnbHk6IElJSSwgSVYsIFYKCiFbNDEyMzQ2MDY1N180OGI0MmQyNDQxX28uanBnXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTU5NDg2Mjc4MjAyNS9BNlNOUHh3RWcuanBlZykKCiBbIlNoYXJlZCBMb25lbGluZXNzIl0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvNDA1NjgxNzVATjA3LzQxMjM0NjA2NTcpIGJ5IFtWYXNzaWxlbmFdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzQwNTY4MTc1QE4wNykgaXMgbGljZW5zZWQgdW5kZXIgW0NDIEJZLU5DLVNBIDIuMCBdKGh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS1uYy1zYS8yLjAvP3JlZj1jY3NlYXJjaCZhdHlwZT1yaWNoKQoKTyBtb2RlbG8gZGUgc2VydmnDp28gb2ZlcmVjaWRvIHBlbG8gU0EgbXVpdGFzIHZlemVzIGxlbWJyYSBvIG1vZGVsbyBkZSAicHVsc29zIiBhIG1haXMgcXVlIHZvY8OqIHBhZ2F2YSBwb3IgdXNvIGEgZXhjZWRlbnRlIGRlIGludGVybmV0IG5vIGNvbWXDp28gZG9zIGFub3MgMjAwMDsgbm8gZmluYWwgZG8gbcOqcyB2b2PDqiBzYWJlIC0tIHRlbSBjZXJ0ZXphIC0tIHF1ZSB2YWkgYWNhYmFyIHBhZ2FuZG8gbyAiZXh0cmEiIGF0cmVsYWRvIGFvIHNldSBwYWNvdGUuCgojIyBBIGNvbXBldGnDp8OjbwoKPiBFbGEgw6kgaW5leGlzdGVudGUKCk8gc2lzdGVtYSBkZSBob3N0IG9mZXJ0YWRvIHBlbG8gc2hpbnlhcHBzIMOpICJvIG1lbGhvciIgbsOjbyBwb3IgbcOpcml0byBwcsOzcHJpbywgbWFzIHNpbSBwb3IgZmFsdGEgZGUgY29tcGV0acOnw6NvIHBhcmEgZXN0ZSBtZXJjYWRvLiBBIGlkZWlhIGRvIHBlc3NvYWwgZG8gU0Egw6kgdW0gc2lzdGVtYSAic2VydmVybGVzcyIgb25kZSB2b2PDqiBzw7MgbWFuZGEgbyBjw7NkaWdvIGUgZWxlcyBmYXplbSBlbGUgcm9kYXIuIEVzdGUgbW9kZWxvIGRlIHNlcnZpw6dvIGZleiBlIGZheiB2w6FyaWFzIGVtcHJlc2FzIGNyZXNjZXJlbSBubyBtZXJjYWRvIGFzc2ltIGNvbW86CgotIFtIZXJva3VdKGh0dHBzOi8vd3d3Lmhlcm9rdS5jb20vKQotIFtEaWdpdGFsT2NlYW5dKGh0dHBzOi8vd3d3LmRpZ2l0YWxvY2Vhbi5jb20vKQotIFtGaXJlYmFzZV0oaHR0cHM6Ly9maXJlYmFzZS5nb29nbGUuY29tLykKClRvZGF2aWEsIGVzc2FzIGVtcHJlc2FzIGNyZXNjZXJhbSBwZW5zYW5kbyBlbSByb2RhciBzZXJ2acOnb3MgSmF2YSwgTm9kZS5qcywgUnVieSwgUHl0aG9uIGUgZXRjLiBFbSBSICtTaGlueSBiYXNpY2FtZW50ZSBzw7MgYSBnYWxlcmEgZG8gU0EgcGVnYSBvIG1lcmNhZG8gY29tbyB1bSB0b2RvLgoKIyMjIERvY2tlcgoKIVsyMjE4NTg5MjcxXzIyOTIyYjMyYTdfby5qcGddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNTk0ODc2ODIxOTM0L2hLWFExdXRacC5qcGVnKQoKIFsiQ29udGFpbmVycyJdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzIxMjA0NjU2QE4wNS8yMjE4NTg5MjcxKSBieSBbc192b2xlbnN6a2ldKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzIxMjA0NjU2QE4wNSkgaXMgbGljZW5zZWQgdW5kZXIgW0NDIEJZLU5DIDIuMF0oaHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLzIuMC8/cmVmPWNjc2VhcmNoJmF0eXBlPXJpY2gpCgpDYXNvIHZvY8OqIHBhcnRhIHBhcmEgdW1hIGFib3JkYWdlbSBiYXNlYWRhIGVtIERvY2tlciwgcG9kZXLDoSB0ZXIgdW1hIHRlY25vbG9naWEgcXVlIGF0w6kgMjAyMiBzZXLDoSBhIGNvbHVuYSB2ZXJ0ZWJyYWwgZGUgbWFpcyBkZSA3NSUgZG9zIHNlcnZpw6dvcyBlbSBwcm9kdcOnw6NvOyBtYWlvciBhIGRlbWFuZGEsIG1haW9yIGEgb2ZlcnRhLCBtZW5vcmVzIHByZcOnb3MuIEFsZ3VucyBkYXMgZ3JhbmRlcyBlbXByZXNhcyBubyBjZW7DoXJpbyBzw6NvOgoKLSBbQXp1cmVdKGh0dHBzOi8vYXp1cmUubWljcm9zb2Z0LmNvbS9wdC1ici8pCi0gW0dvb2dsZSBDbG91ZCBQbGF0YWZvcm0gKEdDUCldKGh0dHBzOi8vY2xvdWQuZ29vZ2xlLmNvbS8pCi0gW0FtYXpvbiBXZWIgU2VydmljZXMgKEFXUyldKGh0dHBzOi8vYXdzLmFtYXpvbi5jb20vKQoKQWdvcmEsIGNvbSByZWxhw6fDo28gYXMgdmFudGFnZW5zIGRlIHNlIGVzY29saGVyIG8gRG9ja2VyOgoKLSBBIG3DoXF1aW5hIGRvIGRlc2VubHZvdmVkb3IsIG51dmVtIGUgYSBpbmZyYSBkbyBjbGllbnRlIGZhbGFtIGEgbWVzbWEgbMOtbmd1YSAtLSBuYWRhIG1haXMgZGUgIm1hcyBuYSBtaW5oYSBtw6FxdWluYSByb2RhIgotIE1lbm9zIGNvbnN1bW8gZGUgcmVjdXJzb3MsIG1lbm9zIGNvbnN1bW8gZGUgZW5lcmdpYSwgbWVub3MgaGFyZHdhcmUgcG90ZW50ZS4uLiBFbSBzdW1hOiBtZW5vcyBnYXN0b3MgZSwgZW0gYWxndW5zIGNhc29zLCBwb3IgMS8zIGRvIHByZcOnbyBhdHVhbAotIEZhY2lsaWRhZGUgZGUgYXR1YWxpemFyIGEgYXBsaWNhw6fDo28gc2VtIHF1ZWJyYXIgbyBob3N0IGUgdmljZS12ZXJzYQotIEFvIG1lc21vIHRlbXBvIHF1ZSBlbXBvZGVyYSBvIGRlc2VubHZvdmVkb3IsIGZsZXhpYmxpemEgYSB2aWRhIGRvIHRpbWUgZGEgaW5mcmEgcXVlIGZvciByb2RhciBvIHNpc3RlbWEgcG9ycXVlIGNvbnNlZ3VlbSB2ZXJpZmljYXIsIHZhbGlkYXIgZSBleGVjdXRhciB0dWRvIGNvbSBtYWlvciBuw612ZWwgZGUgc2VndXJhbsOnYSwgZGlzcG9uaWJpbGlkYWRlIGUgcmVkdW5kw6JuY2lhCi0gQ2FzbyB0ZW5oYSBxdWUgcG9ydGFyIHBhcmEgb3V0cm9zIGFtYmllbnRlcyBkZSBwcm9kdcOnw6NvIGNvbW8gVmlydHVhbCBNYWNoaW5lcyAoVk1zKSBvdSBhdMOpIG1lc21vIG8gU0EsIHZhaSBjb25zZWd1aXIgY29tIGZhY2lsaWRhZGUgcG9pcyBvIERvY2tlciByb2RhIGJhc2VhZG8gbm8gYERvY2tlcmZpbGVgIC0tIHVtIGFycXVpdm8gZGUgdGV4dG8gY29tIGEgbGlzdGFnZW0gZGUgZGVwZW5kw6puY2lhcyBkZSBzaXN0ZW1hCi0gZXRjCgpFc3RlcyBwcm92ZWRvcmVzIHBlcm1pdGVtIHF1ZSB2b2PDqiB0ZW0gdW1hIGdyYW51bGFyaWRhZGUsIGVtIG7DrXZlbCBkZSBpbmZyYSwgbXVpdG8gbWFpb3IgZSBwb3NzYSBzaW0gZmF6ZXIgYW7DoWxpc2UgZGVsYXMgbWFpcyBpbnRlbnNhcyBjb20gbyBbS3ViZXJuZXRlc10oI0t1YmVybmV0ZXMpLCBtZXNtbyBxdWUgdm9jw6ogc8OzIGVudmllIHVtIGBEb2NrZXJmaWxlYCBvdSB1bSBgZG9ja2VyLWNvbXBvc2UueW1sYCBwYXJhIGVsZXMsIG11aXRvIHByb3ZhdmVsbWVudGUgZWxlcyBlc3RhcsOjbyByb2RhbmRvIHVtIG9ycXVlc3RyYWRvciBjb21vIG8gY2l0YWRvIHBhcmEgZ2VyZW5jaWFyIHRvZG9zIG9zIHNlcnZpw6dvcyBkZSB0b2RvcyBvcyBjbGllbnRlcy4KCiMjIyBLdWJlcm5ldGVzCgo+IE7Do28gw6kgMTAwJSBkbyBtZXJjYWRvLCBtYXMgw6kgYSB0ZW5kw6puY2lhCgohWzI5MzU3OTAwNDQwX2U4NTk2NGEzNjhfby5qcGddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNTk0ODY4NTYzMjgyL3hpYjFoYkRlOS5qcGVnKQoKIFsiSSBSZW1lbWJlciBXaGVuIHRoZSBGdXR1cmUgd2FzIFVuZXZlbmx5IERpc3RyaWJ1dGVkIl0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvMzc5OTY2NDY4MDJATjAxLzI5MzU3OTAwNDQwKSBieSAgW2NvZ2RvZ2Jsb2ddKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzM3OTk2NjQ2ODAyQE4wMSkgaXMgbGljZW5zZWQgdW5kZXIgW0NDIEJZIDIuMF0oaHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LzIuMC8/cmVmPWNjc2VhcmNoJmF0eXBlPXJpY2gpIAoKU2Ugdm9jw6ogc3ViaXIgbmEgbnV2ZW0gb3UgYXTDqSBtZXNtbyByb2RhciBuYSBpbmZyYSBsb2NhbCwgS3ViZXJuZXRlcyDDqSBub3JtYWxtZW50ZSBvIG9ycXVlc3RyYWRvciBkZSBjb250YWluZXJzIHV0aWx6YWRvIHBhcmEgcG9kZXIgZ2VyaXIgb3MgcmVjdXJzb3MgY29tcGFydGlsaGFkb3MgZW50cmUgYXMgbcOhcXVpbmFzLiBDYXNvIHZvY8OqIGVzdGVqYSBubyBXaW5kb3dzIG91IE1hYywgZWxlIGrDoSB2ZW0gY29tIG8gc2V1IERvY2tlciBEZXNrdG9wLgoKKipUT0RBVklBKiouLi4gTsOjbyBkZXNlbmhlIHN1YSBhcGxpY2HDp8OjbyBwZW5zYW5kbyBkbyB6ZXJvIGNvbW8gdW0gKiJzZXJ2acOnbyBxdWUgZGV2YSBvdSBxdWUgdsOhIHJvZGFyIGVtIEt1YmVybmV0ZXMiKiwgY29tZW50byBpc3NvIHBvcnF1ZSBhcyBkb3JlcyBkZSBjYWJlw6dhIHF1ZSBmYXplciBxdWVyZXIgcm9kYXIgYWxnbyBubyBLdWJlcm5ldGVzIHF1ZSBuw6NvIHByZWNpc2Egb3UgcXVlIG7Do28gIiIiZGV2ZXJpYSIiIiByb2RhciBuZWxlLCBwb2RlIHRyYXplciBtYWlzIGRvcmVzIGRlIGNhYmXDp2EgZG8gcXVlIHJlc3Bvc3Rhcy4KCkNhc28gcXVlcmlhICJicmluY2FyIiBjb20gS3ViZXJuZXRlcyBlbSBjYXNhLCByZWNvbWVuZG8gY29tZcOnYXIgY29tIHVtICBbUmFuY2hlcl0oaHR0cHM6Ly9yYW5jaGVyLmNvbS8pIGUsIGBjb2luY2lkZW50ZW1lbnRlYCwgdG9kb3Mgb3MgbWV1cyB0ZXh0b3MgcG9zdGFkb3MgYXF1aSBhdMOpIGVudMOjbyB0ZSBwZXJtaXRlbSBmYXplciBpc3NvIGUgbmEgb3JkZW0gcXVlIGZvcmFtIHBvc3RhZG9zLiBBIHZhbnRhZ2VtIGRvIFJhbmNoZXIgw6kgcXVlIHNlamEgb24gY2xvdWQgZS9vdSBvbiBwcmVtaXNlLCB2b2PDqiBjb25zZWd1ZSBkZSBnZXJlbmNpYXIgZGUgbWFuZWlyYSBzaW1wbGVzIG9zIHNldXMgY2x1c3RlcnMuCgojIyBCYWl4YSBwZXJmb3JtYW5jZQoKQ29tbyBqw6EgY2l0YWRvIGFudGVyaW9ybWVudGUsIG8gW2BzaGlueWBdKGh0dHBzOi8vc2hpbnkucnN0dWRpby5jb20vKSBlbSBzaSBuw6NvIMOpIG8gZnJhbWV3b3JrIHBvdGVudGUgY29tbyB1bSBbYGV4cHJlc3NgIHBybyBOb2RlLmpzXShodHRwczovL2V4cHJlc3Nqcy5jb20vKSwgW2BIVUdPYCBwcm8gR29dKGh0dHBzOi8vZ29odWdvLmlvLyksIFtgRGphbmdvYCBwYXJhIG8gUHl0aG9uXShodHRwczovL3d3dy5kamFuZ29wcm9qZWN0LmNvbS8pIGUgZXRjLi4uIE1hcyBlc3RhIG7Do28gw6kgYSBpZGVpYSBkZWxlLCBudW5jYSBmb2kgZSwgcGVsbyBqZWl0bywgbnVuY2EgdmFpIHNlcjsgYSBpZGVpYSDDqSBwZXJtaXRpciBjb20gcXVlIHBlc3NvYXMgZGUgdW0gYWx0byBjb25oZWNpbWVudG8gdMOpY25pY28gZGUgb3V0cmFzIMOhcmVhcyBzZW0gc2VyIENpw6puY2lhcyBkYSBDb21wdXRhw6fDo28gdm9sdGFkYSBwYXJhIHdlYiBjb21vICoqUXXDrW1pY2EsIEbDrXNpY2EsIEVuZ2VuaGFyaWEgZSBldGMqKiwgY29uc2lnYW0gZmF6ZXIgdW0gc2lzdGVtYSB3ZWIgY29tcGxldG8uCgpDYXNvIHZvY8OqIGrDoSB0ZW5oYSB1bSBwcm9qZXRvIGVtIGBzaGlueWAsIHJvZGUgbmEgc3VhIG3DoXF1aW5hIC0tIGlkZXBlbmRlbnRlIGRlIERvY2tlciBvdSBuw6NvIC0tIGUgYWJyYSB1bSBuYXZlZ2Fkb3IgYmFzZWFkbyBlbSBDaHJvbWl1bSBwYXJhIHBvZGVyIHZlciBvIG91dHB1dCBkbyBbTGlnaHRob3VzZV0oaHR0cHM6Ly9kZXZlbG9wZXJzLmdvb2dsZS5jb20vd2ViL3Rvb2xzL2xpZ2h0aG91c2UpOgoKIVtpbWFnZTg5MS5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNTk0ODcwMTA3Nzc0L0xsMzMzZ0hnci5wbmcpCgpFc3RlIMOpIG8gb3V0cHV0IGRvIHByb2pldG8gW2BSICsgU2hpbnkgKyBNb25nbyArIERvY2tlcmBdKGh0dHBzOi8vZ2l0aHViLmNvbS9GYXplbmRhYWEvUlNNRCksIHF1ZSBiYXNpY2FtZW50ZSDDqSB1bSAiaGVsbG8sIHdvcmxkISIgZG9zIHByb2pldG9zIGNvbSBlc3RhIHN0YWNrIGUsIG1lc21vIGFzc2ltLCBhIHBlcmZvcm1hbmNlIGZvaSBiYWl4YS4KCkVzdGUgcG9udG8gcG9kZSBuw6NvIHNlciBpbXBvcnRhbnRlIHBhcmEgdGksIG1hcyBwYXJhIG11aXRhcyBwZXNzb2FzIHF1ZSB2w6NvIHRlciBxdWUgcm9kYXIgdGFpcyBzaXRlbWFzIGVtIHVtYSByZWRlIDNHIHBvZGUgc2VyIHVtIGdyYW5kZSBwcm9ibGVtYS4KCiMjIyBGbGV4aWJpbGlkYWRlCgpJbmRlcGVuZGVudGVtZW50ZSBkZSBvbmRlIGVzY29saGEgcm9kYXIgc3VhIGFwbGljYcOnw6NvLCBjYXNvIGEgZGVtYW5kYSBhdW1lbnRlLCBzZW1wcmUgc2UgbGVtYnJlIHF1ZSBub3JtYWxtZW50ZSBow6EgZG9pcyB0aXBvcyBkZSBzZSBhdW1lbnRhciBhIG9mZXJ0YSBwYXJhIHVtIHNpc3RlbWE6CgoxLiAqU2NhbGUgdXAqIC0tIGTDqiBtYWlzIHBvZGVyIGEgY2FkYSBpbnN0w6JuY2lhCjIuICpTY2FsZSBvdXQqIC0tIGluc3RhbmNpZSBtYWlzIHJlY3Vyc29zCgpDb21vIHNlbXByZSByZXNzYWx0YWRvIHBlbG8gZXhjZWxlbnRlIFtFbGVtYXIgSnJdKGh0dHBzOi8vdHdpdHRlci5jb20vZWxlbWFyanIpIG5vcyBwb2RjYXN0cywgdsOtZGVvcyBlIHRleHRvcyBkZWxlLCBhIGlkZWlhIGRlIHNlIHV0aWxpemFyIGEgcGFsYXZyYSAiZWxhc3RpY2lkYWRlIiBwYXJhIHJlcHJlc2VudGFyIGEgaWRlaWEgZGUgImVzY2FsYSIgZGUgdW1hIGFwbGljYcOnw6NvIMOpIGltcG9ydGFudGU7IGlzdG8gcG9ycXVlIG11aXRhIHBlc3NvYXMgcGVuc2FtIGVtIGVzY2FsYSBjb21vIHNlbmRvIGFsZ28gYXBlbmFzIGNvbSB1bSBjb2VmaWNpZW50ZSBtYWlvciBxdWUgdW0sIG91IHNlamEsIGNvbW8gc2UgYWxnbyBhcGVuYXMgY3Jlc2NlLiBBIHBhbGF2cmEgZWxhc3RpY2lkYWRlIG5lc3RlIGNvbnRleHRvIMOpIGltcG9ydGFudGUgcGFyYSBwb2RlciByZXByZXNlbnRhciBhIGlkZWlhIGRlIHVtYSBhcGxpY2HDp8OjbyBxdWUgY3Jlc2NlIHRhbWLDqW0gcG9kZSBzZXIgcmVkdXppZGEsIGVsYSDDqSAqZWzDoXN0aWNhKi4KClF1YWxxdWVyIHVtYSBkYXMgZHVhcyBhYm9yZGFnZW5zIHPDo28gY2xhcmFzIHBhcmEgcXVlbSB1dGlsaXphIHVtIHNpc3RlbWEgY2xvdWQgbmF0aXZlLCBzZSB2b2PDqiB1dGlsemEgYXBlbmFzIHVtIGNvbnRhaW5lciBuYSBudXZlbSBvdSBzZSB0ZW0gbyBzZXUgcHLDs3ByaW8gY2x1c3RlciBLdWJlcm5ldGVzIG9uIHByZW1pc2UuCgojIyBPbmRlIG8gZGlhYm8gbW9yYT8KCj4gTm9zIGRldGFsaGVzCgohWzI4MDA4MThfMGFlMWU5ODJiMl9vLmpwZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE1OTQ4Nzk5NjgzNjUvNkhLS21lMUVFLmpwZWcpCgogWyJDcm9zc3dhbGsgZGV2aWwiXShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy83MDk5MTg1NEBOMDAvMjgwMDgxOCkgYnkgW0FybGV0dGVdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzcwOTkxODU0QE4wMCkgaXMgbGljZW5zZWQgdW5kZXIgW0NDIEJZLU5DLVNBIDIuMCBdKGh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS1uYy1zYS8yLjAvP3JlZj1jY3NlYXJjaCZhdHlwZT1yaWNoKQoKUG9yIHNlIHRyYXRhciBkZSB1bSBzZXJ2acOnbyBjb20gcGFnYW1lbnRvIGVtIGTDs2xhciBhcGVuYXMgZXUgcG9zc28gaW5mZXJlaXIgY29tIGNlcnRvIG7DrXZlbCBkZSBzZWd1cmFuw6dhIHF1ZSBvIHNpc3RlbWEgbsOjbyBwb3NzdcOtIHNlcnZpZG9yZXMgbm8gUGHDrXMsIHBvciBpc3NvIHV0aWxpemVpIHRyw6pzIGVtcHJlc2FzIGRlIGV4ZW1wbG8gcXVlIHBvc3N1ZW0gc2Vydmlkb3JlcyBwb3IgYXF1aSBwZWxvcyBzZWd1aW50ZXMgcG9udG9zOgoKLSBQYcOtc2VzCi0gTGVpcwotIEltcG9zdG9zCi0gU3Vwb3J0ZQotIEV2ZW50b3MKLSBldGMKClZvbHRhbmRvLCBzZSB2b2PDqiBjaGVnb3UgYXTDqSBlc3TDoSBwYXJ0ZSBkbyB0ZXh0byBlIG7Do28gw6kgdW1hIGVtcHJlc2EsIGFsZ3XDqW0gcXVlIGxldmEgZmF6ZXIgU2hpbnkgYWzDqW0gcGFyYSBhcHJlbmRlciBjb21vIHJvZGFyIFNoaW55ICsgRG9ja2VyIC0tIHNlamEgcG9yIHByYXplciBvdSBzZW1pLXByb2Zpc3Npb25hbG1lbnRlIC0tLCBuw6NvIHPDo28gZXN0ZXMgcG9udG9zIGNpdGFkb3MgcXVlIHbDo28gdGUgZmF6ZXIgc2VudGlyIG5hIHBlbGUgZGUgcXVlbSBwb3IgbW90aXZvcyBwcmluY2lwYWxtZW50ZSBlbXByZXNhcmlhaXMgcGVuc2FyaWFtIG8gc2VndWludGUgYW8gbGVyIGNhZGEgdW0gZGVzc2VzIHTDs3BpY29zOgoKLSBQYcOtc2VzOiAqInNvdSB1bWEgZW1wcmVzYSBsb2NhbCBtYXMgcHJlY2lzbyBmYXplciBkZXBsb3kgcGFyYSB1bSBjbGllbnRlIG5hIMONbmRpYS4gQ29tbyB2YWkgZmljYXIgYSBsYXTDqm5jaWEgc2UgZXUgc3ViaXIgZW0gdW0gc2Vydmlkb3IgZm9yYSBkZSBsw6E/Li4uIioKLSBMZWlzOiAqImRldm8gbWUgcHJlb2N1cGFyIGNvbSBMR1BEL0dEUFI/Li4uIioKLSBJbXBvc3RvczogKiJ2b3UgcGFnYXIgb3MgaW1wb3N0b3MgZG8gY2FydMOjbyBkZSBjcsOpZGl0byBhcGVuYXM/IE1ldSBjbGllbnRlIHF1ZSBwYWdhIGVsZXM/IENvbW8gZmljYT8uLi4iKgotIFN1cG9ydGU6ICoiTWV1IHRpbWUgZGUgZGVzZW52b2x2ZWRvcmVzIG7Do28gZmFsYSBpbmdsw6pzLCBjb21vIG1ldSBmaWNhcmlhIHNlIHByZWNpc2FyYXJtb3MgZGUgYWp1ZGE/Li4uIioKLSBFdmVudG9zOiAqIlNoaW55IGV1IHNlaSBxdWUgdGVtIHVtYSBjb211bmlkYWRlIGZvcnRlLiBNYXMgZXhpc3RlIGRvY3VtZW50YcOnw6NvIGJvYSBwYXJhIG8gc2hpbnlhcHAuaW8/IEUgZW0gcG9ydHVndcOqcz8uLi4iKgotIGV0YzogKiJxdWFpcyBtYWlzIGNvaXNhcyBxdWUgZWxlIG7Do28gZmFsb3UgcXVlIHPDo28gaW1wb3J0YW50ZXM/Li4uIioKCiMjICJOw6NvIGjDoSBhbG1vw6dvIGRlIGdyYcOnYSIKCkVtIHN1bWEsIG1haXMgZG8gcXVlIGNoZWdhciBlbSB1bWEgImNvbmNsdXPDo28iICpwZXIgc2UqLCBtYXMgc2ltIGxldmFudGFyIHBvbnRvcyBjb21vOgoKLSBFeGlzdGVtIG91dHJhcyBwb3NzaWJpbGlkYWRlcwotIEjDoSBjb21vIHNlIGNoZWdhciBhbyBtZXNtbyByZXN1bHRhZG8gZGVzZW5oYWRvIGRlIGZvcm1hcyBkaWZlcmVudGVzIG9zIGNhbWluaG9zCi0gTGV2YW50YXIgbyBhdmlzbyBxdWUgY29tIGEgb2ZlcnRhIGRlIERvY2tlciBzdWJpbmRvLCB2b2PDqiBwb2RlIHNhbHZhciBnYXN0b3MKLSBFdml0YXIgcHJvY2Vzc29zIGN1c3Rvc29zIGNvbW8gcG9ydHMgZGUgYXBsaWNhw6fDtWVzCi0gZXRjCgpNZXNtbyBzZSB0dWRvIGxldmFudGFkbyBuw6NvIGZpemVyIHNlbnRpZG8gcGFyYSB0aSwgdHVkbyBiZW0sIHN1YSBhcGxpY2HDp8OjbyBwb2RlIHNlciBxdWUgbsOjbyBzZSBlbmNhaXhlIG5vcyBtb2xkZXMgYXByZXNlbnRhZG9zLCBzw7MgaXNzby4KCiFbMTUzOTE0NDA3ODBfNWFjZDI1YzYxM19vLmpwZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE1OTQ4ODA3Nzg2MTcvS0pheVlYREFyLmpwZWcpCgogWyJTY2FsZXMiXShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy80OTUwMjk4NTU2OEBOMDEvMTUzOTE0NDA3ODApIGJ5IFtIdWdvIV0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvNDk1MDI5ODU1NjhATjAxKSBpcyBsaWNlbnNlZCB1bmRlciBbQ0MgQlktTkMtU0EgMi4wXShodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnktbmMtc2EvMi4wLz9yZWY9Y2NzZWFyY2gmYXR5cGU9cmljaCkgCgojIyBBcMOqbmRpY2UKCkNvbW8gc2VtcHJlLCBwcm9jdXJvIHNlciBicmV2ZSBub3MgdGV4dG9zLCBtYXMgZ29zdGFyaWEgZGUgbGV2YW50YXIgb3V0cm9zIHBvbnRvcyBhIHNlcmVtIGNvbnNpZGVyYWRvczoKCi0gTsOjbyBow6EgdW0gU2VydmljZSBMZXZlbCBBZ3JlZW1lbnQgKFNMQSkgZmFjaWxtZW50ZSBlbmNvbnRyYWRvIG5hIHDDoWdpbmEgZGUgcHJlw6dvcyBkbyBTQSwgb3Mgb3V0cm9zIHNlcnZpw6dvcyBub3JtYWxtZW50ZSBkZWl4YXZhbSBjbGFybyBpc3RvIG5lbGEgb3UgZW0gb3V0cmEgcGFydGUgZG8gc2l0ZQoKLSBOw6NvIHF1ZWJyZWkgZGUgcHJvcMOzc2l0byBvcyBwcmXDp29zIGRlIG51dmVtIGRhIEF6dXJlLCBkbyBHQ1AgZSBBV1MgcG9ycXVlIG11aXRhcyB2ZXplcyBlc3NhcyBlbXByZXNhcyBvZmVydGFtIHBsYW5vcyBwZXJzb25hbGl6YWRvcyBwYXJhIGNhZGEgY2xpZW50ZSwgYWluZGEgbWFpcyBzZSB2b2PDqiBqw6EgYXMgdXRpbGl6ZSBhdHVhbG1lbnRlIC0tIHVtIE9mZmljZSAzNjUgb3UgdW0gRyBTdWl0ZQoKLSBBUk0gc3Vwb3J0ZT8gUklTQy1WIHN1cG9ydGU/IC0tIHPDsyBxdWVyZW5kbyBzZXIgYmFiYWNhIGFxdWkgbWVzbW8sIG1hcyBzw6NvIGR1YXMgY29pc2FzIHF1ZSBldSBtZSBwcmVvY3VwbyBuYXMgcHLDs3hpbWFzIGR1YXMgZMOpY2FkYXMKCi0gQVBJcyBjb21vIGFzIGRvIEdvb2dsZSBlIEF6dXJlIGRlIGFuw6FsaXNlIGRlIGRhZG9zLCBtYXBhcywgY29tcHJlc3PDo28gZGUgYXJxdWl2b3MgZSBldGMKCi0gQ2FzbyBxdWVyaWEgaXIgYSBmdW5kbyBlbSBzdWJpciBTaGlueSArIERvY2tlciArIEt1YmVybmV0ZXM6CgogICAgSS4gW0NvbmZpZ3VyYW5kbyBSYW5jaGVyIGVtIHVtIEFSTV0oaHR0cHM6Ly9mYXplbmRhLmhhc2hub2RlLmRldi9jb25maWd1cmFuZG8tcmFuY2hlci1lbS11bS1hcm0tY2tidm5hZDd1MDA3NmM3czFkbGpuZnduZikKCiAgICBJSS4gW0NvbW8gZGlzdHJpYnVpciBjw7NkaWdvIHBhcmEgcm9kYXIgZW0gZGl2ZXJzYXMgYXJxdWl0ZXR1cmFzPyBSOiBEb2NrZXIgYnVpbGR4XShodHRwczovL2ZhemVuZGEuaGFzaG5vZGUuZGV2L2NvbW8tZGlzdHJpYnVpci1jb2RpZ28tcGFyYS1yb2Rhci1lbS1kaXZlcnNhcy1hcnF1aXRldHVyYXMtci1kb2NrZXItYnVpbGR4LWNrYzVpM29najAwYmxscHMxMHpubmJ5aW8pCgogICAgSUlJLiBbTnV2ZW0gZGUgdGVyY2Vpcm9zIHF1YW5kbyB2b2PDqiBwb2RlIHRlciBhIHN1YSBwcsOzcHJpYSBlbSBjYXNhIGNvbSBvIGNsaXF1ZSBkZSB1bSBib3TDo28/XShodHRwczovL2ZhemVuZGEuaGFzaG5vZGUuZGV2L251dmVtLWRlLXRlcmNlaXJvcy1xdWFuZG8tdm9jZS1wb2RlLXRlci1hLXN1YS1wcm9wcmlhLWVtLWNhc2EtY29tLW8tY2xpcXVlLWRlLXVtLWJvdGFvLWNrY2NwYmU1azAwNXNxZ3MxOGU4OWg0aWspCgogICAgSVYuIFtBbsOhbGlzZSBkZSBkYWRvcyArIFNpdGUgKyBCYW5jbyBkZSBEYWRvcz8gVHVkbyBubyBpc3NvIHNldSBQQyBlIHNlbSBwcmVjaXNhciBpbnN0YWxhciBvIFIsIFNoaW55IGUgbyBNb25nb10oaHR0cHM6Ly9mYXplbmRhLmhhc2hub2RlLmRldi9hbmFsaXNlLWRlLWRhZG9zLXNpdGUtYmFuY28tZGUtZGFkb3MtdHVkby1uby1pc3NvLXNldS1wYy1lLXNlbS1wcmVjaXNhci1pbnN0YWxhci1vLXItc2hpbnktZS1vLW1vbmdvLWNrY2Z3anozODAwNThrbnMxM295ZThmMDMpCgotIFZvdSBjb2xvY2FyIHVtcyBzY3JpcHRzIHBhcmEgc3ViaXIgYSBkZW1vIGRlIFtgUiArIFNoaW55ICsgTW9uZ28gKyBEb2NrZXJgXShodHRwczovL2dpdGh1Yi5jb20vRmF6ZW5kYWFhL1JTTUQpIG5vIGRpZmVyZW50ZXMgY2xvdWQgcHJvdmlkZXJzIGNpdGFkb3MuIFNlIGV1IG7Do28gZml6ZXIgYSB0ZW1wbyBvdSB2b2PDqiBxdWlzZXIgcXVlIGV1IGZhw6dhIHRlc3RlcyBlbSBhbGd1bSBjaXRhZG8sIGZpcXVlIGEgdm9udGFkZSBwYXJhIGFicmlyIHVtIFB1bGwgUmVxdWVzdCAoUFIpIHBlZGluZG8gb3UgZmlxdWUgYSB2b250YWRlIHBhcmEgdm9jw6ogbWVzbW8gc3ViaXIgZWxlIDopCgotIE7Do28gZm9pIGNpdGFkbyBwb3JxdWUgYWluZGEgcHJldGVuZG8gZXNjcmV2ZXIgc29iciBJbnRlZ3Jhw6fDo28gQ29udMOtbnVhIGUgRW50cmVnYSBDb250w61udWEgY29tIGEgc3RhY2sgUlNNRCBtYWlzIHBhcmEgZnJlbnRlLiBFc3RlIMOpIHVtIHBvbnRvIGltcG9ydGFudGUgYWluZGEgbWFpcyBwb3IgW211bHRpLXN0YWdlIGJ1aWxkaW5nc10oaHR0cHM6Ly9kb2NzLmRvY2tlci5jb20vZGV2ZWxvcC9kZXZlbG9wLWltYWdlcy9tdWx0aXN0YWdlLWJ1aWxkLykKCiMjIFJlZmVyw6puY2lhcwoKLSBbc2hpbnlhcHBzLmlvXShodHRwczovL3d3dy5zaGlueWFwcHMuaW8vI3ByaWNpbmcpCi0gW0t1YmVybmV0ZXMgYW5kIENvbnRhaW5lciBTZWN1cml0eSBhbmQgQWRvcHRpb24gVHJlbmRzXShodHRwczovL3d3dy5zdGFja3JveC5jb20va3ViZXJuZXRlcy1hZG9wdGlvbi1hbmQtc2VjdXJpdHktdHJlbmRzLWFuZC1tYXJrZXQtc2hhcmUtZm9yLWNvbnRhaW5lcnMvKQotIFtLdWJlcm5ldGVzIGlzIE5vdyBBdmFpbGFibGUgSW4gRG9ja2VyIERlc2t0b3AgU3RhYmxlIENoYW5uZWxdKGh0dHBzOi8vd3d3LmRvY2tlci5jb20vYmxvZy9rdWJlcm5ldGVzLWlzLW5vdy1hdmFpbGFibGUtaW4tZG9ja2VyLWRlc2t0b3Atc3RhYmxlLWNoYW5uZWwvKQotIFthd2Vzb21lLXNlcnZlcmxlc3NdKGh0dHBzOi8vZ2l0aHViLmNvbS9hbmFpYm9sL2F3ZXNvbWUtc2VydmVybGVzcykKLSBbNiBCZXN0IFByYWN0aWNlcyBmb3IgQ3JlYXRpbmcgYSBDb250YWluZXIgUGxhdGZvcm0gU3RyYXRlZ3ldKGh0dHBzOi8vd3d3LmdhcnRuZXIuY29tL3NtYXJ0ZXJ3aXRoZ2FydG5lci82LWJlc3QtcHJhY3RpY2VzLWZvci1jcmVhdGluZy1hLWNvbnRhaW5lci1wbGF0Zm9ybS1zdHJhdGVneS8pCi0gW01pY3Jvc3NlcnZpY29zIEt1YmVybmV0ZXMgZSBTUkUgbm8gR3ltcGFzc10oaHR0cHM6Ly9oaXBzdGVycy50ZWNoL21pY3Jvc3NlcnZpY29zLWt1YmVybmV0ZXMtZS1zcmUtbm8tZ3ltcGFzcy1oaXBzdGVycy1vbi10aGUtcm9hZC0yOS8pCi0gW0TDqWJpdG8gVMOpY25pY28gbmEgUXVlcm8gRWR1Y2HDp8Ojb10oaHR0cHM6Ly9oaXBzdGVycy50ZWNoL2RlYml0by10ZWNuaWNvLW5hLXF1ZXJvLWVkdWNhY2FvLWhpcHN0ZXJzLW9uLXRoZS1yb2FkLTI3LykKLSBbQW1hem9uIEVDMiBDNmcgYW5kIFI2ZyBpbnN0YW5jZXMgcG93ZXJlZCBieSBBV1MgR3Jhdml0b24yIHByb2Nlc3NvcnMgYXJlIG5vdyBnZW5lcmFsbHkgYXZhaWxhYmxlXShodHRwczovL2F3cy5hbWF6b24uY29tL2Fib3V0LWF3cy93aGF0cy1uZXcvMjAyMC8wNi9hbWF6b24tZWMyLWM2Zy1yNmctaW5zdGFuY2VzLWFtYXpvbi1ncmF2aXRvbjItcHJvY2Vzc29ycy1nZW5lcmFsbHktYXZhaWxhYmxlLykKCg==
+# Cansado de pagar caro com o shinyapps.io? Nada mais de 'vendor lock-in'
+
+foto de capa:  ["Free as in Reflection"](https://www.flickr.com/photos/37996646802@N01/28913995283) by [cogdogblog](https://www.flickr.com/photos/37996646802@N01) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich)
+
+> BYOD... "Bring Your Own Docker"
+
+Com US$: 39 por mês -- aproximadamente R$: 209.39 segundo o Google enquanto esta matéria é escrita -- você pode ter:
+
+- **APENAS** 500 horas de serviço por mês -- quase 21 dias se você tiver apenas **UMA APLICAÇÃO** rodando 24h, 7 dias por semana
+- "Premium" **E-MAIL** suporte -- ou seja, nada de um chat no site deles caso sua aplicação fique fora do ar sábado às 7h AM
+- *Vendor lock-in* -- o que basicamente significa que você tem dificuldade de sair do sistema deles para outras soluções
+
+![3212174290_51c9d529ea_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1594863053049/ntBxScRmV.jpeg)
+
+ ["Snow day"](https://www.flickr.com/photos/65772999@N00/3212174290) by [indigo_veil](https://www.flickr.com/photos/65772999@N00) is licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=rich)
+
+Antes de continuar, se você se sente confortável com tudo isto e não se sente "ultrajado" por tais termos, por favor, este texto não é para você. Alguns pontos que quero mostrar são os seguintes:
+
+- A plataforma é cara para o que entrega
+- Caso amanhã ou depois o sistema tenha que rodar na infra de um cliente, provavelmente terá dores de cabeça para fazer funcionar
+- Falta de um "analytics" avançado do sistema rodando
+
+E só um lembrete: não conheço as pessoas que trabalham na empresa nem tenho nada contra elas e/ou a empresa em si -- não dúvido que seja um lugar incrível para seus clientes e talvez até ótimo para os funcionários --; a ideia deste texto é evitar com que você gaste dinheiro desnecessariamente, seja para fazer ele rodar quando a aplicação crescer ou até mesmo com o port dela para rodar em outro tipo de infra depois.
+
+Assim como você pode usar muitas vezes uma chave de fenda no lugar de uma Philips, tudo bem, isto funciona... *"Mas você deveria fazer isso?"* R: em ambos os casos uma hora vai espanar.
+
+Como [esta palestra](https://youtu.be/Wy3TY0gOmJw) mostra belamente, muitos problemas ao usar o framework em si são """crônicos""" dele e não de onde você roda sua aplicação.
+
+Se você só tem que rodar uma demo de alguns dias ou até mesmo um projeto de faculdade/pesquisa, por favor vá em frente e use sim o [shinyapps](shinyapps.io) (SA); do contrário, aproveite o texto.
+
+## Os tiers
+
+![3505700025_2c5095208a_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1594863313390/EvSfkLOhb.jpeg)
+
+ ["On the Level"](https://www.flickr.com/photos/22375189@N08/3505700025) by [aaronHwarren](https://www.flickr.com/photos/22375189@N08) is licensed under [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/?ref=ccsearch&atype=rich)
+
+I. Caso o seu caso de uso seja realmente um 'hobbyista', a galera do SA possue uma oferta gratuita que te permite subir até cinco aplicações durante 25h por mês.
+
+II. Caso as 25h não sejam o suficiente, você pode ter até 100h e 25 aplicações por US$: 9,00 --aproxiamadamente R$: 48.34 -- por mês
+
+III. A opção citada no começo do texto te permite um número ilimitado de aplicações. Mesmo que se você rodar as 25 limitantes da úlima opção, com as 500h disponíveis, você teria menos de 9h por mês para cada aplicação ficar online
+
+O plano *Basic* que é o citado no terceiro item é o que aparece em destaque na página do SA, mas ainda há dois planos "superiores" à ele.
+
+IV. Por US$: 99 -- aproximadamente R$: 531.61 -- por mês o sistema sobe para 2 000h, o que são aproximadamente 3 dias apenas caso ainda tenha as 25 aplicações rodando por mês
+
+V. E por US$: 299 -- aproximadamente R$: 1,605.56 -- por mês o sistema sobe para 10 000h, o que seria "meio" mês para as mesmas 25 aplicações
+
+Um ponto importante, principalmente para quem vai colocar uma aplicação em produção, é que mesmo nas duas últimas opções **o suporte ainda é por e-mail.**
+
+Seguindo a ideia de *"The Good, The Bad  and The Ugly"*:
+
+- Good: I
+- Bad: II
+- Ugly: III, IV, V
+
+![4123460657_48b42d2441_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1594862782025/A6SNPxwEg.jpeg)
+
+ ["Shared Loneliness"](https://www.flickr.com/photos/40568175@N07/4123460657) by [Vassilena](https://www.flickr.com/photos/40568175@N07) is licensed under [CC BY-NC-SA 2.0 ](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=rich)
+
+O modelo de serviço oferecido pelo SA muitas vezes lembra o modelo de "pulsos" a mais que você pagava por uso a excedente de internet no começo dos anos 2000; no final do mês você sabe -- tem certeza -- que vai acabar pagando o "extra" atrelado ao seu pacote.
+
+## A competição
+
+> Ela é inexistente
+
+O sistema de host ofertado pelo shinyapps é "o melhor" não por mérito próprio, mas sim por falta de competição para este mercado. A ideia do pessoal do SA é um sistema "serverless" onde você só manda o código e eles fazem ele rodar. Este modelo de serviço fez e faz várias empresas crescerem no mercado assim como:
+
+- [Heroku](https://www.heroku.com/)
+- [DigitalOcean](https://www.digitalocean.com/)
+- [Firebase](https://firebase.google.com/)
+
+Todavia, essas empresas cresceram pensando em rodar serviços Java, Node.js, Ruby, Python e etc. Em R +Shiny basicamente só a galera do SA pega o mercado como um todo.
+
+### Docker
+
+![2218589271_22922b32a7_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1594876821934/hKXQ1utZp.jpeg)
+
+ ["Containers"](https://www.flickr.com/photos/21204656@N05/2218589271) by [s_volenszki](https://www.flickr.com/photos/21204656@N05) is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=rich)
+
+Caso você parta para uma abordagem baseada em Docker, poderá ter uma tecnologia que até 2022 será a coluna vertebral de mais de 75% dos serviços em produção; maior a demanda, maior a oferta, menores preços. Alguns das grandes empresas no cenário são:
+
+- [Azure](https://azure.microsoft.com/pt-br/)
+- [Google Cloud Plataform (GCP)](https://cloud.google.com/)
+- [Amazon Web Services (AWS)](https://aws.amazon.com/)
+
+Agora, com relação as vantagens de se escolher o Docker:
+
+- A máquina do desenlvovedor, nuvem e a infra do cliente falam a mesma língua -- nada mais de "mas na minha máquina roda"
+- Menos consumo de recursos, menos consumo de energia, menos hardware potente... Em suma: menos gastos e, em alguns casos, por 1/3 do preço atual
+- Facilidade de atualizar a aplicação sem quebrar o host e vice-versa
+- Ao mesmo tempo que empodera o desenlvovedor, flexibliza a vida do time da infra que for rodar o sistema porque conseguem verificar, validar e executar tudo com maior nível de segurança, disponibilidade e redundância
+- Caso tenha que portar para outros ambientes de produção como Virtual Machines (VMs) ou até mesmo o SA, vai conseguir com facilidade pois o Docker roda baseado no `Dockerfile` -- um arquivo de texto com a listagem de dependências de sistema
+- etc
+
+Estes provedores permitem que você tem uma granularidade, em nível de infra, muito maior e possa sim fazer análise delas mais intensas com o [Kubernetes](#Kubernetes), mesmo que você só envie um `Dockerfile` ou um `docker-compose.yml` para eles, muito provavelmente eles estarão rodando um orquestrador como o citado para gerenciar todos os serviços de todos os clientes.
+
+### Kubernetes
+
+> Não é 100% do mercado, mas é a tendência
+
+![29357900440_e85964a368_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1594868563282/xib1hbDe9.jpeg)
+
+ ["I Remember When the Future was Unevenly Distributed"](https://www.flickr.com/photos/37996646802@N01/29357900440) by  [cogdogblog](https://www.flickr.com/photos/37996646802@N01) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich) 
+
+Se você subir na nuvem ou até mesmo rodar na infra local, Kubernetes é normalmente o orquestrador de containers utilzado para poder gerir os recursos compartilhados entre as máquinas. Caso você esteja no Windows ou Mac, ele já vem com o seu Docker Desktop.
+
+**TODAVIA**... Não desenhe sua aplicação pensando do zero como um *"serviço que deva ou que vá rodar em Kubernetes"*, comento isso porque as dores de cabeça que fazer querer rodar algo no Kubernetes que não precisa ou que não """deveria""" rodar nele, pode trazer mais dores de cabeça do que respostas.
+
+Caso queria "brincar" com Kubernetes em casa, recomendo começar com um  [Rancher](https://rancher.com/) e, `coincidentemente`, todos os meus textos postados aqui até então te permitem fazer isso e na ordem que foram postados. A vantagem do Rancher é que seja on cloud e/ou on premise, você consegue de gerenciar de maneira simples os seus clusters.
+
+## Baixa performance
+
+Como já citado anteriormente, o [`shiny`](https://shiny.rstudio.com/) em si não é o framework potente como um [`express` pro Node.js](https://expressjs.com/), [`HUGO` pro Go](https://gohugo.io/), [`Django` para o Python](https://www.djangoproject.com/) e etc... Mas esta não é a ideia dele, nunca foi e, pelo jeito, nunca vai ser; a ideia é permitir com que pessoas de um alto conhecimento técnico de outras áreas sem ser Ciências da Computação voltada para web como **Química, Física, Engenharia e etc**, consigam fazer um sistema web completo.
+
+Caso você já tenha um projeto em `shiny`, rode na sua máquina -- idependente de Docker ou não -- e abra um navegador baseado em Chromium para poder ver o output do [Lighthouse](https://developers.google.com/web/tools/lighthouse):
+
+![image891.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1594870107774/Ll333gHgr.png)
+
+Este é o output do projeto [`R + Shiny + Mongo + Docker`](https://github.com/Fazendaaa/RSMD), que basicamente é um "hello, world!" dos projetos com esta stack e, mesmo assim, a performance foi baixa.
+
+Este ponto pode não ser importante para ti, mas para muitas pessoas que vão ter que rodar tais sitemas em uma rede 3G pode ser um grande problema.
+
+### Flexibilidade
+
+Independentemente de onde escolha rodar sua aplicação, caso a demanda aumente, sempre se lembre que normalmente há dois tipos de se aumentar a oferta para um sistema:
+
+1. *Scale up* -- dê mais poder a cada instância
+2. *Scale out* -- instancie mais recursos
+
+Como sempre ressaltado pelo excelente [Elemar Jr](https://twitter.com/elemarjr) nos podcasts, vídeos e textos dele, a ideia de se utilizar a palavra "elasticidade" para representar a ideia de "escala" de uma aplicação é importante; isto porque muita pessoas pensam em escala como sendo algo apenas com um coeficiente maior que um, ou seja, como se algo apenas cresce. A palavra elasticidade neste contexto é importante para poder representar a ideia de uma aplicação que cresce também pode ser reduzida, ela é *elástica*.
+
+Qualquer uma das duas abordagens são claras para quem utiliza um sistema cloud native, se você utilza apenas um container na nuvem ou se tem o seu próprio cluster Kubernetes on premise.
+
+## Onde o diabo mora?
+
+> Nos detalhes
+
+![2800818_0ae1e982b2_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1594879968365/6HKKme1EE.jpeg)
+
+ ["Crosswalk devil"](https://www.flickr.com/photos/70991854@N00/2800818) by [Arlette](https://www.flickr.com/photos/70991854@N00) is licensed under [CC BY-NC-SA 2.0 ](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=rich)
+
+Por se tratar de um serviço com pagamento em dólar apenas eu posso infereir com certo nível de segurança que o sistema não possuí servidores no País, por isso utilizei três empresas de exemplo que possuem servidores por aqui pelos seguintes pontos:
+
+- Países
+- Leis
+- Impostos
+- Suporte
+- Eventos
+- etc
+
+Voltando, se você chegou até está parte do texto e não é uma empresa, alguém que leva fazer Shiny além para aprender como rodar Shiny + Docker -- seja por prazer ou semi-profissionalmente --, não são estes pontos citados que vão te fazer sentir na pele de quem por motivos principalmente empresariais pensariam o seguinte ao ler cada um desses tópicos:
+
+- Países: *"sou uma empresa local mas preciso fazer deploy para um cliente na Índia. Como vai ficar a latência se eu subir em um servidor fora de lá?..."*
+- Leis: *"devo me preocupar com LGPD/GDPR?..."*
+- Impostos: *"vou pagar os impostos do cartão de crédito apenas? Meu cliente que paga eles? Como fica?..."*
+- Suporte: *"Meu time de desenvolvedores não fala inglês, como meu ficaria se precisararmos de ajuda?..."*
+- Eventos: *"Shiny eu sei que tem uma comunidade forte. Mas existe documentação boa para o shinyapp.io? E em português?..."*
+- etc: *"quais mais coisas que ele não falou que são importantes?..."*
+
+## "Não há almoço de graça"
+
+Em suma, mais do que chegar em uma "conclusão" *per se*, mas sim levantar pontos como:
+
+- Existem outras possibilidades
+- Há como se chegar ao mesmo resultado desenhado de formas diferentes os caminhos
+- Levantar o aviso que com a oferta de Docker subindo, você pode salvar gastos
+- Evitar processos custosos como ports de aplicações
+- etc
+
+Mesmo se tudo levantado não fizer sentido para ti, tudo bem, sua aplicação pode ser que não se encaixe nos moldes apresentados, só isso.
+
+![15391440780_5acd25c613_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1594880778617/KJayYXDAr.jpeg)
+
+ ["Scales"](https://www.flickr.com/photos/49502985568@N01/15391440780) by [Hugo!](https://www.flickr.com/photos/49502985568@N01) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=rich) 
+
+## Apêndice
+
+Como sempre, procuro ser breve nos textos, mas gostaria de levantar outros pontos a serem considerados:
+
+- Não há um Service Level Agreement (SLA) facilmente encontrado na página de preços do SA, os outros serviços normalmente deixavam claro isto nela ou em outra parte do site
+
+- Não quebrei de propósito os preços de nuvem da Azure, do GCP e AWS porque muitas vezes essas empresas ofertam planos personalizados para cada cliente, ainda mais se você já as utilize atualmente -- um Office 365 ou um G Suite
+
+- ARM suporte? RISC-V suporte? -- só querendo ser babaca aqui mesmo, mas são duas coisas que eu me preocupo nas próximas duas décadas
+
+- APIs como as do Google e Azure de análise de dados, mapas, compressão de arquivos e etc
+
+- Caso queria ir a fundo em subir Shiny + Docker + Kubernetes:
+
+    I. [Configurando Rancher em um ARM](https://fazenda.hashnode.dev/configurando-rancher-em-um-arm-ckbvnad7u0076c7s1dljnfwnf)
+
+    II. [Como distribuir código para rodar em diversas arquiteturas? R: Docker buildx](https://fazenda.hashnode.dev/como-distribuir-codigo-para-rodar-em-diversas-arquiteturas-r-docker-buildx-ckc5i3ogj00bllps10znnbyio)
+
+    III. [Nuvem de terceiros quando você pode ter a sua própria em casa com o clique de um botão?](https://fazenda.hashnode.dev/nuvem-de-terceiros-quando-voce-pode-ter-a-sua-propria-em-casa-com-o-clique-de-um-botao-ckccpbe5k005sqgs18e89h4ik)
+
+    IV. [Análise de dados + Site + Banco de Dados? Tudo no isso seu PC e sem precisar instalar o R, Shiny e o Mongo](https://fazenda.hashnode.dev/analise-de-dados-site-banco-de-dados-tudo-no-isso-seu-pc-e-sem-precisar-instalar-o-r-shiny-e-o-mongo-ckcfwjz380058kns13oye8f03)
+
+- Vou colocar ums scripts para subir a demo de [`R + Shiny + Mongo + Docker`](https://github.com/Fazendaaa/RSMD) no diferentes cloud providers citados. Se eu não fizer a tempo ou você quiser que eu faça testes em algum citado, fique a vontade para abrir um Pull Request (PR) pedindo ou fique a vontade para você mesmo subir ele :)
+
+- Não foi citado porque ainda pretendo escrever sobr Integração Contínua e Entrega Contínua com a stack RSMD mais para frente. Este é um ponto importante ainda mais por [multi-stage buildings](https://docs.docker.com/develop/develop-images/multistage-build/)
+
+## Referências
+
+- [shinyapps.io](https://www.shinyapps.io/#pricing)
+- [Kubernetes and Container Security and Adoption Trends](https://www.stackrox.com/kubernetes-adoption-and-security-trends-and-market-share-for-containers/)
+- [Kubernetes is Now Available In Docker Desktop Stable Channel](https://www.docker.com/blog/kubernetes-is-now-available-in-docker-desktop-stable-channel/)
+- [awesome-serverless](https://github.com/anaibol/awesome-serverless)
+- [6 Best Practices for Creating a Container Platform Strategy](https://www.gartner.com/smarterwithgartner/6-best-practices-for-creating-a-container-platform-strategy/)
+- [Microsservicos Kubernetes e SRE no Gympass](https://hipsters.tech/microsservicos-kubernetes-e-sre-no-gympass-hipsters-on-the-road-29/)
+- [Débito Técnico na Quero Educação](https://hipsters.tech/debito-tecnico-na-quero-educacao-hipsters-on-the-road-27/)
+- [Amazon EC2 C6g and R6g instances powered by AWS Graviton2 processors are now generally available](https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ec2-c6g-r6g-instances-amazon-graviton2-processors-generally-available/)
+
