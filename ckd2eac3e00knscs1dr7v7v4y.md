@@ -1,1 +1,86 @@
-IyMgJ05vdmEgQWJhJyB1bml2ZXJzYWwsIGVtIHF1YWxxdWVyIGFwYXJlbGhvIGUgbmF2ZWdhZG9yCgo+IFVuYSBTYWx1cyBWaWN0aXMgTnVsbGFtIFNwZXJhcmUgU2FsdXRlbSAtIChWaXJnaWwgLSAxOSBBQykKCmZvdG8gZGUgY2FwYTogWyJJTUdfNTA1MiJdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzM1ODQyMzYyQE4wMy80NDMyMTk2NjQwKSBieSBbRnIgSmFtZXMgQnJhZGxleV0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvMzU4NDIzNjJATjAzKSBpcyBsaWNlbnNlZCB1bmRlciBbQ0MgQlktTkQgMi4wXShodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnktbmQvMi4wLz9yZWY9Y2NzZWFyY2gmYXR5cGU9cmljaCkKCkFzc2ltIGNvbW8gdW1hIGJpYmxpb3RlY2EgdGVtIHN1YXMgbWFuZWlyYXMgbWFuZWlyYXMgZGUgc2Ugb3JnYW5pemFyLCBow6EgbWFuZWlyYXMgZGUgb3JnYW5pemFyIG8gY29udGXDumRvIGNvbnN1bWlkbyByZWNvcnJlbnRlbWVudGUgbmEgaW50ZXJuZXQuIFZvY8OqIHBvZGUgdXNhciBmYXZvcml0b3MsIGRlaXhhciBhcyBhYmFzIGFiZXJ0YXMgY29sb2NhbmRvIG8gbmF2ZWdhZG9yIHBhcmEgaW5pY2lhbGl6YXIgZGUgb25kZSBwYXJvdSwgY29sb2NhciBlbGFzIGFzIHDDoWdpbmFzIGZpeGFkYXMgZW0gY2FyZHMgbmEgIm5vdmEgYWJhIiBlIGV0Yy4uLiBBIHByaW1laXJhIGUgYSDDumx0aW1hIHPDo28gZsOhY2VpcyBkZSBzaW5jcm9uaXphciBlbnRyZSBhcGFyZWxob3MgZGlmZXJlbnRlcyAtLSBzZWphIHVtIHRhYmxldCwgY2VsdWxhciBvdSBjb21wdXRhZG9yIC0tIGrDoSBhIHNlZ3VuZGEgbmVtIHRhbnRvLiBUb2RhdmlhLCBvIHByb2JsZW1hIGFwYXJlY2UgcXVhbmRvIHZvY8OqIHF1ZXIgdXRpbGl6YXIgbmF2ZWdhZG9yZXMgZGlmZXJlbnRlcywgbyBTaWxrIG5vIHRhYmxldCBkYSBBbWF6b24sIG8gRWRnZSBubyBjZWx1bGFyIGUgbyBGaXJlZm94IG5vIGNvbXB1dGFkb3IuIFF1YW5kbyBhIGZlcnJhbWVudGEgw6kgZGlmZXJlbnRlIGRpZmljaWxtZW50ZSBlbGFzIGlyw6NvIHNlIGNvbXVuaWNhciBkZSB1bWEgZm9ybWEgdW5pZm9ybWUuLi4gQcOtIHF1ZSBlbnRyYSBvIFtIZWltZGFsbF0oaHR0cHM6Ly9oZWltZGFsbC5zaXRlLykKClBlbnNlIG5vIEhlaW1kYWxsIGNvbW8gdW0gWypJbmRleCBMaWJyb3J1bSBQcm9oaWJpdG9ydW0qXShodHRwczovL3B0Lndpa2lwZWRpYS5vcmcvd2lraS9JbmRleF9MaWJyb3J1bV9Qcm9oaWJpdG9ydW0pIHJldmVyc28sIGFvIGludsOpcyBjb250ZXIgbyBxdWUgdm9jw6ogbsOjbyBkZXZlcmlhIGFjZXNzYXIgdGVyIG9zIGNvbnRlw7pkb3MgZG8gcXVhaXMgdm9jw6ogZ29zdGFyaWEgZGUgYWNlc3Nhci4KCiFbSW5kZXhfbGlicm9ydW1fcHJvaGliaXRvcnVtLF90aXRsZV9wYWdlX1dlbGxjb21lX0wwMDQ1Mjk1LmpwZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE1OTU3MTUxMzExNDUvdi1OS3pnWFlYLmpwZWcpCgpbIkZpbGU6SW5kZXggbGlicm9ydW0gcHJvaGliaXRvcnVtLCB0aXRsZSBwYWdlIFdlbGxjb21lIEwwMDQ1Mjk1LmpwZyJdKGh0dHBzOi8vY29tbW9ucy53aWtpbWVkaWEub3JnL3cvaW5kZXgucGhwP2N1cmlkPTM2MTE5NDU0KSBpcyBsaWNlbnNlZCB1bmRlciBbQ0MgQlkgNC4wXShodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvNC4wP3JlZj1jY3NlYXJjaCZhdHlwZT1yaWNoKQoKIyMgSGVpbWRhbGwKCkNhc28gdm9jw6ogasOhIHRlbmhhIHZpc3RvIHVtIGRvcyBmaWxtZXMgcXVlIGNvbnRlIGNvbSBhIHByZXNlbsOnYSBkbyBIZWltZGFsbCBubyBNYXJ2ZWwgQ2luZW1hdGljIFVuaXZlcnNlIGrDoSB0ZW0gdW1hIG5vw6fDo28gZGUgcXVlbSBlbGUgw6kuIE1hcyBjYXNvIG7Do28gdGVuaGEsIHNlIHRyYXRhIGRlIHVtIGRldXMgZGEgbWl0b2xvZ2lhIG7Ds3JkaWNhIG5vIHF1YWwgZnVuY2lvbmEgY29tbyB1bSAicG9ydGVpcm8iIHF1ZSB0dWRvIHbDqiAtLSB1bSBub21lIGJlbSBhcHJvcHJpYWRvIHBhcmEgbyBzaXN0ZW1hIHF1ZSBzYWx2YSB0b2RvcyBvcyBzaXRlcyBpbXBvcnRhbnRlcyBwYXJhIHZvY8OqLgoKIVtQcm9jZXNzZWRfU0FNX2hlaW1kYWxsci5qcGddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNTk1NzIyMzc5ODcwL2pVU0RLV0RBYi5qcGVnKQoKWyJGaWxlOlByb2Nlc3NlZCBTQU0gaGVpbWRhbGxyLmpwZyJdKGh0dHBzOi8vcHQud2lraXBlZGlhLm9yZy93aWtpL0ZpY2hlaXJvOlByb2Nlc3NlZF9TQU1faGVpbWRhbGxyLmpwZyNmaWxlKSBpcyBsaWNlbnNlZCB1bmRlciBbQ0MgQlkgNC4wXShodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvNC4wP3JlZj1jY3NlYXJjaCZhdHlwZT1yaWNoKQoKUGFyYSB2ZXIgbyBzaXN0ZW1hIGVtIGHDp8OjbzoKClshW10oaHR0cDovL2ltZy55b3V0dWJlLmNvbS92aS9HWG5uTUF4UHpNYy8wLmpwZyldKGh0dHA6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1HWG5uTUF4UHpNYyAiSGVpbWRhbGwiKQoKQWxndW5zIGRvcyBwcsOzcyBkbyBIZWltZGFsbCBzw6NvOgoKLSBOYWRhIG1haXMgZGUgdmVuZG9yIGxvY2staW4gLS0gdm9jw6ogdGVyIHF1ZSB1dGlsaXphciBvIG1lc21vIG5hdmVnYWRvciBlbSB0b2RhcyBhcyBwbGF0YWZvcm1hcyBwYXJhIHRlciBhIGNvbW9kaWRhZGUgcXVlIHByb2N1cmEKLSBNYWlvciBwb3NzaWJpbGlkYWRlIGRlIGNvbmZpZ3VyYcOnw7VlcyBjb21vIHRlbWFzLCBib3TDtWVzLCBjb3JlcyBlIGV0YwotIENvbXVuaWRhZGUgYXRpdmEgcXVlIHByb2N1cmEgc2VtcHJlIG1hbnRlciBhIGZlcnJhbWVudGEgYXR1bGl6YWRhIGUgc2VtIGJ1Z3MKCiMjIFJhbmNoZXIKCltSYW5jaGVyXShodHRwczovL3JhbmNoZXIuY29tLykgw6kgdW0gb3JxdWVzdHJhZG9yIGRlIFtEb2NrZXJdKGh0dHBzOi8vd3d3LmRvY2tlci5jb20vKSBlIFtLdWJlcm5ldGVzXShodHRwczovL2t1YmVybmV0ZXMuaW8vKSBubyBxdWFsIGrDoSBlc2NyZXZpIGFsZ3VucyB0ZXh0b3Mgc29icmUsIGNhc28gcXVlaXJhIHNhYmVyIG1haXMgcmVjb21lbmRvIHF1ZSBsZWlhIFtlc3RlXShodHRwczovL2ZhemVuZGEuaGFzaG5vZGUuZGV2L2NvbmZpZ3VyYW5kby1yYW5jaGVyLWVtLXVtLWFybS1ja2J2bmFkN3UwMDc2YzdzMWRsam5md25mKSB0ZXh0byBwYXJhIGF1eGlsaW8uCgoxLiBBY2Vzc2UgbyBzZXUgc2Vydmlkb3IgUmFuY2hlcjoKYGBgc2hlbGwKc3NoIC1sIHNldVVzdWFyaW8gaXAuZG8uc2Vydmlkb3IucmFuY2hlcgpgYGAKMi4gQ3JpZSB1bWEgcGFzdGEgY2hhbWFkYSBgaGVpbWRhbGxgOgpgYGBzaGVsbAptZGtpciB+L2hlaW1kYWxsCmBgYAozLiBDb3BpZSBvIGNhbWluaG8gYWJzb2x1dG8gZGVzdGEgcGFzdGE6CmBgYHNoZWxsbApjZCB+L2hlaW1kYWxsCnB3ZCAjIGVzdGUgY29tYW5kbyBpcsOhIG1vc3RyYSBvIGNhbWluaG8gcXVlIGRldmVyw6EgY29waWFyCmBgYAo0LiBDb3BpZSBvcyBzZWd1aW50ZXMgbsO6bWVyb3MsIGVsZXMgc2Vyw6NvIHV0aWxpemFkb3Mgbm8gcGFzc28gNzoKYGBgc2hlbGwKaWQgLXUgJFVTRVIgI1BVSUQKaWQgLWcgJFVTRVIgI1BHSUQKYGBgCjUuIEFkaWNpb25lIGEgaW1hZ2VtIFtsaW51eHNlcnZlci9oZWltZGFsbF0oaHR0cHM6Ly9odWIuZG9ja2VyLmNvbS9yL2xpbnV4c2VydmVyL2hlaW1kYWxsKSBkYW5kbyB1bSBub21lIMOgIGVsYToKIVtpbWFnZTEwODcucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTU5NTcyMTQ5ODgyMi9QSndkVzV2b2gucG5nKQo2LiBDb25maWd1cmUgYXMgcG9ydGFzIG5lY2Vzc8OhcmlhcywgYSBgODBgIGUgYSBgNDQzYCBubyBjb250YWluZXIgcGFyYSBxdWFscXVlciBkdWFzIHBvcnRhcyBkaXNwb27DrXZlaXMgbm8gc2V1IHNlcnZpZG9yIC0tIG5vIGNhc28gZG8gZXhlbXBsbyBmb3JhbSBgODUwMGAgZSBgODYwMGA6CiFbaW1hZ2UxMDc1LnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE1OTU3MjE1MTI2MDkvZHlHc0J5NW0wLnBuZykKNy4gQ29sb3F1ZSBvcyB2YWxvcmVzIGNvbGV0YWRvcyBubyBwYXNzbyA0OgohW2ltYWdlMTA3Ni5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNTk1NzIxNjAwOTU2L1R3eG1QNEEzVi5wbmcpCjguIENvbGUgbyB2YWxvciBjb3BpYWRvIG5vIHBhc3NvIDQgY29uZmlndXJhbmRvIG8gcmVzdG8gZG9zIHZhbG9yZXMgbm8gdm9sdW1lOgohW2ltYWdlMTA2My5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNTk1NzIxNTE5MzI5L0dXUV9sN19pQi5wbmcpCgpQYXJhIHZlciBvIHJlc3VsdGFkbywgYWNlc3NlIGEgcG9ydGEgcXVlIHZvY8OqIGNvbG9jb3UgcmVsYWNpb25hZGEgw6AgcG9ydGEgYDgwYCBkbyBjb250YWluZXIuIFZvdSBtb3N0YXIgbyBtZXUgcGFpbmVsIGF0dWFsOgoKIVtnOTk1LnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE1OTU3MTY5NzIxNjIvdkp6ZUlyb3dZLnBuZykKCkRvIGNlbHVsYXIgYWdvcmE6CgohW2c5ODcucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTU5NTcxNjk3NzM3Ny91VzIwaEVwQWsucG5nKQoKQ2FzbyB2b2PDqiBuw6NvIGNvbnNpZ2EgdmVyIHVtIHZhbG9yIG5pc3RvLCBwZW5zZSBuZWxlIGNvbW8gdW1hIHRlbGEgY2VudHJhbCBkZSBwcm9kdXRvcyBlIHNlcnZpw6dvcyB1dGlsaXphZG9zIHBlbGEgc3VhIGVtcHJlc2EsIGNlbnRyYWxpemFuZG8gZWxlIGVtIHVtYSB0ZWxhIHRvZG9zIG9zIHNldXMgZnVuY2lvbsOhcmlvcyBwb2RlcsOjbyBhY2Vzc2FyIG9zIHNlcnZpw6dvcyBxdWUgbsOjbyBuZWNlc3PDoXJpYW1lbnRlIHRlbSB1bWEgVVJMIGNvbW8gImh0dHBzOi8vZXhhbXBsZS5jb20iIG1hcyBzaW0gYWxnbyBjb21vICJodHRwOi8vYWxndW0uaXAudGVuZWJyb3NvLmV4dHJlbW86cG9ydGFOYW9GaXhhIiBzZW0gcHJlY2lzYXIgZGVjb3JhciBlbGVzLi4uIEUgYSB2YW50YWdlbSBxdWUgcG9yIGVsZSBlc3RhciByb2RhbmRvIGRlbnRybyBkZSB1bSBEb2NrZXIsIHZhaSBwb2RlciBpbmljaWFsaXphciBxdWFudGFzIGltYWdlbnMgcXVpc2VyIGRlIHRlbGFzIGRpZmVyZW50ZXMgbm8gUmFuY2hlciwgZGlnYW1vcyBxdWUgdm9jw6ogdGVtIHbDoXJpb3MgdGltZXMgbmEgZW1wcmVzYSwgdW0gcGFyYSBjYWRhIHVtLiBFeGVtcGxvIGRvIHBhaW5lbCBkYSBlbXByZXNhIG5hIHF1YWwgdHJhYmFsaG86CgohW2cxMDI0LnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE1OTU3MjYxNTQ1MDIvSnRINUh4V2VYLnBuZykKCiMjIEFww6puZGljZQoKLSBDYXNvIHRlbmhhIGdvc3RhZG8gZG8gUmFuY2hlciBlIHF1ZXJpYSB2ZXIgbWFpcyBzb2JyZSBlbGUsIHJlY29tZW5kbyBlc3RlcyBkb2lzIHRleHRvczoKICAtIFtOdXZlbSBkZSB0ZXJjZWlyb3MgcXVhbmRvIHZvY8OqIHBvZGUgdGVyIGEgc3VhIHByw7NwcmlhIGVtIGNhc2EgY29tIG8gY2xpcXVlIGRlIHVtIGJvdMOjbz9dKGh0dHBzOi8vZmF6ZW5kYS5oYXNobm9kZS5kZXYvbnV2ZW0tZGUtdGVyY2Vpcm9zLXF1YW5kby12b2NlLXBvZGUtdGVyLWEtc3VhLXByb3ByaWEtZW0tY2FzYS1jb20tby1jbGlxdWUtZGUtdW0tYm90YW8tY2tjY3BiZTVrMDA1c3FnczE4ZTg5aDRpaykKICAtIFtBbsOhbGlzZSBkZSBkYWRvcyArIFNpdGUgKyBCYW5jbyBkZSBEYWRvcz8gVHVkbyBubyBpc3NvIHNldSBQQyBlIHNlbSBwcmVjaXNhciBpbnN0YWxhciBvIFIsIFNoaW55IGUgbyBNb25nb10oaHR0cHM6Ly9mYXplbmRhLmhhc2hub2RlLmRldi9hbmFsaXNlLWRlLWRhZG9zLXNpdGUtYmFuY28tZGUtZGFkb3MtdHVkby1uby1pc3NvLXNldS1wYy1lLXNlbS1wcmVjaXNhci1pbnN0YWxhci1vLXItc2hpbnktZS1vLW1vbmdvLWNrY2Z3anozODAwNThrbnMxM295ZThmMDMpIAoKIyMgUmVmZXLDqm5jaWFzCgotIFtNZWV0IEhlaW1kYWxsLCBZb3VyIEhvbWVsYWIgQXBwbGljYXRpb24gRGFzaGJvYXJkXShodHRwczovL3lvdXR1LmJlL1BBMDFaNi16OFFzKQotIFtIZWltZGFsbF0oaHR0cHM6Ly9wdC53aWtpcGVkaWEub3JnL3dpa2kvSGVpbWRhbGwpCgo=
+# 'Nova Aba' universal, em qualquer aparelho e navegador
+
+> Una Salus Victis Nullam Sperare Salutem - (Virgil - 19 AC)
+
+foto de capa: ["IMG_5052"](https://www.flickr.com/photos/35842362@N03/4432196640) by [Fr James Bradley](https://www.flickr.com/photos/35842362@N03) is licensed under [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/?ref=ccsearch&atype=rich)
+
+Assim como uma biblioteca tem suas maneiras maneiras de se organizar, há maneiras de organizar o conteúdo consumido recorrentemente na internet. Você pode usar favoritos, deixar as abas abertas colocando o navegador para inicializar de onde parou, colocar elas as páginas fixadas em cards na "nova aba" e etc... A primeira e a última são fáceis de sincronizar entre aparelhos diferentes -- seja um tablet, celular ou computador -- já a segunda nem tanto. Todavia, o problema aparece quando você quer utilizar navegadores diferentes, o Silk no tablet da Amazon, o Edge no celular e o Firefox no computador. Quando a ferramenta é diferente dificilmente elas irão se comunicar de uma forma uniforme... Aí que entra o [Heimdall](https://heimdall.site/)
+
+Pense no Heimdall como um [*Index Librorum Prohibitorum*](https://pt.wikipedia.org/wiki/Index_Librorum_Prohibitorum) reverso, ao invés conter o que você não deveria acessar ter os conteúdos do quais você gostaria de acessar.
+
+![Index_librorum_prohibitorum,_title_page_Wellcome_L0045295.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1595715131145/v-NKzgXYX.jpeg)
+
+["File:Index librorum prohibitorum, title page Wellcome L0045295.jpg"](https://commons.wikimedia.org/w/index.php?curid=36119454) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0?ref=ccsearch&atype=rich)
+
+## Heimdall
+
+Caso você já tenha visto um dos filmes que conte com a presença do Heimdall no Marvel Cinematic Universe já tem uma noção de quem ele é. Mas caso não tenha, se trata de um deus da mitologia nórdica no qual funciona como um "porteiro" que tudo vê -- um nome bem apropriado para o sistema que salva todos os sites importantes para você.
+
+![Processed_SAM_heimdallr.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1595722379870/jUSDKWDAb.jpeg)
+
+["File:Processed SAM heimdallr.jpg"](https://pt.wikipedia.org/wiki/Ficheiro:Processed_SAM_heimdallr.jpg#file) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0?ref=ccsearch&atype=rich)
+
+Para ver o sistema em ação:
+
+[![](http://img.youtube.com/vi/GXnnMAxPzMc/0.jpg)](http://www.youtube.com/watch?v=GXnnMAxPzMc "Heimdall")
+
+Alguns dos prós do Heimdall são:
+
+- Nada mais de vendor lock-in -- você ter que utilizar o mesmo navegador em todas as plataformas para ter a comodidade que procura
+- Maior possibilidade de configurações como temas, botões, cores e etc
+- Comunidade ativa que procura sempre manter a ferramenta atulizada e sem bugs
+
+## Rancher
+
+[Rancher](https://rancher.com/) é um orquestrador de [Docker](https://www.docker.com/) e [Kubernetes](https://kubernetes.io/) no qual já escrevi alguns textos sobre, caso queira saber mais recomendo que leia [este](https://fazenda.hashnode.dev/configurando-rancher-em-um-arm-ckbvnad7u0076c7s1dljnfwnf) texto para auxilio.
+
+1. Acesse o seu servidor Rancher:
+```shell
+ssh -l seuUsuario ip.do.servidor.rancher
+```
+2. Crie uma pasta chamada `heimdall`:
+```shell
+mdkir ~/heimdall
+```
+3. Copie o caminho absoluto desta pasta:
+```shelll
+cd ~/heimdall
+pwd # este comando irá mostra o caminho que deverá copiar
+```
+4. Copie os seguintes números, eles serão utilizados no passo 7:
+```shell
+id -u $USER #PUID
+id -g $USER #PGID
+```
+5. Adicione a imagem [linuxserver/heimdall](https://hub.docker.com/r/linuxserver/heimdall) dando um nome à ela:
+![image1087.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595721498822/PJwdW5voh.png)
+6. Configure as portas necessárias, a `80` e a `443` no container para qualquer duas portas disponíveis no seu servidor -- no caso do exemplo foram `8500` e `8600`:
+![image1075.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595721512609/dyGsBy5m0.png)
+7. Coloque os valores coletados no passo 4:
+![image1076.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595721600956/TwxmP4A3V.png)
+8. Cole o valor copiado no passo 4 configurando o resto dos valores no volume:
+![image1063.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595721519329/GWQ_l7_iB.png)
+
+Para ver o resultado, acesse a porta que você colocou relacionada à porta `80` do container. Vou mostar o meu painel atual:
+
+![g995.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595716972162/vJzeIrowY.png)
+
+Do celular agora:
+
+![g987.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595716977377/uW20hEpAk.png)
+
+Caso você não consiga ver um valor nisto, pense nele como uma tela central de produtos e serviços utilizados pela sua empresa, centralizando ele em uma tela todos os seus funcionários poderão acessar os serviços que não necessáriamente tem uma URL como "https://example.com" mas sim algo como "http://algum.ip.tenebroso.extremo:portaNaoFixa" sem precisar decorar eles... E a vantagem que por ele estar rodando dentro de um Docker, vai poder inicializar quantas imagens quiser de telas diferentes no Rancher, digamos que você tem vários times na empresa, um para cada um. Exemplo do painel da empresa na qual trabalho:
+
+![g1024.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1595726154502/JtH5HxWeX.png)
+
+## Apêndice
+
+- Caso tenha gostado do Rancher e queria ver mais sobre ele, recomendo estes dois textos:
+  - [Nuvem de terceiros quando você pode ter a sua própria em casa com o clique de um botão?](https://fazenda.hashnode.dev/nuvem-de-terceiros-quando-voce-pode-ter-a-sua-propria-em-casa-com-o-clique-de-um-botao-ckccpbe5k005sqgs18e89h4ik)
+  - [Análise de dados + Site + Banco de Dados? Tudo no isso seu PC e sem precisar instalar o R, Shiny e o Mongo](https://fazenda.hashnode.dev/analise-de-dados-site-banco-de-dados-tudo-no-isso-seu-pc-e-sem-precisar-instalar-o-r-shiny-e-o-mongo-ckcfwjz380058kns13oye8f03) 
+
+## Referências
+
+- [Meet Heimdall, Your Homelab Application Dashboard](https://youtu.be/PA01Z6-z8Qs)
+- [Heimdall](https://pt.wikipedia.org/wiki/Heimdall)
+
