@@ -1,1 +1,140 @@
-IyMgQW7DoWxpc2UgZGUgZGFkb3MgKyBTaXRlICsgQmFuY28gZGUgRGFkb3M/IFR1ZG8gbm8gaXNzbyBzZXUgUEMgZSBzZW0gcHJlY2lzYXIgaW5zdGFsYXIgbyBSLCBTaGlueSBlIG8gTW9uZ28KCj4gVGV4dG8gbWV1Li4uIErDoSBzYWJlIHF1ZSB2b3UgYXJyYW5qYXIgdW0gbW90aXZvIHBhcmEgc29jYXIgRG9ja2VyIG5lbGUKCmZvdG8gZGUgY2FwYTogWyJHcm93dGggLSBFYXJuaW5ncyBHcm93dGggLSBHcm93dGggU2lnbiJdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzE0MTU3NDg5NEBOMDcvMjc0NDg3NDEzNzIpIGJ5ICBbZ2Zkbm92YTFdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzE0MTU3NDg5NEBOMDcpIGlzIGxpY2Vuc2VkIHVuZGVyIFtDQyBCWS1TQSAyLjAgXShodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnktc2EvMi4wLz9yZWY9Y2NzZWFyY2gmYXR5cGU9cmljaCkgCgojIEludHJvCgpFdSB2ZW5obyBjaXRhbmRvIERvY2tlciBhcXVpIGUgYWxpIGrDoSBmYXogdW0gdGVtcG8gc8OzIHF1ZSBlbSBleGVjdcOnw6NvIGFwZW5hcywgc2VtIGJ1aWxkYXIgbmFkYTsgYWdvcmEgcXVlcm8gbW9zdHJhciBjb21vIHZvY8OqIHBvZGUgZmF6ZXIgYSBzdWEgYW7DoWxpc2UgZGUgZGFkb3MgdXNhbmRvIFtSXShodHRwczovL3d3dy5yLXByb2plY3Qub3JnLykgLS0gdW1hIGxpbmd1YWdlbSBkZSBwcm9ncmFtYcOnw6NvIHZvbHRhZGEgcGFyYSBvIHDDumJsaWNvIGVzdGF0w61zdGljbyAtLSwgY29tIHVtYSBpbnRlcmZhY2Ugd2ViIGUgc2FsdsOhLWxhIGVtIHVtIGJhbmNvIGRlIGRhZG9zLgoKQSBpZGVpYSDDqSBtb3N0cmFyIHF1ZSBtZXNtbyB2b2PDqiBlc3RhbmRvIG5vIFdpbmRvd3MsIE1hYyBvdSBMaW51eCwgdmFpIHBvZGVyIGVzY3JldmVyIHVtYSBhcGxpY2HDp8OjbyByb2J1c3RhIHF1ZSBmYcOnYSBhIGFuw6FsaXNlIHF1ZSBxdWVpcmEgZSBmYXplciBlbGEgcm9kYXIgb25kZSBxdWlzZXIuIE91IHNlamEsIHNlIHZvY8OqIGVzdMOhIG5vIFdpbmRvd3MsIGVsYSB2YWkgcm9kYXIgbm8gTWFjIGUgbm8gTGludXggLS0gZXN0ZSDDumx0aW1vIMOpIGltcG9ydGFudGUgY2FzbyBxdWVpcmEgc3ViaXIgbmEgbnV2ZW0sIHByaW5jaXBhbG1lbnRlIHNlIG7Do28gZm9yIHF1ZXJlciB1c2FyIG8gW3NoaW55YXBwcy5pb10oaHR0cHM6Ly93d3cuc2hpbnlhcHBzLmlvLykuCgpFIGNhc28gcXVlaXJhIGFsZ3VtIGphcmfDo28gY29tbyAibWljcm9zLXNlcnZpw6dvcyIsICJTeXN0ZW0gQXMgQSBTZXJ2aWNlIiwgImNsb3VkLW5hdGl2ZSIgZSBldGMuLi4gUG9kZSBmaWNhciBnYXJhbnRpZG8gcXVlIG8gc2V1IFtjYXJnbyBjdWx0XShodHRwczovL2VuLndpa2lwZWRpYS5vcmcvd2lraS9DYXJnb19jdWx0KSBkZSBmaWNhciByZXBldGluZG8gZWxlcyBzZW0gZW50ZW5kZXIgdW1hIHBvcnIjJCBkbyBxdWUgc2lnbmlmaWNhbSBlc3TDoSBnYXJhbnRpZG8gY29tIGVzdGUgdGV4dG8uLi4KCiFbMjA5NzAxNDg5N19hYTI2NDFkNzBmX28uanBnXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTU5NDM0NTEyODUyOS9La18xVFBQdG0uanBlZykKCiBbIlRlbXBsZSBDdXJjaCJdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzg3ODYzOTY2QE4wMC8yMDk3MDE0ODk3KSBieSBbYnVnZ29sb10oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvODc4NjM5NjZATjAwKSBpcyBsaWNlbnNlZCB1bmRlciBbQ0MgQlkgMi4wXShodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvMi4wLz9yZWY9Y2NzZWFyY2gmYXR5cGU9cmljaCkKCiMgUG9ycXVlIG8gUiArIFNoaW55PwoKPiAiRWxlbWVudGFyLCBtZXUgY2FybyBXYXRzb24uLi4iCgpOb3JtYWxtZW50ZSBvcyByw6ljZW0tZ3JhZHVhZG9zLCBwZXNxdWlzYWRvcmVzIGUgZXN0YWdpw6FyaW9zIGRhIGVtcHJlc2EgZW0gcXVlIHRyYWJhbGhvIHRlbSBSIGR1cmFudGUgYSBncmFkdWHDp8OjbyAtLSBzZWphIGVtIGFsZ3VtYSBtYXTDqXJpYSwgSW5pY2lhw6fDo28gQ2llbnTDrWZpY2EgKElDKSBvdSBwb3IgY29udGEgcHLDs3ByaWEuCgpUb2RhdmlhIG8gcG9zdCBuw6NvIMOpIHVtIGVuZG9zc28gZGEgZXNjb2xoYSBkb3MgZG9pcyAtLSBhdMOpIHBvcnF1ZSBldSBwcsOzcHJpbyB0ZW5obyBhbGd1bnMgcG9udG9zIGNvbnRyYSBhIGNvbWJpbmHDp8OjbyBxdWUgcHJldGVuZG8gZXhwbG9yYXIgZW0gdW0gdGV4dG8gbWFpcyBmdXR1cm8uCgojICJUYWxrIGlzIGNoZWFwLCBzaG93IG1lIHRoZSBjb2RlIgoKPiBGcmFzZSBkbyAidGl0aW8iIExpbnVzIC0tIG8gVHJvdmFsZHMgbsOjbyBvIFNlYmFzdGlhbgoKIVs0ODY1OTQzNjAwNl82MTZlMDBlNGYxX28uanBnXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTU5NDM0MTMxMTYzMC9XZmtqUG5Sc2ouanBlZykKCiBbImRvIHdlIHdyaXRlIGNvZGUiXShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy80MzY2MTI4M0BOMDAvNDg2NTk0MzYwMDYpIGJ5IFttLmdpZmZvcmRdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzQzNjYxMjgzQE4wMCkgaXMgbGljZW5zZWQgdW5kZXIgW0NDIEJZLU5DIDIuMF0oaHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLzIuMC8/cmVmPWNjc2VhcmNoJmF0eXBlPXJpY2gpCgpDYXNvIHF1ZWlyYSB2ZXIgYSBhcGxpY2HDp8OjbyByb2RhZG8sIHRlbmhhIG8gYGRvY2tlcmAgZSBvIGBkb2NrZXItY29tcG9zZWAgaW5zdGFsYWRvcyBuYSBzdWEgbcOhcXVpbmEgLS0gY2FzbyB2b2PDqiBlc3RlamEgbm8gV2luZG93cyBvdSBubyBNYWMsIG9zIGRvaXMgc8OjbyB1bWEgaW5zdGFsYcOnw6NvIHPDsyBkZW50cm8gZG8gW0RvY2tlciBEZXNrdG9wXShodHRwczovL3d3dy5kb2NrZXIuY29tL3Byb2R1Y3RzL2RvY2tlci1kZXNrdG9wKS4KCjEuIENsb25lIG91IGJhaXhlIFtlc3RlXShodHRwczovL2dpdGh1Yi5jb20vRmF6ZW5kYWFhL1JTTUQpIHJlcG9zaXTDs3JpbyBlbSBzdWEgbcOhcXVpbmEKYGBgc2hlbGwKZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9GYXplbmRhYWEvUlNNRApjZCBSU01ELwpgYGAKMi4gVW1hIHZleiBkZW50cm8gZGVsZSBiYXN0YSByb2RhcjoKYGBgc2hlbGwKZG9ja2VyLWNvbXBvc2UgdXAKYGBgCjMuIEFicmEgc2V1IG5hdmVnYWRvciBlIGRpZ2l0ZSBgbG9jYWxob3N0YCBlIHZlamEgYSBtYWdpYSBhY29udGVjZXI6CgohWzIwMjAtMDctMTAtMDIxMTE2XzEyNTl4MTAzMF9zY3JvdC5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNTk0MzU4MzQ4MjYwL2ZQM3ZIY2FKRS5wbmcpCgpCYXNpY2FtZW50ZSBvIGJhbmNvIGRlIGRhZG9zIGFybWF6ZW5hIHRvZG9zIG9zIHZhbG9yZXMgZGUgbsO6bWVybyBkZSBxdWVicmFzIHV0aWxpemFkb3MgcGFyYSBmYXplciBhIGFuw6FsaXNlIGRlIGRhZG9zLiBJc3RvIGNvbW8gdW1hIGVzcMOpY2llIGRlIGxvZyBkbyBzaXN0ZW1hLCB0YW1iw6ltIGNoYW1hZGEgZGUgKip0cmlsaGEgZGUgYXVkaXRvcmlhKiogcG9yIGFsZ3Vucy4KCiFbMjAyMC0wNy0xMC0wMjExMjBfMTI1OXgxMDMwX3Njcm90LnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE1OTQzNTgzNjk1MjgvOEY3Qko4VzVHLnBuZykKCkNhc28gZXN0ZWphIHJvZGFuZG8gdHVkbyBpc3NvIGVtIHVtYSByZWRlIHdpLWZpLCBhcMOzcyBkZXNjb2JyaXIgbyBpcCBkYSBzdWEgbcOhcXVpbmEsIHZvY8OqIHBvZGUgYWNlc3NhciB0YW1iw6ltIG8gc2l0ZSBwZWxvIHNldSBjZWx1bGFyOgoKIVtpbWFnZTExOTcucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTU5NDM2NTg5OTA2Mi95YnliXzJrdzEucG5nKQoKIVtpbWFnZTExODUucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTU5NDM2NTkzMzkzMy9SVlY0YVplb3IucG5nKQoKTyBpbXBvcnRhbnRlIGRlc3NhIHZpenVhbGl6YcOnw6NvIG5vIHNldSBjZWx1bGFyIGZ1bmNpb25hciBiZW0gw6kgcXVlIGNhc28gdm9jw6ogZGVzZWplIHB1YmxpY2FyIGFtYW5ow6Mgb3UgZGVwb2lzIG8gc2V1IHNpdGUgY29tbyB1bSAiYXBwIiBwYXJhIHVtICBbR29vZ2xlIFN0b3JlXShodHRwczovL21lZGl1bS5jb20vQGZpcnQvZ29vZ2xlLXBsYXktc3RvcmUtbm93LW9wZW4tZm9yLXByb2dyZXNzaXZlLXdlYi1hcHBzLWVjNmYzYzZmZjNjYyksIFtXaW5kb3dzIFN0b3JlXShodHRwczovL2RvY3MubWljcm9zb2Z0LmNvbS9lbi11cy9taWNyb3NvZnQtZWRnZS9wcm9ncmVzc2l2ZS13ZWItYXBwcy1lZGdlaHRtbC9taWNyb3NvZnQtc3RvcmUpIG91IGF0w6kgbWVzbW8gZmF6ZXIgY29tIHF1ZSBmaXF1ZSBzYWx2byBjb21vIHVtIFthcHAgbm8gc2V1IGFwYXJhbGhvIGlPU10oaHR0cHM6Ly9sb3ZlMmRldi5jb20vcHdhL2lvcy8pICwgcG9kZSBkYXIgdW1hIG9saGFkYSBbbmVzdGVdKGh0dHBzOi8vY3Jhbi5yLXByb2plY3Qub3JnL3dlYi9wYWNrYWdlcy9zaGlueU1vYmlsZS9yZWFkbWUvUkVBRE1FLmh0bWwpIHBsdWdpbiBTaGlueSBwYXJhIFByb2dyZXNzaXZlIFdlYiBBcHBzIChQV0EpLgoKTyBjZW7DoXJpbyBjaXRhZG8gYW50ZWlyb3JtZW50ZSDDqSB1bSBjbGFybyBwb250byBwb3NpdGl2byBwYXJhIG8gbmVnw7NjaW8gZSBvIHByb2R1dG8gZW0gc2ksIG1hcyBjb21vIGRlc2Vudm9sdmVkb3IgdGVyIGEgc2VndXJhbsOnYSBkZSBxdWUgdW0gdHVkbyBvIHF1ZSBldSBmYcOnbyB2YWkgcm9kYXIgbm8gc2lzdGVtYSBkbyBjbGllbnRlIG91IG5vIHNlcnZpZG9yIG5hIG51dmVtIC0tIHVtYSB2ZXogcXVlICoqbsOjbyB0ZW5obyBvIFIgaW5zdGFsYWRvIG5hIG1pbmhhIG3DoXF1aW5hKiogZSBzw7MgZGVzZW52b2x2byB1c2FuZG8gY29udGFpbmVycyAtLSDDqSBhbGdvIHF1ZToKCi0gRXZpdGEgcmV0cmFiYWxob3MgdW1hIHZleiBxdWUgbyBwcm9kdXRvIHF1ZSBlbnRyZWdvIGrDoSBjb250ZW0gKipUVURPKiogbmVjZXNzw6FyaW8gcGFyYSByb2RhciAtLSBuYWRhIGRlIGRvcmVzIGRlIGNhYmXDp2EgcGVyZGlkYXMgcG9yIGZhbHRhIGRlIGluc3RhbGFyIHVtIHBhY290ZSBSLCBvdSBwb3Igcm9kYXIgZWxlIGVtIHVtYSB2ZXJzw6NvIGVycmFkYSwgcXVlbSBzYWJlIGF0w6kgbWVzbW8gcGVsYSBmYWx0YSBkZSB1bWEgYmlibGlvdGVjYSBkZSBzaXN0ZW1hCi0gRMOhIHVtYSBzZWd1cmFuw6dhIGRlIHBvZGVyIHRyb2NhciBkZSBoYXJkd2FyZSBzZW0gcGVyZGVyIHRlbXBvIHBhcmEgY29uZmlndXJhw6fDtWVzCi0gIkJpbsOhcmlvcyIgZGEgYXBsaWNhw6fDtWVzIGVtIHF1YWxxdWVyIGx1Z2FyLCBncmHDp2FzIGFvIFtEb2NrZXIgSHViXShodHRwczovL2h1Yi5kb2NrZXIuY29tLykgdW1hIHZleiBxdWUgYSBidWlsZCBxdWUgZmHDp28gbmEgbWluaGEgbcOhcXVpbmEgc2UgdG9ybmEgZGlzcG9uw612ZWwgYSB0b2RvcyBkbyBtZXUgdGltZSBpbmRlcGVuZGVudGUgZGUgb25kZSBlIHF1YWwgc2lzdGVtYSBlbGVzIGVzY29saGFtIGRlc2Vudm9sdmVyCgojIyBQb250b3MgaW1wb3J0YW50ZXMKCiFbMzA0NjU2Njk4NzBfNWNhYmI3YjcwYl9vKDEpLmpwZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE1OTQzNDM2MjAxMTgva3lpNHVqSXNCLmpwZWcpCgogWyJSb2JvdCBXYXJuaW5nIl0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvMzc5OTY2NDY4MDJATjAxLzMwNDY1NjY5ODcwKSBieSBbY29nZG9nYmxvZ10oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvMzc5OTY2NDY4MDJATjAxKSBpcyBsaWNlbnNlZCB1bmRlciBbQ0MwIDEuMF0oTGluaykgCgpObyBgUkVBRE1FLm1kYCBkbyBwcm9qZXRvIMOpIHJlc3NhbHRhZG8gY29tbyBmYXplciBjb20gcXVlIG8gIFtNb25nb10oaHR0cHM6Ly93d3cubW9uZ29kYi5jb20vKSBkbyBqZWl0byBxdWUgZm9pIGNvbmZpZ3VyYWRvIGVsZSB0ZW0gJ3BlcmRhIGRlIG1lbcOzcmlhIHJlY2VudGUnLCBvdSBzZWphLCB0b2RhIGV4ZWN1w6fDo28gZWxhIHJvZGEgY29tIHVtIEJEIHplcmFkby4gVG9kYXZpYSB2b2PDqiBwb2RlIG11ZGFyIGlzc28gKipjb20gdW1hIGxpbmhhIGRlIGNvbmZpZ3VyYcOnw6NvKiouCgpBIGFib3JkYWdlbSBkbyBgZG9ja2VyLWNvbXBvc2VgIG5lc3RlIGNhc28gdGVtIHN1YXMgdmFudGFnZW5zOgoKMS4gRXZpdGEgY29tIHF1ZSB1bSBCRCBzZWphIGluc3RhbGFkbyBuYSBtw6FxdWluYSBkbyBkZXNlbnZvbHZlZG9yCjIuIEV2aXRhIGNvbSBxdWUgbyBjb25zdW1vIGRlIGludGVybmV0IHNlamEgYWx0byBjYXNvIHVtYSBudXZlbSBjb21vIG8gW0F0bGFzIERCXShodHRwczovL3d3dy5tb25nb2RiLmNvbS9jbG91ZC9hdGxhcykgZXN0ZWphIHNlbmRvIHV0aWxpemFkYSAtLSBvIHF1ZSBhanVkYSBwcmluY2lwYWxtZW50ZSBxdWVtIGVzdMOhIGZhemVuZG8gcmVtb3RlIHdvcmsgcG9yIGNhdXNhIGRhIHF1YXJlbnRlbmEKMy4gRXZpdGEgbyBmYW1vc28gcHJvYmxlbWEgZGUgdXNhciB1bSBiYW5jbyBkZSBkYWRvcyAtLSBhZ29yYSBwb2RlbmRvIHNlIGFwbGljYXIgdHLDqnM6IHVtIHBhcmEgZGVzZW52b2x2aW1lbnRvLCB1bSBwYXJhIGhvbW9sb2dhw6fDo28gZSB1bSBwYXJhIHByb2R1w6fDo28KCk91dHJvIHBvbnRvIGltcG9ydGFudGUgw6kgcXVlIHV0aWxpemVpIGVzdGEgaW1hZ2VtIGJhc2UgcG9ycXVlIGVsYSB2YWkgYWzDqW0gZG8gZXNjb3BvIGRlIHVtIGRlbW8gZSBzZSB0cmF0YSBkZSBhbGdvIGRpc3BvbsOtdmVsIGUgbWFudGlkbyBwb3IgdW1hIGVtcHJlc2EuIENhc28gdm9jw6ogcXVlaXJhIHZlciBvIHF1ZSBow6EgbmVsYSBwYXJhIHJlcHJvZHV6aXIgZSByZXRpcmFyIGFzIGRlcGVuZMOqbmNpYXMgcXVlIG7Do28gdXRpbGl6YSwgcG9yIGZhdm9yLCBmaXF1ZSBhIHZvbnRhZGUgZSB2w6EgYWRpYW50ZS4KClBhcmEgbsOjbyBmaWNhciAqKk1VSVRPKiogZm9yYSBkbyBlc2NvcG8gZG8gcXVlIG8gdGV4dG8gc2UgcHJvcMO1ZSwgYWluZGEgcHJldGVuZG8gZXhwbGljYXIgY29tbyDDqSBvIGZsdXhvIGRlIGRlc2Vudm9sdmltZW50byBkZXN0YSBzdGFjayBuYSBlbXByZXNhIHF1ZSB0cmFiYWxoby4KCiMjIEFjaG91IHF1ZSBhY2Fib3U/Cgo+ICJBY2hvdSBlcnJhZG8sIG90w6FyaW8iIC0tIElOR8OBLCBSb2dlcmluaG8KCiFbOTc5NTQ1OTkwNF9kODg4Y2VjZTAxX28uanBnXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTU5NDM0MzgxNDA5Mi8zRGdaaG1aWFQuanBlZykKCiBbIkV2ZXJ5IGVuZCBpcyBhIG5ldyBiZWdpbm5pbmcuIl0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvNzg1OTI3NTVATjA2Lzk3OTU0NTk5MDQpIGJ5IFtkZWVwbGlmZXF1b3Rlc10oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvNzg1OTI3NTVATjA2KSBpcyBsaWNlbnNlZCB1bmRlciAgW0NDIEJZLU5DLVNBIDIuMF0oaHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzIuMC8/cmVmPWNjc2VhcmNoJmF0eXBlPXJpY2gpIAoKQSBpbWFnZW0gYmFzZSBkbyB1dGlsaXphZGEgbm8gcHJvamV0byBwb3NzdWkgYWxndW1hcyAidmFudGFnZXMiLiBFbGEgcG9kZSB0ZXIgcm9kYWRvIG5vIHNldSB4ODYgZG8gc2V1IGxhcHRvcCBzZW0gbWVub3IgZG9yIGRlIGNhYmXDp2EsIG1hcyBjb21vIGrDoSBbcG9udHVhZG8gYW50ZXJpb3JtZW50ZV0oCmh0dHBzOi8vZmF6ZW5kYS5oYXNobm9kZS5kZXYvY29tby1kaXN0cmlidWlyLWNvZGlnby1wYXJhLXJvZGFyLWVtLWRpdmVyc2FzLWFycXVpdGV0dXJhcy1yLWRvY2tlci1idWlsZHgtY2tjNWkzb2dqMDBibGxwczEwem5uYnlpbyksIG8gRG9ja2VyIHRlbSBhcnF1aXRldHVyYXMgZGlmZXJlbnRlcyBkZSBDUFUuIElzdG8gc2lnbmlmaWNhIHF1ZSB2b2PDqiB2YWkgcG9kZXIgcm9kYXIgZXN0ZSBwcm9qZXRvIG5hcyBzZWd1aW50ZXMgYXJxdWl0ZXR1cmFzOgoKLSAzODYKLSBhbWQ2NAotIGFybS92NgotIGFybS92NwotIGFybTY0L3Y4Ci0gczM5MHgKLSBwcGM2NGxlCgpPIHF1ZSBwYXJhIHRpIGFnb3JhIG7Do28gcG9kZSB0ZXIgZ3JhbmRlIGRpZmVyZW7Dp2EsIG1hcyByZWNvbWVuZG8gbGVyIGFzIHJlZmVyw6puY2lhcyBkbyB0ZXh0byBjaXRhZG8gbm8gbGluayBhbnRlcmlvci4KCiMgUXVlciByb2RhciBlbSB1bSBzZXJ2aWRvciBlbSBjYXNhPwoKIVszNDAyODk0ODA4NV80NGNmNmZmMTkxX28ucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTU5NDM0MjUyNzY0NS9lZG5ibWJmR2kucG5nKQoKIFsiT3JhbmdlIFBpIDJHLUlvVCJdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzEyMDU4NjYzNEBOMDUvMzQwMjg5NDgwODUpIGJ5IFtnaGFsZmFjcmVlXShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy8xMjA1ODY2MzRATjA1KSBpcyBsaWNlbnNlZCB1bmRlciBbQ0MgQlktU0EgMi4wIF0oaHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LXNhLzIuMC8/cmVmPWNjc2VhcmNoJmF0eXBlPXJpY2gpIAoKRXUgc2VtcHJlIGZhbG8gZGUgdGVyIHNldSBwcsOzcHJpbyBbc2Vydmlkb3IgZW0gY2FzYV0oaHR0cHM6Ly9mYXplbmRhLmhhc2hub2RlLmRldi9jb25maWd1cmFuZG8tcmFuY2hlci1lbS11bS1hcm0tY2tidm5hZDd1MDA3NmM3czFkbGpuZnduZikgYXTDqSBwYXJhIHBvZGVyIHRlciBhIFtzdWEgcHLDs3ByaWEgbnV2ZW1dKGh0dHBzOi8vZmF6ZW5kYS5oYXNobm9kZS5kZXYvbnV2ZW0tZGUtdGVyY2Vpcm9zLXF1YW5kby12b2NlLXBvZGUtdGVyLWEtc3VhLXByb3ByaWEtZW0tY2FzYS1jb20tby1jbGlxdWUtZGUtdW0tYm90YW8tY2tjY3BiZTVrMDA1c3FnczE4ZTg5aDRpaz9ndWlkPWZjNzljZmI1LWE4ZWYtNGU1NC1hMzRlLTExYzFhMWRmOTkyMCkuIENhc28gYSBzaXR1YcOnw6NvIG7Do28gcGVybWl0YSBmYXplciBpc3NvIHBvcnF1ZSBuw6NvIHRlbSB1bWEgbcOhcXVpbmEgdmVsaGEgc29icmFuZG8gZW0gY2FzYSwgdHVkbyBiZW0gcG9ycXVlIHZvY8OqIHBvZGUgZmF6ZXIgbyBzZXUgc2lzdGVtYSByb2RhciAyNC83LCBjYXNvIHRlbmhhIG9zIHNlZ3VpbnRlcyBpdGVuczoKCjEuIGZvbnRlIFVTQiAtLSBjb250YW5kbyBvIGNhYm8KMi4gbWljcm9TRCAtLSB1bnMgOEdCIHBlbG8gbWVub3MKMy4gVW1hIFJhc3BiZXJyeSBQaSAtLSBhICBbWmVybyBXXShodHRwczovL3Byb2R1dG8ubWVyY2Fkb2xpdnJlLmNvbS5ici9NTEItMTUyMzgzNDk1OS1wbGFjYS1yYXNwYmVycnktcGktemVyby13LWNvbS13aWZpLWUtYmx1ZXRvb3RoLV9KTSNwb3NpdGlvbj0yNSZ0eXBlPWl0ZW0mdHJhY2tpbmdfaWQ9ZDE4MjczNWEtZTQ5OS00N2U2LTllYzYtMWYxZWZmMzNmMWRkKSBmdW5jaW9uYQoKQ2FzbyBuw6NvIG9zIHRlbmhhLCB0dWRvIGZpY2FyaWEgZW0gdG9ybm8gZGUgdW5zIDIwMCByZWFpcyBzZSBwZWdhciBkZSB1bSBzaXRlIGNvbW8gQWxpRXhwcmVzcy4gQ2FzbyBvIHZhbG9yIHNlamEgbXVpdG8gcGFyYSB2b2PDqiwgbGVtYnJlIHF1ZSBtdWl0YXMgbnV2ZW5zIHBvc3N1ZW0gcGxhbm9zIGRlIGF2YWxpYcOnw6NvIGdyYXR1aXRhIGRlIGF0w6kgdW0gYW5vIGUgY2FzbyBtb3JlIGVtIHJlcMO6YmxpY2EgYXMgdmV6ZXMgcG9kZSB2ZXIgZGUgcmFjaGFyIG8gY3VzdG8gY29tIHNldXMgYW1pZ29zIC0tIHByb3ZhdmVsbWVudGUgdm9jw6pzIGdhc3RhbSBqw6EgQkVNIG1haXMgcG9yIG3DqnMgbWVzbW8gY29tIGJyZWphLgoKIyMgUmFuY2hlcgoKQ2FzbyBxdWVpcmEgcm9kYXIgbm8gW1JhbmNoZXJdKGh0dHBzOi8vcmFuY2hlci5jb20vKSBiYXN0YSBxdWVicmFyIG9zIGNvbnRhaW5lcnMgZG8gYGRvY2tlci1jb21wb3NlLnltbGAgZW0gZG9pcyBkZXBsb3lzIGRvIG5vIHNldSBwYWluZWw6CgotIE8gYmFuY28gZGUgZGFkb3M6CgohW2ltYWdlMTI3NS5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNTk0MzY2Mjg5Mzg4LzQtZjFQNWNsci5wbmcpCgotIE8gc2l0ZToKCiFbaW1hZ2UxMjg3LnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE1OTQzNjYyOTQ2NTMvSERYN0pSLTNFLnBuZykKCkxvZ28gZGVwb2lzIGRpc3NvIG8gc2lzdGVtYSDDqSBhY2Vzc8OtdmVsIGRlIHF1YWxxdWVyIGRpc3Bvc2l0aXZvIGRlbnRybyBkbyBtZXUgd2ktZmkgLS0gZSwgdGVvcmljYW1lbnRlLCBmb3JhIGRlIGNhc2EgcG9yIFZpcnV0YWwgUHJpdmF0ZSBOZXR3b3JrIChWUE4pIC0tIGF0cmF2w6lzIGRvIGlwIGUgcG9ydGEgY29uZmlndXJhZGEgbm8gc2V2aWRvci4KCm9iczogbm8gY2FzbyBkbyBNb25nbyB2b2PDqiBuw6NvIHZhaSBjb25zZWd1aXIgcm9kYXIgZW0gdG9kb3Mgb3MgdGlwb3MgZGUgYXJxdWl0ZXR1cmEgdW1hIHZleiBxdWUgZWxhIHPDsyBzdXBvcnRhIHRyw6pzIGF0dWFsbWVudGUKCiMgSW5kbyBhbMOpbQoKLSAgW1NoaW55IFR1dG9yaWFsXShodHRwczovL2Jvb2tkb3duLm9yZy93ZWljaGVuZy9zaGlueVR1dG9yaWFsLykKLSAgW1BXUyBleGFtcGxlcyAtIFN1Y2Nlc3NmdWwgUHJvZ3Jlc3NpdmUgV2ViIEFwcHNdKGh0dHBzOi8vYXBwbWFrZXIueHl6L3B3YS1leGFtcGxlcy1zdWNjZXNzZnVsLXByb2dyZXNzaXZlLXdlYi1hcHBzLykg
+# Análise de dados + Site + Banco de Dados? Tudo no isso seu PC e sem precisar instalar o R, Shiny e o Mongo
+
+> Texto meu... Já sabe que vou arranjar um motivo para socar Docker nele
+
+foto de capa: ["Growth - Earnings Growth - Growth Sign"](https://www.flickr.com/photos/141574894@N07/27448741372) by  [gfdnova1](https://www.flickr.com/photos/141574894@N07) is licensed under [CC BY-SA 2.0 ](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich) 
+
+# Intro
+
+Eu venho citando Docker aqui e ali já faz um tempo só que em execução apenas, sem buildar nada; agora quero mostrar como você pode fazer a sua análise de dados usando [R](https://www.r-project.org/) -- uma linguagem de programação voltada para o público estatístico --, com uma interface web e salvá-la em um banco de dados.
+
+A ideia é mostrar que mesmo você estando no Windows, Mac ou Linux, vai poder escrever uma aplicação robusta que faça a análise que queira e fazer ela rodar onde quiser. Ou seja, se você está no Windows, ela vai rodar no Mac e no Linux -- este último é importante caso queira subir na nuvem, principalmente se não for querer usar o [shinyapps.io](https://www.shinyapps.io/).
+
+E caso queira algum jargão como "micros-serviços", "System As A Service", "cloud-native" e etc... Pode ficar garantido que o seu [cargo cult](https://en.wikipedia.org/wiki/Cargo_cult) de ficar repetindo eles sem entender uma porr#$ do que significam está garantido com este texto...
+
+![2097014897_aa2641d70f_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1594345128529/Kk_1TPPtm.jpeg)
+
+ ["Temple Curch"](https://www.flickr.com/photos/87863966@N00/2097014897) by [buggolo](https://www.flickr.com/photos/87863966@N00) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich)
+
+# Porque o R + Shiny?
+
+> "Elementar, meu caro Watson..."
+
+Normalmente os récem-graduados, pesquisadores e estagiários da empresa em que trabalho tem R durante a graduação -- seja em alguma matéria, Iniciação Científica (IC) ou por conta própria.
+
+Todavia o post não é um endosso da escolha dos dois -- até porque eu próprio tenho alguns pontos contra a combinação que pretendo explorar em um texto mais futuro.
+
+# "Talk is cheap, show me the code"
+
+> Frase do "titio" Linus -- o Trovalds não o Sebastian
+
+![48659436006_616e00e4f1_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1594341311630/WfkjPnRsj.jpeg)
+
+ ["do we write code"](https://www.flickr.com/photos/43661283@N00/48659436006) by [m.gifford](https://www.flickr.com/photos/43661283@N00) is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=rich)
+
+Caso queira ver a aplicação rodado, tenha o `docker` e o `docker-compose` instalados na sua máquina -- caso você esteja no Windows ou no Mac, os dois são uma instalação só dentro do [Docker Desktop](https://www.docker.com/products/docker-desktop).
+
+1. Clone ou baixe [este](https://github.com/Fazendaaa/RSMD) repositório em sua máquina
+```shell
+git clone https://github.com/Fazendaaa/RSMD
+cd RSMD/
+```
+2. Uma vez dentro dele basta rodar:
+```shell
+docker-compose up
+```
+3. Abra seu navegador e digite `localhost` e veja a magia acontecer:
+
+![2020-07-10-021116_1259x1030_scrot.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1594358348260/fP3vHcaJE.png)
+
+Basicamente o banco de dados armazena todos os valores de número de quebras utilizados para fazer a análise de dados. Isto como uma espécie de log do sistema, também chamada de **trilha de auditoria** por alguns.
+
+![2020-07-10-021120_1259x1030_scrot.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1594358369528/8F7BJ8W5G.png)
+
+Caso esteja rodando tudo isso em uma rede wi-fi, após descobrir o ip da sua máquina, você pode acessar também o site pelo seu celular:
+
+![image1197.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1594365899062/ybyb_2kw1.png)
+
+![image1185.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1594365933933/RVV4aZeor.png)
+
+O importante dessa vizualização no seu celular funcionar bem é que caso você deseje publicar amanhã ou depois o seu site como um "app" para um  [Google Store](https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc), [Windows Store](https://docs.microsoft.com/en-us/microsoft-edge/progressive-web-apps-edgehtml/microsoft-store) ou até mesmo fazer com que fique salvo como um [app no seu aparalho iOS](https://love2dev.com/pwa/ios/) , pode dar uma olhada [neste](https://cran.r-project.org/web/packages/shinyMobile/readme/README.html) plugin Shiny para Progressive Web Apps (PWA).
+
+O cenário citado anteirormente é um claro ponto positivo para o negócio e o produto em si, mas como desenvolvedor ter a segurança de que um tudo o que eu faço vai rodar no sistema do cliente ou no servidor na nuvem -- uma vez que **não tenho o R instalado na minha máquina** e só desenvolvo usando containers -- é algo que:
+
+- Evita retrabalhos uma vez que o produto que entrego já contem **TUDO** necessário para rodar -- nada de dores de cabeça perdidas por falta de instalar um pacote R, ou por rodar ele em uma versão errada, quem sabe até mesmo pela falta de uma biblioteca de sistema
+- Dá uma segurança de poder trocar de hardware sem perder tempo para configurações
+- "Binários" da aplicações em qualquer lugar, graças ao [Docker Hub](https://hub.docker.com/) uma vez que a build que faço na minha máquina se torna disponível a todos do meu time independente de onde e qual sistema eles escolham desenvolver
+
+## Pontos importantes
+
+![30465669870_5cabb7b70b_o(1).jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1594343620118/kyi4ujIsB.jpeg)
+
+ ["Robot Warning"](https://www.flickr.com/photos/37996646802@N01/30465669870) by [cogdogblog](https://www.flickr.com/photos/37996646802@N01) is licensed under [CC0 1.0](Link) 
+
+No `README.md` do projeto é ressaltado como fazer com que o  [Mongo](https://www.mongodb.com/) do jeito que foi configurado ele tem 'perda de memória recente', ou seja, toda execução ela roda com um BD zerado. Todavia você pode mudar isso **com uma linha de configuração**.
+
+A abordagem do `docker-compose` neste caso tem suas vantagens:
+
+1. Evita com que um BD seja instalado na máquina do desenvolvedor
+2. Evita com que o consumo de internet seja alto caso uma nuvem como o [Atlas DB](https://www.mongodb.com/cloud/atlas) esteja sendo utilizada -- o que ajuda principalmente quem está fazendo remote work por causa da quarentena
+3. Evita o famoso problema de usar um banco de dados -- agora podendo se aplicar três: um para desenvolvimento, um para homologação e um para produção
+
+Outro ponto importante é que utilizei esta imagem base porque ela vai além do escopo de um demo e se trata de algo disponível e mantido por uma empresa. Caso você queira ver o que há nela para reproduzir e retirar as dependências que não utiliza, por favor, fique a vontade e vá adiante.
+
+Para não ficar **MUITO** fora do escopo do que o texto se propõe, ainda pretendo explicar como é o fluxo de desenvolvimento desta stack na empresa que trabalho.
+
+## Achou que acabou?
+
+> "Achou errado, otário" -- INGÁ, Rogerinho
+
+![9795459904_d888cece01_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1594343814092/3DgZhmZXT.jpeg)
+
+ ["Every end is a new beginning."](https://www.flickr.com/photos/78592755@N06/9795459904) by [deeplifequotes](https://www.flickr.com/photos/78592755@N06) is licensed under  [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=rich) 
+
+A imagem base do utilizada no projeto possui algumas "vantages". Ela pode ter rodado no seu x86 do seu laptop sem menor dor de cabeça, mas como já [pontuado anteriormente](
+https://fazenda.hashnode.dev/como-distribuir-codigo-para-rodar-em-diversas-arquiteturas-r-docker-buildx-ckc5i3ogj00bllps10znnbyio), o Docker tem arquiteturas diferentes de CPU. Isto significa que você vai poder rodar este projeto nas seguintes arquiteturas:
+
+- 386
+- amd64
+- arm/v6
+- arm/v7
+- arm64/v8
+- s390x
+- ppc64le
+
+O que para ti agora não pode ter grande diferença, mas recomendo ler as referências do texto citado no link anterior.
+
+# Quer rodar em um servidor em casa?
+
+![34028948085_44cf6ff191_o.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1594342527645/ednbmbfGi.png)
+
+ ["Orange Pi 2G-IoT"](https://www.flickr.com/photos/120586634@N05/34028948085) by [ghalfacree](https://www.flickr.com/photos/120586634@N05) is licensed under [CC BY-SA 2.0 ](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich) 
+
+Eu sempre falo de ter seu próprio [servidor em casa](https://fazenda.hashnode.dev/configurando-rancher-em-um-arm-ckbvnad7u0076c7s1dljnfwnf) até para poder ter a [sua própria nuvem](https://fazenda.hashnode.dev/nuvem-de-terceiros-quando-voce-pode-ter-a-sua-propria-em-casa-com-o-clique-de-um-botao-ckccpbe5k005sqgs18e89h4ik?guid=fc79cfb5-a8ef-4e54-a34e-11c1a1df9920). Caso a situação não permita fazer isso porque não tem uma máquina velha sobrando em casa, tudo bem porque você pode fazer o seu sistema rodar 24/7, caso tenha os seguintes itens:
+
+1. fonte USB -- contando o cabo
+2. microSD -- uns 8GB pelo menos
+3. Uma Raspberry Pi -- a  [Zero W](https://produto.mercadolivre.com.br/MLB-1523834959-placa-raspberry-pi-zero-w-com-wifi-e-bluetooth-_JM#position=25&type=item&tracking_id=d182735a-e499-47e6-9ec6-1f1eff33f1dd) funciona
+
+Caso não os tenha, tudo ficaria em torno de uns 200 reais se pegar de um site como AliExpress. Caso o valor seja muito para você, lembre que muitas nuvens possuem planos de avaliação gratuita de até um ano e caso more em república as vezes pode ver de rachar o custo com seus amigos -- provavelmente vocês gastam já BEM mais por mês mesmo com breja.
+
+## Rancher
+
+Caso queira rodar no [Rancher](https://rancher.com/) basta quebrar os containers do `docker-compose.yml` em dois deploys do no seu painel:
+
+- O banco de dados:
+
+![image1275.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1594366289388/4-f1P5clr.png)
+
+- O site:
+
+![image1287.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1594366294653/HDX7JR-3E.png)
+
+Logo depois disso o sistema é acessível de qualquer dispositivo dentro do meu wi-fi -- e, teoricamente, fora de casa por Virutal Private Network (VPN) -- através do ip e porta configurada no sevidor.
+
+obs: no caso do Mongo você não vai conseguir rodar em todos os tipos de arquitetura uma vez que ela só suporta três atualmente
+
+# Indo além
+
+-  [Shiny Tutorial](https://bookdown.org/weicheng/shinyTutorial/)
+-  [PWS examples - Successful Progressive Web Apps](https://appmaker.xyz/pwa-examples-successful-progressive-web-apps/) 
