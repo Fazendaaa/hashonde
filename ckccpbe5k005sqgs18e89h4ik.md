@@ -1,1 +1,102 @@
-IyMgTnV2ZW0gZGUgdGVyY2Vpcm9zIHF1YW5kbyB2b2PDqiBwb2RlIHRlciBhIHN1YSBwcsOzcHJpYSBlbSBjYXNhIGNvbSBvIGNsaXF1ZSBkZSB1bSBib3TDo28/Cgo+IE7Do28gc291IG8gTWFydmVsIENpbmVtYXRpYyBVbml2ZXJzZSAoTUNVKSBtYXMgZ29zdG8gZGUgdHJhYmFsaGFyIGVtIGdhbmNob3MgZGVpeGFkb3MgZGUgb25kZSBbYSDDumx0aW1hIGhpc3TDs3JpYSBwYXJvdV0oaHR0cHM6Ly9mYXplbmRhLmhhc2hub2RlLmRldi9jb21vLWRpc3RyaWJ1aXItY29kaWdvLXBhcmEtcm9kYXItZW0tZGl2ZXJzYXMtYXJxdWl0ZXR1cmFzLXItZG9ja2VyLWJ1aWxkeC1ja2M1aTNvZ2owMGJsbHBzMTB6bm5ieWlvKS4KCiMgUXVlbSDDqSB2b2PDqj8KCk7Do28gcXVlcmVuZG8gZW50cmFyIG5hIHBhcnRlIGZpbG9zw7NmaWNhIGRhIHF1ZXN0w6NvIGVtIHNpIG1hcyBsZXZhbnRhciBtYWlzIHF1ZXN0aW9uYW1lbnRvcyBlbSBjaW1hIGRlbGE6CgotIFN1YSBtw6NlIMOpIGEgcGVzc29hIHF1ZSBtYWlzIHRlIGNvbmhlY2U/Ci0gU2V1IGhpc3TDs3JpY28gZXNjb2xhciBkYSBxdWludGEgc8OpcmllIGRlZmluaXUgdG9kYSBzdWEgdmlkYSBhIHBhcnRpciBkZSBlbnTDo28/Ci0gT3Mgc2V1cyBsaWtlcyBkbyBGYWNlYm9vayBkaXplbSByZWFsbWVudGUgcXVlbSBbdm9jw6ogw6ldKGh0dHBzOi8vd3d3LndpcmVkLmNvbS8yMDE1LzAxL2ZhY2Vib29rLXBlcnNvbmFsaXR5LXRlc3QvKT8KCkNvbnNpZGVyYW5kbyBxdWUgYXMgZXN0aW1hdGl2YXMgcGFyYSBlc3RlIGFubyBlcmFtIHF1ZSBbY2FkYSBwZXNzb2EgcHJvZHV6aXNzZSAxLjcgTUIgZGUgZGFkb3MgcG9yIHNlZ3VuZG9dKGh0dHBzOi8vd3d3LnNvY2lhbG1lZGlhdG9kYXkuY29tL25ld3MvaG93LW11Y2gtZGF0YS1pcy1nZW5lcmF0ZWQtZXZlcnktbWludXRlLWluZm9ncmFwaGljLTEvNTI1NjkyLykgLS0gbyBxdWUgZGFyaWEgbWFpcyBvdSBtZW5vcyA0MiBbam9nb3MgZGUgTkVTXShodHRwczovL3lvdXR1LmJlL1pXUTA1OTFQQXhNKSBwb3Igc2VndW5kbyAtLSBuw6NvIMOpIGEgdG9hIHF1ZSBhZmlybWHDp8O1ZXMgZGUgcXVlIGRhZG9zIHPDo28gbyAgWyJwZXRyw7NsZW8gZG8gc8OpY3VsbyBYWEkiXShodHRwczovL3d3dy53aXJlZC5jb20vaW5zaWdodHMvMjAxNC8wNy9kYXRhLW5ldy1vaWwtZGlnaXRhbC1lY29ub215Lykgc2UgdG9ybmFyYW0gcG9wdWxhcmVzLiAKCiFbMzg2NzA5N19hZmVjMjNhM2VmX28uanBnXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTU5NDA5MzYyMDc0Ny83SW9hRllLSHMuanBlZykKCiBbIm1wXzAxNDZfMDI3Il0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvNDMwMTM5OTJATjAwLzM4NjcwOTcpIGJ5IFt2cGhpbGxdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzQzMDEzOTkyQE4wMCkgIGlzIGxpY2Vuc2VkIHVuZGVyIFtDQyBCWS1OQy1TQSAyLjBdKGh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS1uYy1zYS8yLjAvP3JlZj1jY3NlYXJjaCZhdHlwZT1yaWNoKSAKCiMgVm9jw6ogW3JlYWxtZW50ZV0gcG9zc3VpIHNldXMgZGFkb3M/Cgo+IE91IHPDo28gZWxlcyBxdWUgdGUgcG9zc3VlbT8KCiFbMTE5MTE3NDYzM18wYTY5ODJiODU4X28uanBnXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTU5NDA5Mzk3NzQ2Ni84bVh1bmdyTFAuanBlZykKCiBbIkxpb24gQ3ViIl0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvNDgzNTUyNDNATjAwLzExOTExNzQ2MzMpIGJ5IFtlbG1hZGFdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzQ4MzU1MjQzQE4wMCkgaXMgbGljZW5zZWQgdW5kZXIgW0NDIEJZLU5DLVNBIDIuMCBdKGh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS1uYy1zYS8yLjAvP3JlZj1jY3NlYXJjaCZhdHlwZT1yaWNoKQoKSW5pY2lhdGl2YXMgY29tbyBhIFtHUERSXShodHRwczovL2dkcHItaW5mby5ldS8pIC0tIGUgYSBzdWEgInZlcnPDo28gYnJhc2lsZWlyYSIgW0xHUERdKGh0dHA6Ly93d3cucGxhbmFsdG8uZ292LmJyL2NjaXZpbF8wMy9fYXRvMjAxNS0yMDE4LzIwMTgvbGVpL0wxMzcwOS5odG0pIC0tIHBvciBtYWlzICIiImxvdXbDoXZlaXMiIiIgcXVlIHNlamFtIGVsYXMgbsOjbyB0cmF0YW0gZG8gcHJvYmxlbWEgcHJpbmNpcGFsIHF1ZSDDqTogbWVzbW8gY29tIG8gYW5vbmltaXphw6fDo28gZG9zIGRhZG9zLCAnb3B0LWlucycgZSAnb3B0LW91dHMnIGRhIHZpZGEsICoqYXMgZW1wcmVzYXMgYWluZGEgcG9kZW0gdXPDoS1sb3MgY29tbyBiYXNlIGRlIHByb2Nlc3NhbWVudG8qKi4KCkFzc2ltIGNvbW8gbyBlbnZpc2lvbmFkbyBwb3IgYWxndW5zIHByb2pldG9zIGEgaWRlaWEgZGUgZW1wcmVzYXMgcGFnYXJlbSBwb3IgcHJvY2Vzc2FyZW0gc2V1cyBkYWRvcyBvdSBhdMOpIG1lc21vIGNvbW8gbyBNS0JIRCBjb2xvY291IHVtYSB2ZXogZW0gdW1hIFtlbnRyZXZpc3RhIGFvIEpvZSBSb2dhbl0oaHR0cHM6Ly95b3V0dS5iZS9RU0dhTVVCQzRNYykgcXVlIHNlIGZvcmVtIHBhcmEgdGVyIG9zIGRhZG9zIGRlbGUgcXVlIHBlbG8gbWVub3MgW28gR29vZ2xlXSBkZXNzZSBiZW5lZsOtY2lvcyBjb21vIGluZm9ybWHDp8O1ZXMgcGFyYSBzYWlyIG1haXMgY2VkbyBkZSBjYXNhIHBhcmEgaXIgcHJvIHRyYWJhbGhvIHBvciBjYXVzYSBkZSB0csOibnNpdG8uCgpDb21vIGrDoSBwb250dWFkbyB2w6FyaWFzIGUgdsOhcmlhcyB2ZXplcyBwb3IgUmljaGFyZCBTdGFsbG1hbiBhIGlkZWlhIGRlICJwcmF0aWNpZGFkZSIgcG9kZSBzZXIgYmFzaWNhbWVudGUgdW0gZGlzZmFyY2UgcGFyYSB0ZSBjb2xvY2FyIGVtIGFsZ2VtYXMgdW1hIHZleiBxdWUgbXVpdG9zIGRlc3NlcyBzb2Z0d2FyZXMgdsOjbyBhbMOpbSBkYSBpZGVpYSBkZSAqdmVuZG9yIGxvY2staW4qIGUgY2hlZ2FtIGFvIHBvbnRvIGRlIHNlciBjcmltZSBlbSBhbGd1bnMgcGHDrXNlcyBhIGRpc3RyaWJ1acOnw6NvIGRlIHNvZnR3YXJlcyBxdWUgcXVlYnJlbSBjYW1hZGFzIGRlIHNpc3RlbWFzIHBhcmEgc2UgdmVyIG8gY29yZSBkYSBhcGxpY2HDp8OjbyBxdWUgbXVpdG9zIGhhcmR3YXJlcyByb2RhbS4KCiMgTmV4dENsb3VkCgohWzM3OTkwMDczMzZfNmI3ZmZhNGNiY19vLmpwZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE1OTQwOTQ1NTY4NDIvQ3o2ei0xUWZiLmpwZWcpCgogWyJEaXR0byJdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzMyMjI0MTMzQE4wNy8zNzk5MDA3MzM2KSBieSBbc2lja21vdXRoeV0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvMzIyMjQxMzNATjA3KSBpcyBsaWNlbnNlZCB1bmRlciBbQ0MgQlktTkMgMi4wXShodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnktbmMvMi4wLz9yZWY9Y2NzZWFyY2gmYXR5cGU9cmljaCkKCk8gcHJpbmNpcGFsIHBvbnRvIGRlc3RlIHRleHRvIG7Do28gw6kgYXByZXNlbnRhciBvIFtOZXh0Q2xvdWRdKGh0dHBzOi8vbmV4dGNsb3VkLmNvbS8pIGNvbW8gInByb2R1dG8iIG1hcyBzaW0gY29tZW50YXIgY29tbyBlbGUgcG9kZSB0ZSBhanVkYXIgYSB0ZXIgbyBjb250cm9sZSBtYWlvciBzb2JyZSBvcyBzZXVzIGRhZG9zIGUgc2VyIHVtYSBkYXMgb3DDp8O1ZXMgcGFyYSB2b2PDqi4gQ2FzbyBuw6NvIGdvc3RlIGRhIHByb3Bvc3RhIGRlbGVzLCBhbGd1bnMgY29tcGV0aWRvcmVzIGVzdGFyw6NvIGxpbmthZG9zIG5vICJpbmRvIGFsw6ltIiBhbyBmaW5hbCBkZXN0ZSB0ZXh0by4KCiMjIFJhbmNoZXIKCkNhc28gdm9jw6ogdGVuaGEgdW1hIGluc3TDom5jaWEgZGUgW1JhbmNoZXJdKGh0dHBzOi8vcmFuY2hlci5jb20vKSBqw6Egcm9kYW5kbyBlbSBzdWEgY2FzYSBvdSBhdMOpIG1lc21vIHVtYSBzaW1wbGVzIFNpbmdsZSBCb2FyZCBDb21wdXRlciAoU0JDKSBzb2JyYW5kbyBlbSBhbGd1bSBjYW50byB2b2PDqiBwb2RlIHVzYXIgYSBbaW1hZ2VtIGRvIG9maWNpYWxdKGh0dHBzOi8vaHViLmRvY2tlci5jb20vXy9uZXh0Y2xvdWQvKSBkbyBwcm9qZXRvIGUgcm9kYXIgZW0gdW0gY29tYW5kbyBzw7MgcGVsbyB0ZXJtaW5hbCwgb3UgYXTDqSBtZXNtbyBzaW1wbGVzbWVudGUgYXRyYXbDqXMgZG9zIGNsaXF1ZXMgZGUgdW0gYm90w6NvLCB1bWEgdmV6IHF1ZSBzZSB0cmF0YSBkZSBhcGVuYXMgKipVTUEqKiBpbWFnZW0gZSBuw6NvIHbDoXJpYXMgcXVlIHBvZGVyaWFtIHNlciBvcnF1ZXN0cmFkYSBlbSB1bSBgZG9ja2VyLWNvbXBvc2UueW1sYC4KCkFxdWkgZXN0w6EgY29tbyBmaWNvdSBubyBtZXUgY2x1c3RlciBqw6EgW2NvbmZpZ3VyYWRvIGFudGVyaW9ybWVudGVdKGh0dHBzOi8vZmF6ZW5kYS5oYXNobm9kZS5kZXYvY29uZmlndXJhbmRvLXJhbmNoZXItZW0tdW0tYXJtLWNrYnZuYWQ3dTAwNzZjN3MxZGxqbmZ3bmY/Z3VpZD02NTRkMjc3YS1mN2UwLTQ4YWMtYmMyZi0xM2FhOGI1Y2E4YzQpOgoKIVtpbWFnZTg4Ny5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNTk0MTY5NzM0MDMzL0lUc0hIdFd4cC5wbmcpCgohW2ltYWdlODc1LnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE1OTQxNjk3NTQ4NzEvaXZDYTJHYWlPLnBuZykKCkxvZ28gYXDDs3MgZGlzc28gc8OzIGFwZXJ0YXIgbyBib3TDo28gIkxhdW5jaCIgZSBhY2Vzc2FyIG8gc2VydmnDp28gbmEgcG9ydGEgcXVlIGFsb2NvdSBwYXJhIGVsZSAtLSBubyBtZXUgY2FzbyBhIGA4ODg4YDoKCiFbZzg3NS5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNTk0MTY5OTkwMDMzL3cxVTNudjdseC5wbmcpCgpvYnM6IGFjYWJlaSBjcmlhbmRvIHVtYSBwYXN0YSBubyBzZXJ2aWRvciBwYXJhIGFybWF6ZW5hciBvcyBkYWRvcyBnZXJhZG9zIG5vIGhvc3QsIHRvZGF2aWEgcmVjb21lbmRvIHZlciBxdWFsIGRhcyBzb2x1w6fDtWVzIGRlIGFybWF6ZW5hbWVudG8gdm9jw6ogdmFpIGVzY29saGVyIHBhcmEgc3VwcmlyIG1lbGhvciBzdWEgbmVjZXNzaWRhZGUKCiMgQSBkZWNpc8OjbyDDqSBzdWEKCiFbNDczOTA4NTQwNV8yMmM0MzI1YTIyX28uanBnXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTU5NDA5NDM3MDIyOS9WSkVEaWJ6enEuanBlZykKCiBbIkJpZi4gJiBHYXJlIGRlIFN0IFZhYXN0IEJvc3ZpbGxlIC0gMDg4Il0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvNDQwMDc0MjVATjA1LzQ3MzkwODU0MDUpIGJ5IFs4VWhyXShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy80NDAwNzQyNUBOMDUpIGlzIGxpY2Vuc2VkIHVuZGVyIFtDQyBCWS1OQyAyXShodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnktbmMvMi4wLz9yZWY9Y2NzZWFyY2gmYXR5cGU9cmljaCkKCkNhc28gZGVjaWRhIHJlYWxtZW50ZSBzZWd1aXIgbyBjYW1pbmhvIGRlIHN1YmlyIHN1YSBwcsOzcHJpYSBpbnN0w6JuY2lhIGRvIE5leHRDbG91ZCBhbnRlcyBkZSB0dWRvIGNvbnNpZGVyZSBvcyBwb250b3MgYXByZXNlbnRhZG9zIG5vcyBwcsOzeGltb3MgdMOzcGljb3MuCgojIyBUdWRvIGVtIHVtIGx1Z2FyIHPDsyBuw6NvIG5lY2Vzc2FyaWFtZW50ZSDDqSBhIG1lbGhvciBpZGVpYQoKU2VtcHJlIHByb2N1cmFuZG8gc2VndWlyIGEgcmVncmEgZG8gMy0yLTEgcGFyYSBiYWNrdXBzOgoKLSAzIGPDs3BpYXMgZG9zIGRhZG9zCi0gMiBhcm1hemVuYWRhcyBlbSBtw61kaWFzIGRpZmVyZW50ZXMKLSAxIGxvY2FsaXphZGEgZm9yYQoKTyBtYWlzIHJlY29tZW5kYWRvIHNlcmlhLCBuZXN0ZSBwcmltZWlybyBtb21lbnRvLCBhbnRlcyBtZXNtbyBkZSByb2RhciBvIE5leHRDbG91ZCAiZW0gcHJvZHXDp8OjbyIgbmEgc3VhIGNhc2Egc2VyaWEgY29uc2lkZXJhciBmYXplciBhcGVuYXMgdGVzdGVzIGNvbSBlbGUsIHNlamEgZW0gY2FzYSBvdSBhdMOpIG1lc21vIGVtIGFsZ3VtIGNsb3VkIHByb3ZpZGVyIGNvbW8gbyBbTGlub2RlXShodHRwczovL3d3dy5saW5vZGUuY29tLykgY2FzbyBuw6NvIHRlbmhhIHVtIGhhcmR3YXJlIHBhcmEgcm9kYXIgbG9jYWxtZW50ZSAyNC83IGFpbmRhIG91IGVucXVhbnRvIHByb3ZpZGVuY2lhIGVxdWlwYW1lbnRvcyBwYXJhIGZhemVyIHVtIE5ldHdvcmsgQXR0YWNoZWQgU3lzdGVtIChOQVMpIGZvcmEgbG9jYWxpemHDp8OjbyBvbmRlIG8gc2V1IHNpc3RlbWEgdmFpIHJvZGFyIC0tIHBhcmEgZmF6ZXIgb3MgYmFja3Vwcy4KCiMjIEFjZXNzYXIgZm9yYSBkZSBjYXNhCgpMZW1icmFuZG8gcXVlIGNhc28gcXVlcmlhIGFjZXNzYXIgYSBzdWEgbm92YSBudXZlbSB2b2PDqiBwcmVjaXNhcsOhIGRlIHVtIGlwIGZpeG8gZSBjb2luY2lkZW50ZW1lbnRlIGjDoSBkb2lzIGRpYXMgdW0gY29sZWdhIGRlIHRyYWJhbGhvIGUgZXUgZml6ZW1vcyBpc3NvLCBhdHJhdsOpcyBkbyBbbm9pcF0oaHR0cHM6Ly93d3cubm9pcC5jb20vKSBjb20gYSBhanVkYSAgW2Rlc3RlXShodHRwczovL2dpdGh1Yi5jb20vY29wcGl0L2RvY2tlci1uby1pcCkgRG9ja2VyIHF1ZSB0YW1iw6ltIHNlIGVuY29udHJhIHJvZGFuZG8gbm8gbWVzbW8gc2Vydmlkb3IgUmFuY2hlciBkYSBlbXByZXNhLgoKb2JzOiBubyBub3NzbyBjYXNvIGVzdGFtb3MgdGFtYsOpbSB1dGlsaXphbmRvIE9wZW5WUE4gZW0gdW0gTmV0Z2F0ZSByb2RhbmRvIFtwZlNlbnNlXShwZnNlbnNlLm9yZy8pLCBvIHF1ZSBwcmV0ZW5kbyBlc2NyZXZlciBzb2JyZSBxdWFuZG8gcmVwcm9kdXppciBvIG1lc21vIGVtIGNhc2EKCiMjIE92ZXJoZWFkCgo+IFNpbSwgdm9jw6ogdGVyw6EgcXVlIHNlIGFkYXB0YXIuLi4KCkFub3MgZSBhbm9zIHV0aWxpemFuZG8gb3Mgc2VydmnDp29zIGRhIE1pY3Jvc29mdCwgR29vZ2xlLCBBcHBsZSBvdSBhdMOpIG1lc21vIC0tIHNlIHZvY8OqIMOpIHF1ZSBuZW0gbyBtZXUgcGFpIC0tIG8gQk9MLCBwb2RlIHNlIHRvcm5hciB1bWEgZ3JhbmRlIGRvciBkZSBjYWJlw6dhIG5vIGNvbWXDp28sIG1hcyB0YWx2ZXogdsOhIHZhbGVyIGEgcGVuYSBwYXJhIHZvY8OqLgoKIyBJbmRvIGFsw6ltCgohWzUyNDYyMTIxNDlfZjRmNmQ0NjhmMl9vLmpwZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE1OTQwOTQ2ODgzNzYvYkhBQzZYZzV4LmpwZWcpCgogWyJSb2NreSBTdGF0dWUiXShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy81Njg2MTUzMkBOMDYvNTI0NjIxMjE0OSkgYnkgW3RvcmllY2FycjgyMl0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvNTY4NjE1MzJATjA2KSBpcyBsaWNlbnNlZCB1bmRlciBbQ0MgQlktU0EgMi4wXShodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnktc2EvMi4wLz9yZWY9Y2NzZWFyY2gmYXR5cGU9cmljaCkKCi0gRm90byBkZSBjYXBhIGRhIHB1YmxpY2HDp8OjbzogIFsiLnN1bi4iXShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy84Mjc2OTkyQE4wNi8zMzM0MTE4NjM0KSBieSBbYW1pc2gucGF0ZWxdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzgyNzY5OTJATjA2KSBpcyBsaWNlbnNlZCB1bmRlciAgW0NDIEJZLVNBIDIuMF0oaHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LXNhLzIuMC8/cmVmPWNjc2VhcmNoJmF0eXBlPXJpY2gpCi0gW0ZhY2Vib29rIG1hbmlwdWxhdGVkIDY4OTAwMyB1c2VycyBlbW90aW9ucyBmb3Igc2NpZW5jZV0oaHR0cHM6Ly93d3cuZm9yYmVzLmNvbS9zaXRlcy9rYXNobWlyaGlsbC8yMDE0LzA2LzI4L2ZhY2Vib29rLW1hbmlwdWxhdGVkLTY4OTAwMy11c2Vycy1lbW90aW9ucy1mb3Itc2NpZW5jZS8pCi0gW0lsbGVnYWwgcHJpbWVdKGh0dHBzOi8vZW4ud2lraXBlZGlhLm9yZy93aWtpL0lsbGVnYWxfcHJpbWUpIAotIFtEZUNTU10oaHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRGVDU1MpIAotIFtOZXh0Q2xvdWQgdnMgb3duQ2xvdWRdKGh0dHBzOi8vY2l2aWhvc3RpbmcuY29tL2Jsb2cvbmV4dGNsb3VkLXZzLW93bmNsb3VkLykgCi0gW3NlYWZpbGVdKGh0dHBzOi8vd3d3LnNlYWZpbGUuY29tL2VuL2hvbWUvKQotIFtCdWlsZCBhIFJhc3BiZXJyeSBQaSBOQVMgd2l0aCA0IEhhcmQgRHJpdmVzIGFuZCBSQUlEXShodHRwczovL3lvdXR1LmJlL08tRmZPV2RaQVE0KQotIFtSQUlEIGlzIE5vdCBhIEJhY2t1cCBTb2x1dGlvbl0oaHR0cHM6Ly93d3cuMmJyaWdodHNwYXJrcy5jb20vcmVzb3VyY2VzL2FydGljbGVzL1JBSUQtaXMtbm90LWEtYmFja3VwLXNvbHV0aW9uLmh0bWwpIAotIFtOZXRzaG9lcyBwYWdhIFIkIDUwMCBtaWwgZW0gZGFub3MgbW9yYWlzIGFww7NzIHZhemFtZW50byBkZSBkYWRvc10oaHR0cHM6Ly90ZWNub2Jsb2cubmV0LzI3NzU5NC9uZXRzaG9lcy1hY29yZG8tbXBkZnQtdmF6YW1lbnRvLWRhZG9zLykKLSBbSW5zdGl0dXRvIG5vdGlmaWNhIERhdGFwcmV2IGUgYXBvbnRhIHZhemFtZW50byBkZSBkYWRvcyBkbyBJTlNTIF0oaHR0cHM6Ly9pZGVjLm9yZy5ici9pZGVjLW5hLWltcHJlbnNhL2luc3RpdHV0by1ub3RpZmljYS1kYXRhcHJldi1lLWFwb250YS12YXphbWVudG8tZGUtZGFkb3MtZG8taW5zcykg
+# Nuvem de terceiros quando você pode ter a sua própria em casa com o clique de um botão?
+
+> Não sou o Marvel Cinematic Universe (MCU) mas gosto de trabalhar em ganchos deixados de onde [a última história parou](https://fazenda.hashnode.dev/como-distribuir-codigo-para-rodar-em-diversas-arquiteturas-r-docker-buildx-ckc5i3ogj00bllps10znnbyio).
+
+# Quem é você?
+
+Não querendo entrar na parte filosófica da questão em si mas levantar mais questionamentos em cima dela:
+
+- Sua mãe é a pessoa que mais te conhece?
+- Seu histórico escolar da quinta série definiu toda sua vida a partir de então?
+- Os seus likes do Facebook dizem realmente quem [você é](https://www.wired.com/2015/01/facebook-personality-test/)?
+
+Considerando que as estimativas para este ano eram que [cada pessoa produzisse 1.7 MB de dados por segundo](https://www.socialmediatoday.com/news/how-much-data-is-generated-every-minute-infographic-1/525692/) -- o que daria mais ou menos 42 [jogos de NES](https://youtu.be/ZWQ0591PAxM) por segundo -- não é a toa que afirmações de que dados são o  ["petróleo do século XXI"](https://www.wired.com/insights/2014/07/data-new-oil-digital-economy/) se tornaram populares. 
+
+![3867097_afec23a3ef_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1594093620747/7IoaFYKHs.jpeg)
+
+ ["mp_0146_027"](https://www.flickr.com/photos/43013992@N00/3867097) by [vphill](https://www.flickr.com/photos/43013992@N00)  is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=rich) 
+
+# Você [realmente] possui seus dados?
+
+> Ou são eles que te possuem?
+
+![1191174633_0a6982b858_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1594093977466/8mXungrLP.jpeg)
+
+ ["Lion Cub"](https://www.flickr.com/photos/48355243@N00/1191174633) by [elmada](https://www.flickr.com/photos/48355243@N00) is licensed under [CC BY-NC-SA 2.0 ](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=rich)
+
+Iniciativas como a [GPDR](https://gdpr-info.eu/) -- e a sua "versão brasileira" [LGPD](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm) -- por mais """louváveis""" que sejam elas não tratam do problema principal que é: mesmo com o anonimização dos dados, 'opt-ins' e 'opt-outs' da vida, **as empresas ainda podem usá-los como base de processamento**.
+
+Assim como o envisionado por alguns projetos a ideia de empresas pagarem por processarem seus dados ou até mesmo como o MKBHD colocou uma vez em uma [entrevista ao Joe Rogan](https://youtu.be/QSGaMUBC4Mc) que se forem para ter os dados dele que pelo menos [o Google] desse benefícios como informações para sair mais cedo de casa para ir pro trabalho por causa de trânsito.
+
+Como já pontuado várias e várias vezes por Richard Stallman a ideia de "praticidade" pode ser basicamente um disfarce para te colocar em algemas uma vez que muitos desses softwares vão além da ideia de *vendor lock-in* e chegam ao ponto de ser crime em alguns países a distribuição de softwares que quebrem camadas de sistemas para se ver o core da aplicação que muitos hardwares rodam.
+
+# NextCloud
+
+![3799007336_6b7ffa4cbc_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1594094556842/Cz6z-1Qfb.jpeg)
+
+ ["Ditto"](https://www.flickr.com/photos/32224133@N07/3799007336) by [sickmouthy](https://www.flickr.com/photos/32224133@N07) is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=rich)
+
+O principal ponto deste texto não é apresentar o [NextCloud](https://nextcloud.com/) como "produto" mas sim comentar como ele pode te ajudar a ter o controle maior sobre os seus dados e ser uma das opções para você. Caso não goste da proposta deles, alguns competidores estarão linkados no "indo além" ao final deste texto.
+
+## Rancher
+
+Caso você tenha uma instância de [Rancher](https://rancher.com/) já rodando em sua casa ou até mesmo uma simples Single Board Computer (SBC) sobrando em algum canto você pode usar a [imagem do oficial](https://hub.docker.com/_/nextcloud/) do projeto e rodar em um comando só pelo terminal, ou até mesmo simplesmente através dos cliques de um botão, uma vez que se trata de apenas **UMA** imagem e não várias que poderiam ser orquestrada em um `docker-compose.yml`.
+
+Aqui está como ficou no meu cluster já [configurado anteriormente](https://fazenda.hashnode.dev/configurando-rancher-em-um-arm-ckbvnad7u0076c7s1dljnfwnf?guid=654d277a-f7e0-48ac-bc2f-13aa8b5ca8c4):
+
+![image887.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1594169734033/ITsHHtWxp.png)
+
+![image875.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1594169754871/ivCa2GaiO.png)
+
+Logo após disso só apertar o botão "Launch" e acessar o serviço na porta que alocou para ele -- no meu caso a `8888`:
+
+![g875.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1594169990033/w1U3nv7lx.png)
+
+obs: acabei criando uma pasta no servidor para armazenar os dados gerados no host, todavia recomendo ver qual das soluções de armazenamento você vai escolher para suprir melhor sua necessidade
+
+# A decisão é sua
+
+![4739085405_22c4325a22_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1594094370229/VJEDibzzq.jpeg)
+
+ ["Bif. & Gare de St Vaast Bosville - 088"](https://www.flickr.com/photos/44007425@N05/4739085405) by [8Uhr](https://www.flickr.com/photos/44007425@N05) is licensed under [CC BY-NC 2](https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=rich)
+
+Caso decida realmente seguir o caminho de subir sua própria instância do NextCloud antes de tudo considere os pontos apresentados nos próximos tópicos.
+
+## Tudo em um lugar só não necessariamente é a melhor ideia
+
+Sempre procurando seguir a regra do 3-2-1 para backups:
+
+- 3 cópias dos dados
+- 2 armazenadas em mídias diferentes
+- 1 localizada fora
+
+O mais recomendado seria, neste primeiro momento, antes mesmo de rodar o NextCloud "em produção" na sua casa seria considerar fazer apenas testes com ele, seja em casa ou até mesmo em algum cloud provider como o [Linode](https://www.linode.com/) caso não tenha um hardware para rodar localmente 24/7 ainda ou enquanto providencia equipamentos para fazer um Network Attached System (NAS) fora localização onde o seu sistema vai rodar -- para fazer os backups.
+
+## Acessar fora de casa
+
+Lembrando que caso queria acessar a sua nova nuvem você precisará de um ip fixo e coincidentemente há dois dias um colega de trabalho e eu fizemos isso, através do [noip](https://www.noip.com/) com a ajuda  [deste](https://github.com/coppit/docker-no-ip) Docker que também se encontra rodando no mesmo servidor Rancher da empresa.
+
+obs: no nosso caso estamos também utilizando OpenVPN em um Netgate rodando [pfSense](pfsense.org/), o que pretendo escrever sobre quando reproduzir o mesmo em casa
+
+## Overhead
+
+> Sim, você terá que se adaptar...
+
+Anos e anos utilizando os serviços da Microsoft, Google, Apple ou até mesmo -- se você é que nem o meu pai -- o BOL, pode se tornar uma grande dor de cabeça no começo, mas talvez vá valer a pena para você.
+
+# Indo além
+
+![5246212149_f4f6d468f2_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1594094688376/bHAC6Xg5x.jpeg)
+
+ ["Rocky Statue"](https://www.flickr.com/photos/56861532@N06/5246212149) by [toriecarr822](https://www.flickr.com/photos/56861532@N06) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich)
+
+- Foto de capa da publicação:  [".sun."](https://www.flickr.com/photos/8276992@N06/3334118634) by [amish.patel](https://www.flickr.com/photos/8276992@N06) is licensed under  [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich)
+- [Facebook manipulated 689003 users emotions for science](https://www.forbes.com/sites/kashmirhill/2014/06/28/facebook-manipulated-689003-users-emotions-for-science/)
+- [Illegal prime](https://en.wikipedia.org/wiki/Illegal_prime) 
+- [DeCSS](https://en.wikipedia.org/wiki/DeCSS) 
+- [NextCloud vs ownCloud](https://civihosting.com/blog/nextcloud-vs-owncloud/) 
+- [seafile](https://www.seafile.com/en/home/)
+- [Build a Raspberry Pi NAS with 4 Hard Drives and RAID](https://youtu.be/O-FfOWdZAQ4)
+- [RAID is Not a Backup Solution](https://www.2brightsparks.com/resources/articles/RAID-is-not-a-backup-solution.html) 
+- [Netshoes paga R$ 500 mil em danos morais após vazamento de dados](https://tecnoblog.net/277594/netshoes-acordo-mpdft-vazamento-dados/)
+- [Instituto notifica Dataprev e aponta vazamento de dados do INSS ](https://idec.org.br/idec-na-imprensa/instituto-notifica-dataprev-e-aponta-vazamento-de-dados-do-inss) 
