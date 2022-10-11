@@ -1,1 +1,70 @@
-IyMgQ29uZmlndXJhbmRvIFJhbmNoZXIgZW0gdW0gQVJNCgojIEludHJvZHXDp8OjbwoKR3Jhw6dhcyBhbyBjYW5hbCBkbyBZb3VUdWJlIGRvICBbVGVjaG5vIFRpbV0oaHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQ09rLWdIeWpjV1pOajNCcjRveHdoMEEpIGV1IGZ1aSBleHBvc3RvIGFvICBbUmFuY2hlcl0oaHR0cHM6Ly9yYW5jaGVyLmNvbS8pLCBvIHF1ZSBwcmEgbWltIGZvaSBzZW5zYWNpb25hbC4gVmluZG8gZGUgdW0gYmFja2dyb3VuZCBkZSB1bWEgcGVzc29hIHF1ZSBnb3N0YSBkZSAgW0RvY2tlcl0oaHR0cHM6Ly93d3cuZG9ja2VyLmNvbS8pIG1hcyBjb20gKipaRVJPKiogY29uaGVjaW1lbnRvIGRlICBbS3ViZXJuZXRlc10oaHR0cHM6Ly9rdWJlcm5ldGVzLmlvLykgLS0gYWzDqW0gZG8gZmF0byBkZSBzYWJlciBxdWUgZWxlIGV4aXN0ZSBlIMOpIHVtIG9ycXVlc3RyYWRvciBkZSBjb250YWluZXJzIC0tLCBkZXNjb2JyaXIgdW1hIHNvbHXDp8OjbyBxdWUgcmVkdXogYSBjb21wbGV4aWRhZGUgZGUgdXNhciBLdWJlcm5ldGVzIGUgYW8gbWVzbW8gdGVtcG8gc2VyIHVtIG5vcnRlIHBhcmEgYXByZW5kZXIgZWxlLCBSYW5jaGVyIGFwYXJlY2V1IGVtIHVtIGJvbSBtb21lbnRvLgoKRGFkbyBlc3RhIHByw6l2aWEsIGV1IHF1ZXJpYSBjb2xvY2FyIGFzIG1pbmhhcyBtw6NvcyBlbSBtZXhlciBubyBzaXN0ZW1hIG1hcyByb2RhciBlbGUgbmEgbWluaGEgIFtOYW5vcGkgTTRdKGh0dHBzOi8vd3d3LmZyaWVuZGx5YXJtLmNvbS9pbmRleC5waHA/cm91dGU9cHJvZHVjdC9wcm9kdWN0JnByb2R1Y3RfaWQ9MjM0KSAgLS0gcXVlIMOpLCBhbyBtZXUgdmVyLCBhIHBsYWNhIGNvbSBvIG1lbGhvciBjdXN0by9iZW5lZsOtY2lvIG5hcyBvZmVydGFzIHF1ZSB1c2FtIHVtIGNoaXAgQVJNIC0tOyB0b2RhdmlhIGEgZG9jdW1lbnRhw6fDo28gZG8gcHJvY2Vzc28gbsOjbyBmb2kgZsOhY2lsIGRlIHNlIGFjaGFyLCBwcm9jdXJlaSBzZWd1aXIgIFtlc3RlXShodHRwczovL3lvdXR1LmJlL29JTGMweXdEVlRrKSB0dXRvcmlhbCBwYXJhIGNvbmZpZ3VyYcOnw6NvIGRlbGUgZW0gdW0geDg2OyBwcm9ibGVtYXMgc3VyZ2lyYW0sIG9zIGVycm9zIG7Do28gZXJhbSBjbGFyb3MgZSBldSBlc3RhdmEgdGVuZG8gbyBtZXUgcHJpbWVpcm8gY29udGF0byBjb20gYSBwbGF0YWZvcm1hLiBBcMOzcyBhbGd1bWFzIGhvcmFzIGRlIGNhbWluaG9zIGZydXN0cmFkb3MsIHVtYSBzb2x1w6fDo28gZm9pIGVuY29udHJhZGEgZSBvcyBwYXNzb3MgZm9yYW0gcmFzY3VuaGFkb3MgIFtuZXN0ZSBHaXN0XShodHRwczovL2dpc3QuZ2l0aHViLmNvbS9GYXplbmRhYWEvZDQxNzE4YWY2NTc3MThlMTA5MTRmZTgzYTExMjE3NzMpLgoKIyBQYXNzbyBBIFBhc3NvCgoxLiBCYWl4ZSBbQXJtYmlhbl0oaHR0cHM6Ly93d3cuYXJtYmlhbi5jb20vbmFub3BpLW00LykgLS0gdXNlaSBvIEJpb25pYyBzZXJ2ZXIKMi4gVXNlIHVtIElTTyBidXJuZXIgcGFyYSBncmF2YXIgbyBzaXN0ZW1hIGVtIHVtIFNEIENhcmQgLS0gdXNlaSBvICBbYmFsZW5hRXRjaGVyXShodHRwczovL3d3dy5iYWxlbmEuaW8vZXRjaGVyLykKMy4gU1NIICAtLSBhIHNlbmhhIMOpIGAxMjM0YCAtLSBuYSBzdWEgTmFub3BpIGNvbToKYGBgc2hlbGwKc3NoIC1sIHJvb3QgaXAuZGEuc3VhLnBsYWNhCmBgYAo0LiBDcmllIHVtIHVzdcOhcmlvIGUgbG9ndWUgZGUgbm92byBkZXN0YSB2ZXogbmVsZSBlIGNvbSBhIHN1YSBzZW5oYSBxdWUgY3Jpb3Ugbm8gcGFzc28gYW50ZXJpb3IKNS4gVmVyaWZpcXVlIGUgaW5zdGFsZSBvcyB1cGRhdGVzOgpgYGBzaGVsbApzdWRvIGFwdC1nZXQgdXBkYXRlCnN1ZG8gYXB0LWdldCB1cGdyYWRlIC15CmBgYAo2LiBJbnN0YWxlIG8gRG9ja2VyOgpgYGBzaGVsbApjdXJsIGh0dHBzOi8vZ2V0LmRvY2tlci5jb20gfCBzaApgYGAKNy4gU2lnYSBvcyBwYXNzb3MgZGUgYWRpY2lvbmFyIG8gc2V1IHVzw6FyaW8gcGFyYSByb2RhciBvIERvY2tlciBlbSBtb2RvIGRlIHN1cGVydXNlciBzZW0gcHJlY2lzYXIgaW52b2PDoS1sbwo4LiBJbmljaWFsaXplIG8gUmFuY2hlcjoKYGBgc2hlbGwKZG9ja2VyIHJ1biAtZCAtLXJlc3RhcnQ9dW5sZXNzLXN0b3BwZWQgXAogICAgLS1wdWJsaXNoIDgwOjgwIFwKICAgIC0tcHVibGlzaCA0NDM6NDQzIFwKICAgIC0tdm9sdW1lIC9vcHQvcmFuY2hlcjovdmFyL2xpYi9yYW5jaGVyIFwKICAgIC0tdm9sdW1lIC9saWI2NDovbGliNjQgXAogICAgLS12b2x1bWUgL2V0Yy9jbmkvOi9ldGMvY25pLyBcCiAgICByYW5jaGVyL3JhbmNoZXI6djIuNC41LXJjNwpgYGAKOS4gQWJyYSBvIHNldSBuYXZlZ2Fkb3IgZSBkaWdpdGUgbyBpcCBkYSBzdWEgTmFub3BpIGUgc2lnYSBvcyBwYXNzb3MgZGUgY29uZmlndXJhw6fDtWVzIGRvIFJhbmNoZXIKMTAuIFtQYXNzbyBFeHRyYV0gU2VtcHJlIHNlIGxlbWJyZSBkZSBxdWFuZG8gZm9yIHN1YmlyIHVtIHNlcnZpw6dvLCBkZSB1dGlsaXphciBvIGBOZXR3b3JrIFByb3ZpZGVyYCBjb21vIGBGbGFubmVsYDoKIVs4NDk2ODQyNi1kNzVhMjEwMC1iMGVjLTExZWEtOWJkYy0yMjg1ZWUyZmE3NGIucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTU5MzE0MTMwNzIxOC8wU0dYRE1GTXcucG5nKQoKIyMgUG9zc8OtdmVpcyBDb3JyZcOnw7VlcyBQYXJhIEFsZ3VucyBFcnJvcwoKQ2FzbyB0ZW5oYSBwcm9ibGVtYXMgZHVyYW50ZSBvdSBkZXBvaXMgZGEgY29uZmlndXJhw6fDo28sIHZvY8OqIHBvZGUgc2VndWlyIGVzdGVzIHNlZ3VpbnRlcyBwYXNzb3M6CgotIFJlaW5pY2lhciBzdWEgcGxhY2EKLSBgc3VkbyBybSAtciAvZXRjL2t1YmVybmV0ZXNgCi0gYHN1ZG8gcm0gLXIgL3Zhci9saWIvcmFuY2hlcmAKCiMgQSBGYXplcgoKLSBFc2NyZXZlciBvdXRybyBwb3N0IGRlIGNvbW8gY29uZmlndXJhciB1bWEgIFtSYXNwYmVycnkgUGkgWmVybyBXXShodHRwczovL3d3dy5yYXNwYmVycnlwaS5vcmcvcHJvZHVjdHMvcmFzcGJlcnJ5LXBpLXplcm8tdy8pIGNvbSB1bSBjbGllbnQgW01hZ2ljTWlycm9yXShodHRwczovL21hZ2ljbWlycm9yLmJ1aWxkZXJzLykgcm9kYW5kbyBuZWxhIGUgbyBzZXJ2ZXIgbm8gUmFuY2hlciBjb25maWd1cmFkbyBuZXN0ZSB0dXRvcmlhbAotIFRlc3RhciBlbSB1bWEgIFtSYXNwYmVycnkgUEkgNF0oaHR0cHM6Ly93d3cucmFzcGJlcnJ5cGkub3JnL3Byb2R1Y3RzL3Jhc3BiZXJyeS1waS00LW1vZGVsLWIvKSBlIHZlciBzZSBvIHByb2Nlc3NvIHNlIG1hbnRlbSBzaW1pbGFyCi0gVGVzdGFyIGVtIHVtYSBbVGlua2VyIEJvYXJkXShodHRwczovL3d3dy5hc3VzLmNvbS9ici9TaW5nbGUtQm9hcmQtQ29tcHV0ZXIvVGlua2VyLUJvYXJkLykKLSBCdWlsZGFyICBbSmVua2lnc10oaHR0cHM6Ly93d3cuamVua2lucy5pby8pIGUvb3UgIFtDaGVmXShodHRwczovL3d3dy5jaGVmLmlvLykgcGFyYSBBUk0gZSB2ZXIgZGUgcm9kYXIgZWxlcyBjb20gbyBSYW5jaGVyCgojIyBBcMOqbmRpY2UKClJlY29tZW5kbyBjb25maWd1cmFyIGFnb3JhIG9zIHNlZ3VpbnRlcyBzZXJ2acOnb3MgdW1hIHZleiBxdWUgasOhIGVzdMOhIGNvbSBvIFJhbmNoZXIgcm9kYW5kbzoKCjEuICBbSGVpbWRhbGxdKGh0dHBzOi8veW91dHUuYmUvUEEwMVo2LXo4UXMpCjIuICBbUGktSG9sZV0oaHR0cHM6Ly95b3V0dS5iZS9OUmUyLXZ5ZTNpaykgLS0gcGFydGljdWxhcm1lbnRlIG7Do28gc2VpIHNlIGZ1bmNpb25hIGJlbSBuZXN0ZSBjZW7DoXJpbywgY29tbyB1dGlsaXpvIHBmQmxvY2tlciBuw6NvIHZpIGEgbmVjZXNzaWRhZGUgZGUgY29uZmlndXJhciwgbWFzIGNhc28gbsOjbyB0ZW5oYSBuZW5odW0gZG9zIGRvaXMsIGVzdGUgc2VyaWEgdW0gY29tZcOnbwoKIyBSZWZlcsOqbmNpYXMKCi0gICBbIkl0IGJlZ2dhcnMgZGVzY3JpcHRpb24uIl0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvNTg3NTM4MzJATjA1LzQ5MzE3OTg0MTU2KSBieSAgW0NhcmxIX10oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvNTg3NTM4MzJATjA1KSBpcyBsaWNlbnNlZCB1bmRlciBbQ0MgQlktTkQgMi4wXShodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnktbmQvMi4wLykKLSAgW1JhbmNoZXIgMiBvbiBSYXNwYmVycnkgUGkgNCB3aXRoIFJhbmNoZXJPUyBBUk02NCBmYWlscyB0byBydW4gIzIxNTM0XShodHRwczovL2dpdGh1Yi5jb20vcmFuY2hlci9yYW5jaGVyL2lzc3Vlcy8yMTUzNCNpc3N1ZWNvbW1lbnQtNjQzODY1NDk0KQotICBbUnVubmluZyBvbiBBUk02NCAoRXhwZXJpbWVudGFsKV0oaHR0cHM6Ly9yYW5jaGVyLmNvbS9kb2NzL3JhbmNoZXIvdjIueC9lbi9pbnN0YWxsYXRpb24vb3B0aW9ucy9hcm02NC1wbGF0Zm9ybS8pCi0gIFtyYW5jaGVyL2ZsYW5uZWwtY25pXShodHRwczovL2dpdGh1Yi5jb20vcmFuY2hlci9mbGFubmVsLWNuaSkKLSAgW0NvbmZpZ3VyaW5nIGZsYW5uZWwgZm9yIGNvbnRhaW5lciBuZXR3b3JraW5nXShodHRwczovL2NvcmVvcy5jb20vZmxhbm5lbC9kb2NzL2xhdGVzdC9mbGFubmVsLWNvbmZpZy5odG1sKQo=
+# Configurando Rancher em um ARM
+
+# Introdução
+
+Graças ao canal do YouTube do  [Techno Tim](https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A) eu fui exposto ao  [Rancher](https://rancher.com/), o que pra mim foi sensacional. Vindo de um background de uma pessoa que gosta de  [Docker](https://www.docker.com/) mas com **ZERO** conhecimento de  [Kubernetes](https://kubernetes.io/) -- além do fato de saber que ele existe e é um orquestrador de containers --, descobrir uma solução que reduz a complexidade de usar Kubernetes e ao mesmo tempo ser um norte para aprender ele, Rancher apareceu em um bom momento.
+
+Dado esta prévia, eu queria colocar as minhas mãos em mexer no sistema mas rodar ele na minha  [Nanopi M4](https://www.friendlyarm.com/index.php?route=product/product&product_id=234)  -- que é, ao meu ver, a placa com o melhor custo/benefício nas ofertas que usam um chip ARM --; todavia a documentação do processo não foi fácil de se achar, procurei seguir  [este](https://youtu.be/oILc0ywDVTk) tutorial para configuração dele em um x86; problemas surgiram, os erros não eram claros e eu estava tendo o meu primeiro contato com a plataforma. Após algumas horas de caminhos frustrados, uma solução foi encontrada e os passos foram rascunhados  [neste Gist](https://gist.github.com/Fazendaaa/d41718af657718e10914fe83a1121773).
+
+# Passo A Passo
+
+1. Baixe [Armbian](https://www.armbian.com/nanopi-m4/) -- usei o Bionic server
+2. Use um ISO burner para gravar o sistema em um SD Card -- usei o  [balenaEtcher](https://www.balena.io/etcher/)
+3. SSH  -- a senha é `1234` -- na sua Nanopi com:
+```shell
+ssh -l root ip.da.sua.placa
+```
+4. Crie um usuário e logue de novo desta vez nele e com a sua senha que criou no passo anterior
+5. Verifique e instale os updates:
+```shell
+sudo apt-get update
+sudo apt-get upgrade -y
+```
+6. Instale o Docker:
+```shell
+curl https://get.docker.com | sh
+```
+7. Siga os passos de adicionar o seu usário para rodar o Docker em modo de superuser sem precisar invocá-lo
+8. Inicialize o Rancher:
+```shell
+docker run -d --restart=unless-stopped \
+    --publish 80:80 \
+    --publish 443:443 \
+    --volume /opt/rancher:/var/lib/rancher \
+    --volume /lib64:/lib64 \
+    --volume /etc/cni/:/etc/cni/ \
+    rancher/rancher:v2.4.5-rc7
+```
+9. Abra o seu navegador e digite o ip da sua Nanopi e siga os passos de configurações do Rancher
+10. [Passo Extra] Sempre se lembre de quando for subir um serviço, de utilizar o `Network Provider` como `Flannel`:
+![84968426-d75a2100-b0ec-11ea-9bdc-2285ee2fa74b.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1593141307218/0SGXDMFMw.png)
+
+## Possíveis Correções Para Alguns Erros
+
+Caso tenha problemas durante ou depois da configuração, você pode seguir estes seguintes passos:
+
+- Reiniciar sua placa
+- `sudo rm -r /etc/kubernetes`
+- `sudo rm -r /var/lib/rancher`
+
+# A Fazer
+
+- Escrever outro post de como configurar uma  [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) com um client [MagicMirror](https://magicmirror.builders/) rodando nela e o server no Rancher configurado neste tutorial
+- Testar em uma  [Raspberry PI 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) e ver se o processo se mantem similar
+- Testar em uma [Tinker Board](https://www.asus.com/br/Single-Board-Computer/Tinker-Board/)
+- Buildar  [Jenkigs](https://www.jenkins.io/) e/ou  [Chef](https://www.chef.io/) para ARM e ver de rodar eles com o Rancher
+
+## Apêndice
+
+Recomendo configurar agora os seguintes serviços uma vez que já está com o Rancher rodando:
+
+1.  [Heimdall](https://youtu.be/PA01Z6-z8Qs)
+2.  [Pi-Hole](https://youtu.be/NRe2-vye3ik) -- particularmente não sei se funciona bem neste cenário, como utilizo pfBlocker não vi a necessidade de configurar, mas caso não tenha nenhum dos dois, este seria um começo
+
+# Referências
+
+-   ["It beggars description."](https://www.flickr.com/photos/58753832@N05/49317984156) by  [CarlH_](https://www.flickr.com/photos/58753832@N05) is licensed under [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/)
+-  [Rancher 2 on Raspberry Pi 4 with RancherOS ARM64 fails to run #21534](https://github.com/rancher/rancher/issues/21534#issuecomment-643865494)
+-  [Running on ARM64 (Experimental)](https://rancher.com/docs/rancher/v2.x/en/installation/options/arm64-platform/)
+-  [rancher/flannel-cni](https://github.com/rancher/flannel-cni)
+-  [Configuring flannel for container networking](https://coreos.com/flannel/docs/latest/flannel-config.html)
