@@ -1,1 +1,221 @@
-IyMgQ2VudHJhbGl6ZSBvcyBmYXZvcml0b3MgZW0gcXVhbHF1ZXIgYnJvd3NlciBlIGVtIHF1YWxxdWVyIGRldmljZQoKPiBGaXJlZm94LCBDaHJvbWUsIEVkZ2UsIFZpdmFsZGksIFNhZmFyaS4uLiBCcm93c2VycywgYnJvd3NlcnMgZXZlcnl3aGVyZQoKZm90byBkZSBjYXBhOiBbIklNR18zMjA3Il0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvMTc3Mjg5NzNATjAwLzM4NDAxMDI4NzYpIGJ5IFtrcnVua3dlcmtlXShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy8xNzcyODk3M0BOMDApIGlzIGxpY2Vuc2VkIHVuZGVyIFtDQyBCWS1TQSAyLjBdKGh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS1zYS8yLjAvP3JlZj1jY3NlYXJjaCZhdHlwZT1yaWNoKQoKIyMgSW50cm8KClNlIHZvY8OqIGFpbmRhIG7Do28gY29uaGVjZSBvIFtPbmUgVGFiXShodHRwczovL3d3dy5vbmUtdGFiLmNvbS8pLCBzZSB0cmF0YSBkZSB1bSBwbHVnaW4gcHJhIG5hdmVnYWRvcmVzIG9uZGUgdm9jw6ogYWdsdXRpbmEgYXMgc3VhcyBhYmFzIGFiZXJ0YXMgY29tIHVtIGNsaXF1ZS4gQ2FzbyBpc3NvIHNlamEgbyBxdWUgcHJvY3VyZSBlIHN1cHJhIGJlbSBzdWFzIG5lY2Vzc2lkYWRlcyB2w6EgZW0gZnJlbnRlIGUgbyB1dGlsaXplOyBzaW1wbGVzIGUgZsOhY2lsIGRlIGluc3RhbGFyLCBudW5jYSB0aXZlIHByb2JsZW1hcyBhbnRlcy4gQWdvcmEsIGFzIHN1YXMgbGltaXRhw6fDtWVzOgoKLSBOw6NvIGjDoSBzaW5jcm9uaXphw6fDo28sIGVudMOjbyBwYXJhIGjDoSBkb2lzIGNlbsOhcmlvcyBxdWUgcHJlY2lzYXLDoSBleHBvcnRhciBwYXJhIHVtYSBVUkwgY29tcGFydGlsaMOhdmVsOgogIC0gU2Ugdm9jw6ogcHJlY2lzYXIgYWNlc3NhciBkZSBhY2Vzc2FyIG9zIGxpbmtzIGVtIG91dHJhIG3DoXF1aW5hCiAgLSBTZSBxdWlzZXIgYWNlc3NhciBuYSBtZXNtYSBtw6FxdWluYSBtYXMgZW0gb3V0cm8gbmF2ZWdhZG9yCi0gUG9yIG7Do28gdGVyIHNpbmNyb25pemHDp8OjbyBlIG8gT25lIFRhYiAqKk7Dg08qKiBzZXIgdW0gcGx1Z2luIGZhdm9yaXRvcywgc2Ugdm9jw6ogcGVyZGVyIHN1YSBtw6FxdWluYSwgcmVpbnN0YWxhciBvIHNldSBzaXN0ZW1hIG9wZXJhY2lvbmFsIG91IGNvaXNhIGRvIHRpcG8sIHZhaSBwZXJkZXIgc3VhcyBhYmFzIGNhc28gbsOjbyB0ZW5oYSBzYWx2byBlbGFzIG5vcyBmYXZvcml0b3MgZS9vdSBleHBvcnRhZG8gcGFyYSB1bSBmb3JtYXRvIGRlIGJhY2t1cAoKQW8gcHJvY3VyYXIgdW1hIGFsdGVybmF0aXZhIHF1ZSBzdXByaXNzZSBhcyBub3ZhcyBuZWNlc3NpZGFkZXMgZSBjb20gYSBhYm9yZGFnZW0gZGUgcm9kYXIgbm8gaG9tZWxhYiBhcGFyZWNlcmFtOiBvIFtXYWxsYWJhZ10oaHR0cHM6Ly93YWxsYWJhZy5vcmcvZW4pIGUgW3JlbWluaXNjZW5jZV0oaHR0cHM6Ly9naXRodWIuY29tL2thbmlzaGthLWxpbnV4L3JlbWluaXNjZW5jZSkuCgpPIFdhbGxhYmFnIHBvc3N1w60gdW1hIGludGVmYWNlIG11aXRvIGJvbml0YSBlIHVtYSBvcMOnw6NvIGhvc3RlYWRhIHBvciBlbGVzIG1lc21vIHBvciA5IGV1cm9zIGFvIGFubyBtdWl0byBpbnRlcmVzc2FudGUuIFRvZGF2aWEgYSBpbWFnZW0gRG9ja2VyIGRlbGVzIMOpIGRlcGxvcsOhdmVsIHBhcmEgZGl6ZXIgYW8gbcOtbmltby4KCkrDoSBvICoqcmVtaW5pc2NlbmNlKiogw6kgdW1hIHNvbHXDp8OjbyBtYWlzIHNpbXBsZXMgZGUgaW50ZXJmYWNlLCB0b2RhdmlhIGNvbSB1bSBkb2N1bWVudGHDp8OjbyBpbmNyw612ZWwgZG8gcHJvamV0by4KCiFbNjgwMzcxNjg2Ml84YmVlYmQxMjc1X28uanBnXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYwMjExNDQxMDI1NC95S1E1ZFdjZ2EuanBlZykKClsiTGlicmFyeSJdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzMxODEzOTMxQE4wMy82ODAzNzE2ODYyKSBieSBbZGxlYmVjaF0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvMzE4MTM5MzFATjAzKSBpcyBsaWNlbnNlZCB1bmRlciBbQ0MgQlktTkMgMi4wXShodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnktbmMvMi4wLz9yZWY9Y2NzZWFyY2gmYXR5cGU9cmljaCkKCiMjIFJhc3BiZXJyeQoKQSBbUmFzcGJlcnJ5IFBJXShodHRwczovL3d3dy5yYXNwYmVycnlwaS5vcmcvKSDDqSB1bWEgLS0gc2UgbsOjbyBmb3IgYSBtYWlzIC0tIGRhcyBtYWlzIGZhbW9zYXMgbWFyY2FzIGRlIFNpbmdsZSBCb2FyZCBDb21wdXRlciAoU0JDKS4gQ29tdW1lbnRlIHV0aWxpemFkYSBwYXJhOgoKLSBDb250cm9sYWRvcmVzCi0gRW5zaW5vCi0gUmV0cm9nYW1pbmcKLSBDbHVzdGVycwotIGV0Yy4KCkNvbSBvIHRhbWFuaG8gYXByb3hpbWFkbyBkZSB1bSBjYXJ0w6NvIGRlIGNyw6lkaXRvIGUgdXRpbGl6YW5kbyB1bSBzaW1wbGVzIGNhYm8gVVNCIHBhcmEgcHV4YXIgc3VhIGVuZXJnaWEgZGUgdW0gYWRhcHRhZG9yIGRlIGNlbHVsYXIgb3UgYXTDqSBtZXNtbyBkYSBwb3J0YSBwcmVzZW50ZSBubyBzZXUgbGFwdG9wLCBhIHBsYWNhIGVudHJlZ2EgTVVJVE8gZGVudHJlIHN1YXMgbGltaXRhw6fDtWVzLiBPIHF1YXJ0byBtb2RlbG8gZGUgc3VhIHPDqXJpZSBhcHJlc2VudGEgYXMgc2VndWludGVzIGNhcmFjdGVyw61zdGljYXM6CgotIFByb2Nlc3NhZG9yIEFSTSBxdWFkIGNvcmUgNjQgYml0cwotIERpc3BvbmliaWxpZGFkZSBlbSAyLCA0IGUgOCBHQiBkZSBMUEREUjQgLS0gbyBMUCBzaWdpbmlmaWNhICJMb3cgUG93ZXIiCi0gSW50ZXJuZXQgR2lnYWJpdAotIER1YXMgZW50cmFkYXMgcGFyYSBtb25pdG9yZXMgNGsKLSBldGMKCiFbNDg2NzM3MzYxOTJfNzczMjkzYjM1NF9vLmpwZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2MDIwMjE4NTcwNzkvUXRwN3dwd3A0LmpwZWcpCgpbIlJhc3BiZXJyeSBQaSA0IE1vZGVsIEIiXShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy8zNTQzNDQ0OUBOMDgvNDg2NzM3MzYxOTIpIGJ5IFthZGFmcnVpdF0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvMzU0MzQ0NDlATjA4KSBpcyBsaWNlbnNlZCB1bmRlciBbQ0MgQlktTkMtU0EgMi4wXShodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnktbmMtc2EvMi4wLz9yZWY9Y2NzZWFyY2gmYXR5cGU9cmljaCkKCiMjIEt1YmVybmV0ZXMgKGszcykKClNlIGrDoSBsZXUgYWxndW5zIGRvcyB0ZXh0b3MgcHVibGljYWRvcyBhdMOpIGFnb3JhLCBqw6EgZGV2ZSB0ZXIgdW1hIG5vw6fDo28gZGUgW0RvY2tlcl0oaHR0cHM6Ly93d3cuZG9ja2VyLmNvbS8pIGUgZGUgW1JhbmNoZXJdKGh0dHBzOi8vcmFuY2hlci5jb20vKSwgc8OzIHF1ZSBuZXN0ZSBlbSBlc3BlY2lhbCBvIGZvY28gc2Vyw6EgYSBjYW1hZGEgYSBjaW1hIGRvIERvY2tlciwgbyBbS3ViZXJuZXRlc10oaHR0cHM6Ly9rdWJlcm5ldGVzLmlvLykgIC0tIG8gc2lzdGVtYSBubyBxdWFsIG8gUmFuY2hlciDDqSBjb25zdHJ1w61kbyBlbSBjaW1hLgoKQ2FzbyB0ZW5oYSB2aW5kbyBwYXJhciBhcXVpIHBvciB2b250YWRlIGRvIGRlc3Rpbm8gZSBuw6NvIHNhaWJhIG8gcXVlIGVsZXMgc8OjbzoKCi0gRG9ja2VyIMOpIHVtYSBtYW5laXJhIGbDoWNpbCwgc2VndXJhIGUgYmFyYXRhIHF1YW5kbyBjb21wYXJhZGEgY29tIHVtYSBWaXJ1dGFsIE1hY2hpbmUgKFZNKSBkZSBkZXNlbnZvbHZlZG9yZXMgZGlzdHJpYnVpcmVtIHNldXMgcHJvamV0b3MKLSBLdWJlcm5ldGVzIMOpIHVtYSBtYW5laXJhIGRlIG9yZ2FuaXphciB0YWlzIHByb2pldG9zCi0gUmFuY2hlciDDqSB1bSBmYWNpbGl0YWRvciBkbyBLdWJlcm5ldGVzCgpWb2PDqiBwb2RlIHZlciBjb21vIGEgc2VndWludGUgYW5hbG9naWE6CgotICoqRG9ja2VyKio6IHBhY290ZSBhIHNlciBwb3N0YWRvIG5vcyBDb3JyZWlvcwotICoqS3ViZXJuZXRlcyoqOiBhIGluZnJhIGRlIHJvdGFzIGRlIGVudHJlZ2FzLCBjYXJ0ZWlyb3MsIGVzY2FsYSBlIGV0YwotICoqUmFuY2hlcioqOiBhIGFnw6puY2lhIG9uZGUgbyBjbGllbnRlIHBvc3RhIG91IHJldGlyYSBzZXUgcGFjb3RlIHNlbSBwcmVjaXNhciBlbnRlbmRlciBhIGNvbXBsZXhpZGFkZSBkZSByb2RhciB0b2RhIGEgb3BlcmHDp8OjbwoKIVs0MTc0NzA0NDY3MF9kM2RmYmUxODg0X28uanBnXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYwMjEyMjI2NjMyOS9hY0xabU1Jc1cuanBlZykKClsicG9zdGFsIHNlcnZpY2UiXShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy82MzgxMjA5MEBOMDAvNDE3NDcwNDQ2NzApIGJ5IFtBbGV4YW5kZXIuSMO8bHNdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzYzODEyMDkwQE4wMCkgaXMgbGljZW5zZWQgdW5kZXIgW0NDIEJZLVNBIDIuMF0oaHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LXNhLzIuMC8/cmVmPWNjc2VhcmNoJmF0eXBlPXJpY2gpCgpQYXJhIHNlIGluc3RhbGFyIG8gS3ViZXJuZXRlcyBuYSBSYXNwaSA0LCB0dWRvIHNlcsOhIGZlaXRvIGNvbSBvcyBzZWd1aW50ZXMgcGFzc29zIGUgdW0gbWljcm9TRCAtLSBmb2kgdXRpbGl6YWRvIHVtIGRlIDE2R0I6CgoxLiBJbnN0YWxlIG8gW1VidW50dSBTZXJ2ZXJdKGh0dHBzOi8vdWJ1bnR1LmNvbS9kb3dubG9hZC9zZXJ2ZXIpIG5lbGE6CgogIEkuIFVzZSBvIEV0Y2hlciBjb2xhbmRvIFtlc3RlXShodHRwczovL3VidW50dS5jb20vZG93bmxvYWQvcmFzcGJlcnJ5LXBpL3RoYW5rLXlvdT92ZXJzaW9uPTIwLjA0LjEmYXJjaGl0ZWN0dXJlPWFybTY0K3Jhc3BpKSBuYSBvcMOnw6NvIGRhIFVSTCBkYSBpbWFnZW0KCiAgSUkuIEFicmEgbyBnZXJlbmNpYWRvciBkZSBhcnF1aXZvcywgcHJvY3VyZSB1bWEgcGFydGnDp8OjbyBkbyBzZXUgbWljcm8tc2QgY2hhbWFkYSBgc3lzdGVtLWJvb3RgIGUgY3JpZSB1bSBhcnF1aXZvIGRlIHRleHRvIGVtIGJyYW5jbyBjaGFtYWRvIGBzc2hgLgoKICBJSUkuIENvbG9xdWUgYSBSYXNwaSBlbSB1bSBjYWJvIGRlIHJlZGUsIGNvbG9xdWUgbyBjYXJ0w6NvIGRlIG1lbcOzcmlhIG5lbGEgZSBhIGxpZ3VlLiBDYXNvIG7Do28gdGVuaGEgbyBjYWJvLCBsZWlhIFthcXVpXShodHRwczovL3VidW50dS5jb20vdHV0b3JpYWxzL2hvdy10by1pbnN0YWxsLXVidW50dS1vbi15b3VyLXJhc3BiZXJyeS1waSMzLXdpZmktb3ItZXRoZXJuZXQpIGNvbW8gY29uZmlndXJhciBwYXJhIGEgb3DDp8OjbyBkZSBXaUZpLgoKMi4gUHJvY3VyZSBvIElQIGRhIHN1YSBwbGFjYSBuYSBzdWEgcmVkZSAtLSBhcGxpY2F0aXZvcyBkZSBtb2RlbXMgbm9ybWFsbWVudGUgbW9zdHJhbSBpc3NvIC0tIGUgY29uZWN0ZSBuZWxhIHBvciBgc3NoYCAtLSBhIHNlbmhhIMOpIGB1YnVudHVgOgpgYGBzaGVsbApzc2ggLWwgdWJ1bnR1IGlwLmRhLnN1YS5yYXNwaQpgYGAKMy4gRmHDp2EgYXMgY29uZmlndXJhw6fDtWVzIG5lY2Vzc8Ohcmlhcy4KCjQuIFJvZGUgbyBzZWd1aW50ZSBjb21hbmRvOgpgYGBzaGVsbApjdXJsIGh0dHBzOi8vZ2lzdC5naXRodWJ1c2VyY29udGVudC5jb20vRmF6ZW5kYWFhLzhmZTAzM2M1NDI4ZTNmMjZkYWY2OTkxMDY5M2M0ZDA3L3Jhdy84YzMyOTlkYzQ1N2U3ZDJjYmMzNTM0MGY1NjI2MWZhOGEwZTgxNTg4L3Jhc3A0UmFuY2hlci5zaCB8IHNoCmBgYAoKRXN0ZSDDumx0aW1vIGNvbWFuZG8gaXLDoSBpbnN0YWxhciBvIFttaWNyb2s4c10oaHR0cHM6Ly9taWNyb2s4cy5pby8pLCBjb25maWd1cmFyIGEgc3VhIHBsYWNhIGUgcmVpbmljaWFyIGVsYSBwYXJhIHBvZGVyIHNlciB1dGlsaXphZGEgbm9zIHByw7N4aW1vcyBwYXNzb3MuCgojIyBSYW5jaGVyCgpQYXJ0aW5kbyBkYSBhbmFsb2dpYXMgYW50ZXJpb3JlcywgbyBSYW5jaGVyIMOpIG8gYWfDqm5jaWEgbmEgcXVhbCBwb3N0YXJlbW9zIG8gcGFjb3RlLiBQYXJhIHBvZGVyIHJvZGFyIG8gc2lzdGVtYSBzZXLDoSBuZWNlc3PDoXJpbyB0ZXIgcGFjb3RlIGFudGVzLiBPICoqUmVtaW5pc2NlbmNlKiogbsOjbyBwb3NzdWltIHVtYSBlbWJhbGFnZW0gb2ZpY2lhbCBkaXNwb25pYmlsaXphZGEgcG9yIGVsZXMsIG1hcyB1bWEgZm9pIGZlaXRhIHBhcmEgZXN0ZSBwcm9qZXRvIGUgbyBwYXNzbyBhIHBhc3NvIGRlbGEgZm9pIGRpc3BvbmliaWxpemFkbyBwYXJhIG8gcHJvamV0byBjYXNvIHF1ZWlyYW0gdG9ybmFyLWzDoSBlbGEgb2ZpY2lhbC4KCkVzdGEgZW1iYWxhZ2VtIG5vdmEgZm9pIGJhc2VhZGEgZW0gdW1hIGFudGlnYSBtYXMgbsOjbyB0w6NvIHJlY29tZW5kYWRhIHBhcmEgZXN0ZSBjYXNvIHBvciBzZSBiYXNlYXIgbm8gdXNvIGRlIHVtIHNpc3RlbWEgZGUgYXJtYXplbmFtZW50byBkZSBzZXJ2aWRvcmVzIG1haXMgcHLDs3hpbW9zIGRlIHZvY8OqIC0tIG8gZmFtb3NvIGNhY2hlIC0tLCBxdWUgbsOjbyBzZXLDoSBuZWNlc3PDoXJpbyB1bWEgdmV6IHF1ZSBuw6NvIGjDoSBuZWNlc3NpZGFkZSBkZSB1bWEgQ29udGVudCBEZWxpdmVyeSBOZXR3b3JrIChDRE4pIHVtYSB2ZXogcXVlIHRvZG8gbyBzZXJ2acOnbyByb2RhcsOhIG5hIHN1YSByZWRlIC0tIG1haXMgcHLDs3hpbW8gcXVlIHF1YWxxdWVyIHNlcnZpZG9yIGRlIHRlcmNlaXJvcy4KCkVzdGUgbm92byBwYWNvdGUgZm9pIGZlaXRvIGRpc3BvbmliaWxpemFkbyBlbSBbZmF6ZW5kYS9yZW1pbmlzY2VuY2VdKGh0dHBzOi8vaHViLmRvY2tlci5jb20vci9mYXplbmRhL3JlbWluaXNjZW5jZSkgcGFyYSBhcyBzZWd1aW50ZXMgYXJxdWl0ZXR1cmFzOgoKLSAzODYKLSBhbWQ2NAotIGFybS92NwotIGFybTY0Ci0gcHBjNjRsZQotIHMzOTB4CgpQYXJhIGFkaWNpb25hciBhIFJhc3BpIGFvIHNldSBhdHVhbCBjbHVzdGVyIFJhbmNoZXIsIGEgb3DDp8OjbyBkZSBhZGljaW9uYXIgdW0gbm92byBuw6NvIGZ1bmNpb25hLCBtYXMgZ3Jhw6dhcyBhb3MgcGFzc29zIHJlYWxpemFkb3MgYW50ZXJpb3JtZW50ZSBwb2RlbW9zIHJlZ2lzdHJhciB1bSBjbHVzdGVyIGrDoSBleGlzdGVudGU6CgpJLiBObyBzZXUgW2rDoSBwcmVzZW50ZV0oaHR0cHM6Ly9mYXplbmRhLmhhc2hub2RlLmRldi9jb25maWd1cmFuZG8tcmFuY2hlci1lbS11bS1hcm0pIHBhaW5lbCBkbyBSYW5jaGVyLCBjbGlxdWUgZW0gYEFkZCBDbHVzdGVyYDoKCiFbaW1hZ2UxMTQ3LnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2MDIxNzI0ODU5MTMvVlRYVGNVc0YyLnBuZykKCklJLiBTZWxlY2lvbmUgYSBvcMOnw6NvIGBJbXBvcnQgYW4gZXhpc3RpbmcgY2x1c3RlcmA6CgohW2ltYWdlMTAzMS5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjAyMTcyMjY5NTE5L3dZTXZYNm9mUy5wbmcpCgpJSUkuIETDqiB1bSBub21lIGFvIHNldSBjbHVzdGVyOgoKIVtpbWFnZTEwMTcucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYwMjE3MjI4NjA4MC9LaHNxV29JcnAucG5nKQoKSVYuIEVzcGVyZSBuZXN0YSB0ZWxhOgoKIVtnMTIwMy5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjAyMTczMzMzMTQwL19wZzFRbXdTUC5wbmcpCgpWLiBDb25lY3RlIG5hIHN1YSBSYXBpIDQgcG9yIFNTSDoKCmBgYHNoZWxsCnNzaCAtbCB1YnVudHUgaXAuZGEuc3VhLnJhc3BpCmBgYAoKVkkuIENvbG9xdWUgbyB0ZXJjZWlybyBjb21hbmRvIG5hIHN1YSBwbGFjYToKCmBgYHNoZWxsCmN1cmwgLS1pbnNlY3VyZSAtc2ZMIGh0dHBzOi8vc2V1LmlwLnJhbmNoZXIvY2hhdmUueWFtbCB8IGt1YmVjdGwgYXBwbHkgLWYgLQpgYGAKClZJSS4gQ29sb3F1ZSBvIHNlZ3VuZG8gY29tYW5kbzoKCmBgYHNoZWxsCmt1YmVjdGwgYXBwbHkgLWYgaHR0cHM6Ly9zZXUuaXAucmFuY2hlci9jaGF2ZS55YW1sCmBgYAoKVklJSS4gUHJvbnRvLCBzdWEgcGxhY2EgZm9pIHJlZ2lzdHJhZGE6CgohW2ltYWdlOTg5LnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2MDIxNzIzMzA5NjAvMjNIVWsybFllLnBuZykKCj4gQWdvcmEgdW0gbm92byAicmFuY2hvIiBmb2kgYWRpY2lvbmFkbyBhbyBzZXVzLCB2YXF1ZWlyby4uLgoKIVszMzM2ODQ3NzgxNV8wOGFjN2Q0NjQ3X28uanBnXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYwMjAyMTY1OTk4Ni9rUTV1bTVnc1cuanBlZykKClsiZmFybSBzY2VuZSJdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzE3MDk0MDA1QE4wMC8zMzM2ODQ3NzgxNSkgYnkgW0NocmlzdGlhbiBDb2xsaW5zXShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy8xNzA5NDAwNUBOMDApIGlzIGxpY2Vuc2VkIHVuZGVyIFtDQyBCWS1TQSAyLjBdKGh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS1zYS8yLjAvP3JlZj1jY3NlYXJjaCZhdHlwZT1yaWNoKQoKMS4gQWdvcmEsIHBhcmEgZGVwbG95YXIgc3VhIGFwbGljYcOnw6NvIHNlcsOhIG5lY2Vzc8OhcmlvIHRlciB1bSBkZXBsb3kgZG8gYmFuY28gZGUgZGFkb3MgW3Bvc3RlZ3Jlc10oaHR0cHM6Ly9odWIuZG9ja2VyLmNvbS9fL3Bvc3RncmVzKSBhbnRlcywgY2FzbyBqw6EgdGVuaGEgdW0sIHBvZGUgcHVsYXIgZXN0ZSBwYXNzbzoKCiAgSS4gQWNlc3NlIGEgcGxhY2EgZGUgbm92byBjYXNvIHRlbmhhIGZlY2hhZG8gYSBjb25leMOjbyBjb20gZWxhOgpgYGBzaGVsbApzc2ggLWwgdWJ1bnR1IGlwLmRhLnN1YS5yYXNwaQpgYGAKICBJSS4gQ29sZSBvcyBzZWd1aW50ZXMgY29tYW5kb3M6CmBgYHNoZWxsCm1rZGlyIH4vcG9zdGVncmVzCmNkIH4vcG9zdGVncmVzCnB3ZCAjY29waWUgbyByZXN1bHRhZG8gZGVzdGUgY29tYW5kbwpgYGAKICBJSUkuIENvbG9xdWUgb3Mgc2VndWludGVzIHZhbG9yZXMgcGFyYSBhIGltYWdlbToKIVtpbWFnZTEyOTUucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYwMjE3NTM3NjQzOS8wWndtZ2pWVVMucG5nKQogIElWLiBPcyBzZWd1aW50ZXMgcGFyYSBhcyB2YXJpw6F2ZWlzIGRlIGFtYmllbnRlOgohW2ltYWdlMTQwMi5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjAyMTc1NjQ5NTk3L0lYcUtXOW5JQy5wbmcpCiAgVi4gRSBtb250ZSBvIHNlZ3VpbnRlIGNhbWluaG8gbyBwYXNzbyBJSSAtLSBsZW1icmFuZG8gcXVlIG8gbWV1IMOpIGAvaG9tZS91YnVudHUvcG9zdGVncmVzYCBtYXMgbyBkYSBzdWEgcGxhY2EgcG9kZSBzZXIgZGlmZXJlbnRlOgohW2ltYWdlMTI4MS5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjAyMTc1NDAyNTYxL05kcjRRX1hxTC5wbmcpCgoyLiBBZ29yYSBkZXBsb3lhciBvICoqUmVtaW5pc2NlbmNlKio6CgogIEkuIENvbG9xdWUgb3Mgc2VndWludGVzIHZhbG9yZXMgcGFyYSBhIGltYWdlbToKIVtpbWFnZTE1MzQucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYwMjE3Njg3MzQwOC9IRkhXQmx5RTUucG5nKQogIElJLiBDb2xvcXVlIG8gc2VndWludGUgcGFyYSBhIHBvcnRhOgohW2ltYWdlMTUzNC0yLnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2MDIxNzY4ODc3OTgvTzViLWhNU2Q2LnBuZykKICBJSUkuIEUgYXMgc2VndWludGVzIHZhcmnDoXZlaXMgZGUgYW1iaWVudGU6CiFbaW1hZ2UxNTIwLnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2MDIxNzY4OTc1NTcvbjFnRTVJWUs4LnBuZykKICBJVi4gU8OzIGFicmlyIG8gSVAgdXRpbGl6YWRvIC0tIGRpZ2l0YXIgYGFkbWluYCBwYXJhIHVzdcOhcmlvIGUgYGNoYW5nZXBhc3N3b3JkYCBwYXJhIHNlbmhhOgohW2cxNzgzLnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2MDIxNzY5MTU0MTYvbzliWHF0cEdnLnBuZykKICBWLiBQcm9udG8sIHNldSAqKlJlbWluaXNjZW5zZSoqIGZvaSBkZXBsb3lhZG86CiFbZzE3OTIucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYwMjE3NjkyNjA5MS9COWNlX0thTU0ucG5nKQoKIyMgQ29uc2lkZXJhw6fDtWVzIEZpbmFpcwoKUG9yIHNlciB1bSBkb3MgcHJvamV0b3MgbWFpcyBzaW1wbGVzIGUgbWVsaG9yIGZlaXRvIHF1ZSBldSBqw6EgdmksIG5lc3NhcyBob3JhcyBldSBsZW1icm8gZGEgZnJhc2UgZG8gY2hlZmUgZGUgY296aW5oYSBIZW5yaXF1ZSBGb2dhw6dhIGR1cmFudGUgYXMgcHJvdmFzIGRvIE1hc3RlciBDaGVmOiAqIm1lbm9zIMOpIG1haXMiKi4KCkNvbSBhIGV4cGVyacOqbmNpYSBkZSByb2RhciBhbGd1bnMgc2VydmnDp29zIHBvciBtZXNlcyBlbSBTQkNzIGUgdmVuZG8gcXVlIG7Do28gaMOhIG11aXRhIGRpZmljdWxkYWRlIG5lbSBhIHF1ZXN0w6NvIGRvIGN1c3RvIGFsdG8sIGEgaWRlaWEgw6kgY29tZcOnYXIgYSBtb3N0cmFyIGNvbW8gZmF6ZXIgcGxhY2FzIGUgc2lzdGVtYXMgcXVlIG7Do28gc8OjbyBzdXBvcnRhZG9zIG9maWNpYWxtZW50ZSBjb20gdW0gY29tYW5kbyBkbyBSYW5jaGVyIGZ1bmNpb25hciBuZWxlIGNvbSBhIG3DqWRpYSBkZSB0csOqcyBjb21hbmRvcy4gQ2xhcm8gcXVlIGlzc28gdmFpIHNlciBhdMOpIG8gUmFuY2hlciBmdW5jaW9uYXIgZW0gc2lzdGVtYXMgYXNzaW0sIHByaW5jaXBhbG1lbnRlIHBhcmEgYXJxdWl0ZXR1cmFzIDMyIGJpdHMgLS0gb3UgYXTDqSBldSB0ZXIgdGVtcG8gcGFyYSBwYXJhciBlIHZlciBkZSBtb2RpZmljYXIgbyBjw7NkaWdvIHBhcmEgdGFsIGUgZW52aWFyIHBhcmEgbyBwZXNzb2FsIGRvIHByb2pldG8uCgpDb20gYSBSYXNwaSA0IGRlIDhHQiBzZW5kbyB1bWEgZGFzIHBsYWNhcyBjb20gbWFpb3IgcXVhbnRpZGFkZSBkZSBSQU0sIHRhdmV6IHNlamEgdW1hIGRhcyBtZWxob3JlcyBvcMOnw7VlcyBkZSBob21lbGFiIHVtYSB2ZXogcXVlIG11aXRhcyB2ZXplcyBvIHByb2Nlc3NhZG9yIGRlbGEgcG9kZSBkYXIgY29udGEgZGUgbXVpdGEgY29pc2EgcXVlIHZvY8OqIHF1ZWlyYSB1dGlsaXphciBtYXMgZXN0w6EgbGltaXRhZG8gYW8gbsO6bWVybyBkZSBzaXN0ZW1hcyBxdWUgcHJldGVuZGUgcm9kYXIgcGVsYSBxdWFudGlkYWRlIGRlIDIgb3UgNCBHQiBkZSBSQU0uCgpOb3ZvIHN1cG9ydGUgcGFyYSB1bWEgbm92YSBwbGFjYSBhYnJlbSBjYW1pbmhvcyBwYXJhIG5vdm9zIGRlc2FmaW9zLgoKIVszNTc1OTEyMDkyX2MyNzE2NzQwMjdfby5qcGddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjAyMDIzMzI4ODMyLzFjanNvZWNsaC5qcGVnKQoKWyJMZWFybmluZyBzZWEgbWFwcGluZyJdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzM4ODQ0NjA0QE4wNy8zNTc1OTEyMDkyKSBieSBbUmF0a28gQm96b3ZpY10oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvMzg4NDQ2MDRATjA3KSBpcyBsaWNlbnNlZCB1bmRlciBbQ0MgQlkgMi4wXShodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvMi4wLz9yZWY9Y2NzZWFyY2gmYXR5cGU9cmljaCkKCiMjIEFww6puZGljZQoKLSBJbmZlbGl6bWVudGUgbyBwcm9jZXNzbyBkZSBjb25maWd1cmHDp8OjbyBkYSBSYXNwaSB0ZW0gcXVlIHNlciBmZWl0YSBkYSBmb3JtYSBkZXNjcml0YSBubyB0ZXh0byAtLSBkaWZlcmVudGVtZW50ZSBkbyBhcHJlc2VudGFkbyBub3Mgb3V0cm9zIHRleHRvcyBxdWUgc2UgcmVzdW1lIGEgdW0gYGRvY2tlciBydW4gLi4uYCAtLTsgbWVzbW8gY29tIHRlc3RlcyByZWFsaXphZG9zIGVtOgogIC0gUmFzcGlhbiA2NCBiaXRzCiAgLSBVYnVudHUgU2VydmVyCiAgLSBNYW5qYXJvCiAgLSBBbHBpbmUKICAtIFVidW50dSBNQVRFCgpGYXplbmRvIGRpdmVyc2FzIGNvbmZpZ3VyYcOnw7VlcyBwYXJhIHZlciBzZSBhbGd1bWEgZnVuY2lvbmF2YSwgZm9yYW0gdHLDqnMgZGlhcyBkZSBkZWRpY2HDp8OjbyBwcmF0aWNhbWVudGUgcXVlIGludGVncmFpcywgdmVyaWZpY2FuZG8gdsOhcmlhcyBjb25maWd1cmHDp8O1ZXMgZGlmZXJlbnRlcywgcGFyYSBzZSBjaGVnYXIgYSBjb25jbHVzw6NvIGRlIHF1ZSBwcm92YXZlbG1lbnRlIMOpIGFsZ28gcXVlIG7Do28gY29uc2lnbyBwb3VudGFyIGFvIGNlcnRvIG8gcXVlIHBvc3NhIHNlciB1bWEgdmV6IHF1ZSBvIGVycm8gc2UgdG9ybm91IGTDrWZpY2lsIGRlIHBvbnR1YXIgLS0gdG9kYXZpYSBjaHV0byBzZXIgYWxndW0gZHJpdmVyIC0tIGUgdW0gZG9zIHBhc3NvcyBjb2xvY2Fkb3Mgbm8gc2NyaXB0IGRlIGNvbmZpZ3VyYcOnw6NvIHBhcmEgc3Vwb3J0ZSBmb2kgZmVpdG8gZ3Jhw6dhcyDDoCB1bSB0ZXN0ZSBuYSBob3JhIGRlIHN1YmlyIG8gc2VydmnDp28gYSBzZXIgcHVibGljYWRvIG5vICBbcHLDs3hpbW9dKGh0dHBzOi8vZmF6ZW5kYS5oYXNobm9kZS5kZXYvc2V1LXByb3ByaW8tZ2l0aHViLWVtLWNhc2EtZS1kZS1ncmFjYSkgdGV4dG8uCi0gQWp1ZGFzIGRvIFN0YWNrT3ZlcmZsb3c6CiAgLSBbRXN0YV0oaHR0cHM6Ly9naXRodWIuY29tL3VidW50dS9taWNyb2s4cy9pc3N1ZXMvNzQ5I2lzc3VlY29tbWVudC01NDUzMjk5MTcpIHJlc3Bvc3RhIGRlIGt0c2FrYWxvem9zIGFqdWRvdSBlIG11aXRvIG5vIHByb2Nlc3NvCiAgLSBbRXN0ZV0oaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9hLzU5NTUwNzIzKSBjb21lbnTDoXJpbyBxdWUgYWNoZWkgcG9ycXVlIGNvcGllaSBhIGxpbmhhIGVycmFkYSBtYXMgZG8gcHJvYmxlbWEgY2VydG8KICAtIErDoSBjb20gYSBxdWVzdMOjbyBkbyBQeXRob24gZSBzdWEgbWlncmHDp8OjbyBkZSBEZWJpYW4gcGFyYSBBbHBpbmUsIFtlc3RlXShodHRwczovL3N0YWNrb3ZlcmZsb3cuY29tL2EvNDc4NzExMjEvNzA5Mjk1NCkKLSBQYXJhIGVudGVuZGVyIHVtIHBvdWNvIG1haXMgZGUgTmdpbngsIFtlc3RlXShodHRwczovL3d3dy5kb215c2VlLmNvbS9ibG9ncG9zdHMvcmV2ZXJzZS1wcm94eS1uZ2lueC1kb2NrZXItY29tcG9zZS8pIHRleHRvIGFqdWRvdSB1bWEgdmV6IHF1ZSBwb3NzdW8gbWFpb3IgZmFtaWxpYXJpZGFkZSBjb20gW1RyYWVmaWtdKGh0dHBzOi8vdHJhZWZpay5pby8pCi0gRGVwb2lzIGRlIGhvcmFzIGUgaG9yYXMgcHJvY3VyYW5kbyBlbnRlbmRlciBlIGNvcnJpZ2lyIG8gcHJvY2Vzc28gZGUgYnVpbGQgZG8gV2FsbGFiYWcsIGVuY29udHJlaSBvIFJlbWluaXNjZW5jZSBhdHJhdsOpcyBkbyBbYWx0ZXJuYXRpdmUgdG9dKGh0dHBzOi8vYWx0ZXJuYXRpdmV0by5uZXQvc29mdHdhcmUvd2FsbGFiYWcvKQotIFByZXRlbmRvIGxlciBtYWlzIHNvYnJlIEt1YmVybmV0ZXMgcGFyYSBwb2RlciBleHBsaWNhciBhIGltcG9ydGFuY2lhIGRlbGUsIGRvIFN3YXJtIGUgY29tbyB0cmFkdXppciB1bSBDb21wb3NlIHBhcmEgdW0gZGVwbG95IGVtIFJhbmNoZXIvS3ViZXJuZXRlczsgYWzDqW0gZGUgZXhwbGljYXIgc29icmUgbWljcm9rOHMsIG1pbmlrdWJlLCBrdWJlYWRtLCBrM2QsIHJrZSBlIGV0Yy4KLSBDb21vIG8gRG9ja2VyZmlsZSBlIG8gQ29tcG9zZSBvZmljaWFpcyBwcmVjaXNhdmFtIGRvIE5naW54IGUgcm9kYXIgY29tIGRvIEd1aW5pY29ybiwgYSBtb2RpZmljYcOnw6NvIGZlaXRhIGZvaSByZW1vdmVyIG9zIGRvaXMgZSByb2RhciBkb20gbyBzZXJ2aWRvciBwcsOzcHJpbyBkbyBEamFuZ28uIElzc28gcG9ycXVlIGFzIGR1YXMgcHJpbWVpcmFzIG9ww6fDtWVzIGNvbWJpbmFkYWRhcyBjdWlkYXZhbSBkZSBjYWNoZSwgYXZhbGlhYmlsaWRhZGUgZG8gc2lzdGVtYSwgc2VndXJhbsOnYSBlIGV0YzsgY29pc2FzIGltcG9ydGFudGVzIHBhcmEgdW0gc2VydmnDp28gZW0gdW1hIHJlZGUgcMO6YmxpY2Egbm8gcXVhbCB2b2PDqiBwb2RlIHRlciBhY2Vzc28gZGUgdG9kb3Mgb3MgbHVnYXJlcyBkbyBtdW5kbyBlIHBlbG9zIG1haXMgZGl2ZXJzb3MgcGxheWVycyAtLSBvIHF1ZSBuw6NvIMOpIG8gY2Vuw6FyaW8gZG8gdGV4dG8KCiMjIFJlZmVyw6puY2lhcwoKLSBbSW50cm9kdWN0aW9uIHRvIE1pY3JvSzhzXShodHRwczovL21pY3JvazhzLmlvL2RvY3MpCi0gW1Jhc3BiZXJyeSBQaSA0IFRlY2ggU3BlY3NdKGh0dHBzOi8vd3d3LnJhc3BiZXJyeXBpLm9yZy9wcm9kdWN0cy9yYXNwYmVycnktcGktNC1tb2RlbC1iL3NwZWNpZmljYXRpb25zLykKLSBbSzNzLCBtaW5pa3ViZSBvciBtaWNyb2s4cz9dKGh0dHBzOi8vd3d3LnJlZGRpdC5jb20vci9rdWJlcm5ldGVzL2NvbW1lbnRzL2JlMDQxNS9rM3NfbWluaWt1YmVfb3JfbWljcm9rOHMvKQo=
+# Centralize os favoritos em qualquer browser e em qualquer device
+
+> Firefox, Chrome, Edge, Vivaldi, Safari... Browsers, browsers everywhere
+
+foto de capa: ["IMG_3207"](https://www.flickr.com/photos/17728973@N00/3840102876) by [krunkwerke](https://www.flickr.com/photos/17728973@N00) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich)
+
+## Intro
+
+Se você ainda não conhece o [One Tab](https://www.one-tab.com/), se trata de um plugin pra navegadores onde você aglutina as suas abas abertas com um clique. Caso isso seja o que procure e supra bem suas necessidades vá em frente e o utilize; simples e fácil de instalar, nunca tive problemas antes. Agora, as suas limitações:
+
+- Não há sincronização, então para há dois cenários que precisará exportar para uma URL compartilhável:
+  - Se você precisar acessar de acessar os links em outra máquina
+  - Se quiser acessar na mesma máquina mas em outro navegador
+- Por não ter sincronização e o One Tab **NÃO** ser um plugin favoritos, se você perder sua máquina, reinstalar o seu sistema operacional ou coisa do tipo, vai perder suas abas caso não tenha salvo elas nos favoritos e/ou exportado para um formato de backup
+
+Ao procurar uma alternativa que suprisse as novas necessidades e com a abordagem de rodar no homelab apareceram: o [Wallabag](https://wallabag.org/en) e [reminiscence](https://github.com/kanishka-linux/reminiscence).
+
+O Wallabag possuí uma inteface muito bonita e uma opção hosteada por eles mesmo por 9 euros ao ano muito interessante. Todavia a imagem Docker deles é deplorável para dizer ao mínimo.
+
+Já o **reminiscence** é uma solução mais simples de interface, todavia com um documentação incrível do projeto.
+
+![6803716862_8beebd1275_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1602114410254/yKQ5dWcga.jpeg)
+
+["Library"](https://www.flickr.com/photos/31813931@N03/6803716862) by [dlebech](https://www.flickr.com/photos/31813931@N03) is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=rich)
+
+## Raspberry
+
+A [Raspberry PI](https://www.raspberrypi.org/) é uma -- se não for a mais -- das mais famosas marcas de Single Board Computer (SBC). Comumente utilizada para:
+
+- Controladores
+- Ensino
+- Retrogaming
+- Clusters
+- etc.
+
+Com o tamanho aproximado de um cartão de crédito e utilizando um simples cabo USB para puxar sua energia de um adaptador de celular ou até mesmo da porta presente no seu laptop, a placa entrega MUITO dentre suas limitações. O quarto modelo de sua série apresenta as seguintes características:
+
+- Processador ARM quad core 64 bits
+- Disponibilidade em 2, 4 e 8 GB de LPDDR4 -- o LP siginifica "Low Power"
+- Internet Gigabit
+- Duas entradas para monitores 4k
+- etc
+
+![48673736192_773293b354_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1602021857079/Qtp7wpwp4.jpeg)
+
+["Raspberry Pi 4 Model B"](https://www.flickr.com/photos/35434449@N08/48673736192) by [adafruit](https://www.flickr.com/photos/35434449@N08) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=rich)
+
+## Kubernetes (k3s)
+
+Se já leu alguns dos textos publicados até agora, já deve ter uma noção de [Docker](https://www.docker.com/) e de [Rancher](https://rancher.com/), só que neste em especial o foco será a camada a cima do Docker, o [Kubernetes](https://kubernetes.io/)  -- o sistema no qual o Rancher é construído em cima.
+
+Caso tenha vindo parar aqui por vontade do destino e não saiba o que eles são:
+
+- Docker é uma maneira fácil, segura e barata quando comparada com uma Virutal Machine (VM) de desenvolvedores distribuirem seus projetos
+- Kubernetes é uma maneira de organizar tais projetos
+- Rancher é um facilitador do Kubernetes
+
+Você pode ver como a seguinte analogia:
+
+- **Docker**: pacote a ser postado nos Correios
+- **Kubernetes**: a infra de rotas de entregas, carteiros, escala e etc
+- **Rancher**: a agência onde o cliente posta ou retira seu pacote sem precisar entender a complexidade de rodar toda a operação
+
+![41747044670_d3dfbe1884_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1602122266329/acLZmMIsW.jpeg)
+
+["postal service"](https://www.flickr.com/photos/63812090@N00/41747044670) by [Alexander.Hüls](https://www.flickr.com/photos/63812090@N00) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich)
+
+Para se instalar o Kubernetes na Raspi 4, tudo será feito com os seguintes passos e um microSD -- foi utilizado um de 16GB:
+
+1. Instale o [Ubuntu Server](https://ubuntu.com/download/server) nela:
+
+  I. Use o Etcher colando [este](https://ubuntu.com/download/raspberry-pi/thank-you?version=20.04.1&architecture=arm64+raspi) na opção da URL da imagem
+
+  II. Abra o gerenciador de arquivos, procure uma partição do seu micro-sd chamada `system-boot` e crie um arquivo de texto em branco chamado `ssh`.
+
+  III. Coloque a Raspi em um cabo de rede, coloque o cartão de memória nela e a ligue. Caso não tenha o cabo, leia [aqui](https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi#3-wifi-or-ethernet) como configurar para a opção de WiFi.
+
+2. Procure o IP da sua placa na sua rede -- aplicativos de modems normalmente mostram isso -- e conecte nela por `ssh` -- a senha é `ubuntu`:
+```shell
+ssh -l ubuntu ip.da.sua.raspi
+```
+3. Faça as configurações necessárias.
+
+4. Rode o seguinte comando:
+```shell
+curl https://gist.githubusercontent.com/Fazendaaa/8fe033c5428e3f26daf69910693c4d07/raw/8c3299dc457e7d2cbc35340f56261fa8a0e81588/rasp4Rancher.sh | sh
+```
+
+Este último comando irá instalar o [microk8s](https://microk8s.io/), configurar a sua placa e reiniciar ela para poder ser utilizada nos próximos passos.
+
+## Rancher
+
+Partindo da analogias anteriores, o Rancher é o agência na qual postaremos o pacote. Para poder rodar o sistema será necessário ter pacote antes. O **Reminiscence** não possuim uma embalagem oficial disponibilizada por eles, mas uma foi feita para este projeto e o passo a passo dela foi disponibilizado para o projeto caso queiram tornar-lá ela oficial.
+
+Esta embalagem nova foi baseada em uma antiga mas não tão recomendada para este caso por se basear no uso de um sistema de armazenamento de servidores mais próximos de você -- o famoso cache --, que não será necessário uma vez que não há necessidade de uma Content Delivery Network (CDN) uma vez que todo o serviço rodará na sua rede -- mais próximo que qualquer servidor de terceiros.
+
+Este novo pacote foi feito disponibilizado em [fazenda/reminiscence](https://hub.docker.com/r/fazenda/reminiscence) para as seguintes arquiteturas:
+
+- 386
+- amd64
+- arm/v7
+- arm64
+- ppc64le
+- s390x
+
+Para adicionar a Raspi ao seu atual cluster Rancher, a opção de adicionar um novo não funciona, mas graças aos passos realizados anteriormente podemos registrar um cluster já existente:
+
+I. No seu [já presente](https://fazenda.hashnode.dev/configurando-rancher-em-um-arm) painel do Rancher, clique em `Add Cluster`:
+
+![image1147.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602172485913/VTXTcUsF2.png)
+
+II. Selecione a opção `Import an existing cluster`:
+
+![image1031.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602172269519/wYMvX6ofS.png)
+
+III. Dê um nome ao seu cluster:
+
+![image1017.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602172286080/KhsqWoIrp.png)
+
+IV. Espere nesta tela:
+
+![g1203.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602173333140/_pg1QmwSP.png)
+
+V. Conecte na sua Rapi 4 por SSH:
+
+```shell
+ssh -l ubuntu ip.da.sua.raspi
+```
+
+VI. Coloque o terceiro comando na sua placa:
+
+```shell
+curl --insecure -sfL https://seu.ip.rancher/chave.yaml | kubectl apply -f -
+```
+
+VII. Coloque o segundo comando:
+
+```shell
+kubectl apply -f https://seu.ip.rancher/chave.yaml
+```
+
+VIII. Pronto, sua placa foi registrada:
+
+![image989.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602172330960/23HUk2lYe.png)
+
+> Agora um novo "rancho" foi adicionado ao seus, vaqueiro...
+
+![33368477815_08ac7d4647_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1602021659986/kQ5um5gsW.jpeg)
+
+["farm scene"](https://www.flickr.com/photos/17094005@N00/33368477815) by [Christian Collins](https://www.flickr.com/photos/17094005@N00) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich)
+
+1. Agora, para deployar sua aplicação será necessário ter um deploy do banco de dados [postegres](https://hub.docker.com/_/postgres) antes, caso já tenha um, pode pular este passo:
+
+  I. Acesse a placa de novo caso tenha fechado a conexão com ela:
+```shell
+ssh -l ubuntu ip.da.sua.raspi
+```
+  II. Cole os seguintes comandos:
+```shell
+mkdir ~/postegres
+cd ~/postegres
+pwd #copie o resultado deste comando
+```
+  III. Coloque os seguintes valores para a imagem:
+![image1295.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602175376439/0ZwmgjVUS.png)
+  IV. Os seguintes para as variáveis de ambiente:
+![image1402.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602175649597/IXqKW9nIC.png)
+  V. E monte o seguinte caminho o passo II -- lembrando que o meu é `/home/ubuntu/postegres` mas o da sua placa pode ser diferente:
+![image1281.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602175402561/Ndr4Q_XqL.png)
+
+2. Agora deployar o **Reminiscence**:
+
+  I. Coloque os seguintes valores para a imagem:
+![image1534.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602176873408/HFHWBlyE5.png)
+  II. Coloque o seguinte para a porta:
+![image1534-2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602176887798/O5b-hMSd6.png)
+  III. E as seguintes variáveis de ambiente:
+![image1520.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602176897557/n1gE5IYK8.png)
+  IV. Só abrir o IP utilizado -- digitar `admin` para usuário e `changepassword` para senha:
+![g1783.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602176915416/o9bXqtpGg.png)
+  V. Pronto, seu **Reminiscense** foi deployado:
+![g1792.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602176926091/B9ce_KaMM.png)
+
+## Considerações Finais
+
+Por ser um dos projetos mais simples e melhor feito que eu já vi, nessas horas eu lembro da frase do chefe de cozinha Henrique Fogaça durante as provas do Master Chef: *"menos é mais"*.
+
+Com a experiência de rodar alguns serviços por meses em SBCs e vendo que não há muita dificuldade nem a questão do custo alto, a ideia é começar a mostrar como fazer placas e sistemas que não são suportados oficialmente com um comando do Rancher funcionar nele com a média de três comandos. Claro que isso vai ser até o Rancher funcionar em sistemas assim, principalmente para arquiteturas 32 bits -- ou até eu ter tempo para parar e ver de modificar o código para tal e enviar para o pessoal do projeto.
+
+Com a Raspi 4 de 8GB sendo uma das placas com maior quantidade de RAM, tavez seja uma das melhores opções de homelab uma vez que muitas vezes o processador dela pode dar conta de muita coisa que você queira utilizar mas está limitado ao número de sistemas que pretende rodar pela quantidade de 2 ou 4 GB de RAM.
+
+Novo suporte para uma nova placa abrem caminhos para novos desafios.
+
+![3575912092_c271674027_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1602023328832/1cjsoeclh.jpeg)
+
+["Learning sea mapping"](https://www.flickr.com/photos/38844604@N07/3575912092) by [Ratko Bozovic](https://www.flickr.com/photos/38844604@N07) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich)
+
+## Apêndice
+
+- Infelizmente o processo de configuração da Raspi tem que ser feita da forma descrita no texto -- diferentemente do apresentado nos outros textos que se resume a um `docker run ...` --; mesmo com testes realizados em:
+  - Raspian 64 bits
+  - Ubuntu Server
+  - Manjaro
+  - Alpine
+  - Ubuntu MATE
+
+Fazendo diversas configurações para ver se alguma funcionava, foram três dias de dedicação praticamente que integrais, verificando várias configurações diferentes, para se chegar a conclusão de que provavelmente é algo que não consigo pountar ao certo o que possa ser uma vez que o erro se tornou díficil de pontuar -- todavia chuto ser algum driver -- e um dos passos colocados no script de configuração para suporte foi feito graças à um teste na hora de subir o serviço a ser publicado no  [próximo](https://fazenda.hashnode.dev/seu-proprio-github-em-casa-e-de-graca) texto.
+- Ajudas do StackOverflow:
+  - [Esta](https://github.com/ubuntu/microk8s/issues/749#issuecomment-545329917) resposta de ktsakalozos ajudou e muito no processo
+  - [Este](https://stackoverflow.com/a/59550723) comentário que achei porque copiei a linha errada mas do problema certo
+  - Já com a questão do Python e sua migração de Debian para Alpine, [este](https://stackoverflow.com/a/47871121/7092954)
+- Para entender um pouco mais de Nginx, [este](https://www.domysee.com/blogposts/reverse-proxy-nginx-docker-compose/) texto ajudou uma vez que possuo maior familiaridade com [Traefik](https://traefik.io/)
+- Depois de horas e horas procurando entender e corrigir o processo de build do Wallabag, encontrei o Reminiscence através do [alternative to](https://alternativeto.net/software/wallabag/)
+- Pretendo ler mais sobre Kubernetes para poder explicar a importancia dele, do Swarm e como traduzir um Compose para um deploy em Rancher/Kubernetes; além de explicar sobre microk8s, minikube, kubeadm, k3d, rke e etc.
+- Como o Dockerfile e o Compose oficiais precisavam do Nginx e rodar com do Guinicorn, a modificação feita foi remover os dois e rodar dom o servidor próprio do Django. Isso porque as duas primeiras opções combinadadas cuidavam de cache, avaliabilidade do sistema, segurança e etc; coisas importantes para um serviço em uma rede pública no qual você pode ter acesso de todos os lugares do mundo e pelos mais diversos players -- o que não é o cenário do texto
+
+## Referências
+
+- [Introduction to MicroK8s](https://microk8s.io/docs)
+- [Raspberry Pi 4 Tech Specs](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/specifications/)
+- [K3s, minikube or microk8s?](https://www.reddit.com/r/kubernetes/comments/be0415/k3s_minikube_or_microk8s/)
