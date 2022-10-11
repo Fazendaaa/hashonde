@@ -1,1 +1,205 @@
-IyMgU2V1IHByw7NwcmlvICJHaXRIdWIiIGVtIGNhc2EgZSBkZSBncmHDp2EKCj4gUHJhIHF1ZSB1c2FyIEdpdEh1YiwgQml0QnVja2V0LCBHaXRMYWIgcXVhbmRvIHZvY8OqIHBvZGUgdGVyIG8gc2V1IHNlcnZpZG9yIGRlIEdpdCBlbSBjYXNhIGVucXVhbnRvIHByZXBhcmEgdW0gY2jDoT8KCmZvdG8gZGUgY2FwYTogWyJZRFMgTGlicmFyeSJdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzYwNjY4OTY3QE4wMC8zMzc2MTY0NzUwKSBieSBbQ2hyaXMgYW5kIEFteSBTdHJvdXBdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzYwNjY4OTY3QE4wMCkgaXMgbGljZW5zZWQgdW5kZXIgW0NDIEJZLU5DIDIuMF0oaHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLzIuMC8/cmVmPWNjc2VhcmNoJmF0eXBlPXJpY2gpCgojIyBJbnRybwoKTyBxdWUgc2VyaWEgdW1hICJzb2x1w6fDo28iIHNlbSBwcm9ibGVtYXM/CgpDYXNvIHZvY8OqIHRlbmhhIGNhw61kbyBkZSBnYWlhdG8gYXF1aSBlIG7Do28gc2HDrWJhIG8gcXVlIMOpIFsqKmdpdCoqXShodHRwczovL2dpdC1zY20uY29tLyksIGVtIHVtYSByZXN1bWlkYSBhYnN1cmRhIGVsZSBzZXJpYSAqIm8gR29vZ2xlIERvY3MgZG8gc2V1IGPDs2RpZ28iKjoKCi0gUG9zc3VpIHZlcnNpb25hbWVudG8KLSBIaXN0w7NyaWNvCi0gVsOhcmlhcyBwZXNzb2FzIHBvZGVtIGVkaXRhciBlbGUKLSBUcmFiYWxobyBzaW11bHTDom5lbyBlbSBkaXZlcnNhcyB0YXJlZmFzCi0gZXRjCgpDYXNvIGlzc28gc2VqYSBpbnRlcmVzc2FudGUgcGFyYSB0aSwgYW50ZXMgZGUgY29udGludWFyIGEgbGVyIG8gdGV4dG8gcG9yIGZhdm9yIHZlamEgb3Mgc2VndWludGVzIGNvbnRlw7pkb3M6CgotIFtHaXQgRXhwbGFpbmVkIGluIDEwMCBTZWNvbmRzXShodHRwczovL3lvdXR1LmJlL2h3UDdXUWttRUNFKQotIFs1IFdheXMgdG8gRGV2T3BzLWlmeSB5b3VyIEFwcCAtIEdpdGh1YiBBY3Rpb25zIFR1dG9yaWFsXShodHRwczovL3lvdXR1LmJlL2VCMG5VekFJN004KQotIFtUZWNoIFRhbGs6IExpbnVzIFRvcnZhbGRzIG9uIGdpdF0oaHR0cHM6Ly95b3V0dS5iZS80WHBuS0hKQW9rOCkKCk8gZ2l0IG5hc2NldSBkZSB1bSBuZWNlc3NpZGFkZSBkZSBMaW51cyBUb3J2YWxkcyBlbSBjb25zZWd1aXIgZ2VyZW5jaWFyIG8gZGVzZW52b2x2aW1lbnRvIGRvIGtlcm5lbCBxdWUgZWxlIGNyaW91LiBUb2RhdmlhIG8gcHJvamV0byBjcmVzY2V1IHRhbnRvIHF1ZSBvIHByw7NwcmlvIFRvcnZhbGRzIHBhc3NvdSBhIHRvY2hhIHBhcmEgSnVuaW8gSGFtYW5vIG1hbnRlciBlbGUgY29tIG91dHJvcyBkZXNlbnZvbHZlZG9yZXMgdW1hIHZleiBxdWUgZWxlIGFjcmVkaXRhIHF1ZSBqw6EgcHJvdm91IHF1ZSBjb25zZWd1aXJpYSBpciBhbMOpbSBkbyBlc3RpZ21hIGRlIHNlciBhcGVuYXMgKiJvIGNhcmEgcXVlIGZleiBvIExpbnV4IiouCgpTw7MgcGFyYSBuw6NvIGZhemVyIHVtIGRlc3NlcnZpw6dvIGEgYXByZXNlbnRhciBhIGZlcnJhbWVudGEgY29tbyBzZSBuw6NvIHRpdmVzc2UgbmFkYSBhbnRlcyBkZWxhLCBqw6EgZXhpc3RpYW0gc29sdcOnw7VlcyBzaW1pbGFyZXMgZGlzcG9uw612ZWlzIG5vIG1lcmNhZG86IFtNZXJjdXJpYWxdKGh0dHBzOi8vd3d3Lm1lcmN1cmlhbC1zY20ub3JnLykgZSBbU1ZOXShodHRwczovL3N1YnZlcnNpb24uYXBhY2hlLm9yZy8pLiBBbWJhcyBjb20gc2V1cyBwYXJhZGlnbWFzIGUgYWJvcmRhZ2VucyBkaWZlcmVudGVzOgoKLSBNZXJjdXJpYWw6IG1vZGVsbyBzaW1pbGFyIGFvIHF1ZSBvIGdpdCBlbXByZWdhLCBjw7NkaWdvIGRlc2NlbnRyYWxpemFkbywgdm9jw6ogcG9kZSBmYXplciB0dWRvIG5hIHN1YSBtw6FxdWluYSBzZW0gcHJlY2lzYXIgZGUgdW0gc2Vydmlkb3IKLSBTVk46IGPDs2RpZ28gY2VudHJhbGl6YWRvLCBmdW5jaW9uYSBjb21vIHNlIHZvY8OqIGFwZW5hcyBmaXplc3NlIHVtIGFjZXNzbyByZW1vdG8sIHNlbSBwb3NzaWJpbGlkYWRlIGRlIHRlciBhY2Vzc28gc2VtIGVzdGFyIGNvbmVjdGFkbyBhbyBzZXUgc2Vydmlkb3IKCiFbMjQxMDY5Njc4NjdfNTkyMzg1YzNiOV9vLmpwZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2MDIxNTI5ODc0NTMvc0JsNnVkMnY1LmpwZWcpCgpbIkhpZXJvZ2x5cGhpYyBzY3JpcHQgb24gUm9zZXR0YSBTdG9uZSJdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzk4Nzg2Mjk5QE4wMC8yNDEwNjk2Nzg2NykgYnkgW1BldGVyVGhvZW55XShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy85ODc4NjI5OUBOMDApIGlzIGxpY2Vuc2VkIHVuZGVyIFtDQyBCWS1OQy1TQSAyLjBdKGh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS1uYy1zYS8yLjAvP3JlZj1jY3NlYXJjaCZhdHlwZT1yaWNoKQoKIyMgU29sdcOnw7VlcyBhdHVhaXMKCk7Do28gw6kgYXBlbmFzIHBlbGEgcHJveGltaWRhZGUgZGUgbm9tZSBxdWUgbXVpdGEgZ2VudGUgY29uZnVuZGUgbyBHaXQgY29tIG8gR2l0aHViIChHSCksIGVsZSBmb2kgbyBwcmltZWlybyBhIG9mZXJlY2VyIGFybWF6ZW5hbWVudG8gZGUgY8OzZGlnbyBiYXNlYWRvIGVtIEdpdCBxdWFuZG8gY29tcGFyYWRvIMOgcyBvdXRyYXMgc29sdcOnw7VlcyBhcHJlc2VudGFkYXMgYXF1aS4gU2VndWlkbyBwZWxvIEJpdGJ1Y2tldCAoQkIpIGFub3MgZGVwb2lzLCBlbnTDo28gbyBHaXRMYWIgKEdMKSBlLCBwb3Igw7psdGltbywgbyBHaXRlYSAoR1QpLgoKTyBHSCDDqSBvIG1haW9yIGRlIHRvZG9zLCB0YW50byBxdWUgaMOhIGRvaXMgYW5vcyBzb2ZyZXUgbyBbbWFpb3IgYXRhcXVlIGRlIEREb1MgZGEgaGlzdMOzcmlhXShodHRwczovL3d3dy53aXJlZC5jb20vc3RvcnkvZ2l0aHViLWRkb3MtbWVtY2FjaGVkLykgZSBhcm1hemVuYSBhbGd1bnMgZG9zIG1haW9yZXMgcHJvamV0b3MgZGUgcHJvZ3JhbWHDp8OjbyBjb21vOgoKLSBbdnVlXShodHRwczovL2dpdGh1Yi5jb20vdnVlanMvdnVlKTogZmVycmFtZW50YSBkZSBkZXNlbnZvbHZpbWVudG8gd2ViIGVtIHRlcmNlaXJvIGx1Z2FyIG5vIHJhbmtpbmcgZGUgImxpa2VzIgotIFt0ZW5zb3JmbG93XShodHRwczovL2dpdGh1Yi5jb20vdGVuc29yZmxvdy90ZW5zb3JmbG93KTogZmVycmFtZW50YSBkZSBkZXNlbnZvbHZpbWVudG8gZGUgcHJvamV0b3MgZGUgTWFjaGluZSBMZWFybmluZyBlbSBzZXh0byBsdWdhcgotIFtZb3UgRG9uJ3QgS25vdyBKUyBZZXRdKGh0dHBzOi8vZ2l0aHViLmNvbS9nZXRpZnkvWW91LURvbnQtS25vdy1KUyk6IGxpdnJvIGRlIHByb2dyYW1hw6fDo28gZW0gZMOpY2ltbyBsdWdhcgoKQSBkaWZlcmVuw6dhIGNvbSByZWxhw6fDo28gYSBhbmFsb2dpYSBmZWl0YSBhbnRlaXJvcm1lbnRlIGRlIHNlciDDqSBxdWUgc2VydmnDp29zIGJhc2VhZG9zIGVtIGdpdCBob2plIGVtIGRpYSBmYXplbSBtdWl0byBtYWlzIGRvIHF1ZSBvIGrDoSBhcHJlc2VudGFkbywgbm9ybWFsbWVudGUgZWxlcyBjb25zdHJvZW0gb3MgYXJ0ZWZhdG9zIG5lY2Vzc8OhcmlvcyBlIG9zIGRpc3RyaWJ1ZW0uIElzc28gZmF6IGNvbSBxdWUgbyBzaW1wbGVzICJzZXJ2aWRvciBkZSBhcnF1aXZvcyBkZSB0ZXh0b3MiIGNvbnN0cnVhIHRhbWLDqW0gbyBzZXUgY8OzZGlnbyBlIGVudmllIGVsZSBwYXJhIG9uZGUgc2VyIG5lY2Vzc8OhcmlvIHNlamEgaXNzbzogdW1hIGxvamEgZGUgYXBwLCB1bSBzaXRlIG91IGF0w6kgbWVzbW8gb3V0cm9zIHNpc3RlbWFzIGRlIGPDs2RpZ28uIFPDsyB2YWxlIHJlc3NhbHRhciBxdWUgaXN0byBpc3NvIGVtIHNpIG7Do28gdGVtIGEgdmVyIGNvbSBvIGdpdCBjb21vIHRlY25vbG9naWEsIG1hcyBhcyBzb2x1w6fDtWVzIGNvbnRydWlkYXMgYSBwYXJ0aXIgZGVsZS4gVGFsIGZhY2lsaWRhZGUgcmVkdXogZSwgZW0gYWxndW5zIGNhc29zIHJlbW92ZSwgYSBuZWNlc3NpZGFkZSBkZSBzZSB0ZXIgdW0gdGltZSBkZSAiYnVpbGRzIiBlIGRlICJpbmZyYSIuCgohWzU5OTgyMDUzOF9mOTgxMzhlYTMyX28uanBnXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYwMjAyMDkwMDkyNi9uM2EzLWdnaGYuanBlZykKClsiU3RvcmFnZSBTZXJ2ZXJzIl0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvOTI0NjE1OUBOMDYvNTk5ODIwNTM4KSBieSBbZ3JvdmVyX25ldF0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvOTI0NjE1OUBOMDYpIGlzIGxpY2Vuc2VkIHVuZGVyIFtDQyBCWS1ORCAyLjBdKGh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS1uZC8yLjAvP3JlZj1jY3NlYXJjaCZhdHlwZT1yaWNoKQoKQWdvcmEgbWFpcyBzb2JyZSBlbGFzOgoKLSBHaXRodWI6CiAgLSBNaWNyb3NvZnQgKE1TKSBjb21wcm91IGVsZSBlbSAyMDE4CiAgLSBNYWlzIGRhIG1ldGFkZSBkYXMgNTAgbWFpb3JlcyBlbXByZXNhcyBlbSB2ZXJiYSBkb3MgRVVBIHV0aWxpemFtIGVsZQogIC0gVGVtIG8gW0xpbnV4XShodHRwczovL2dpdGh1Yi5jb20vdG9ydmFsZHMvbGludXgpIGFybWF6ZW5hZG8gbmVsZQoKLSBCaXRCdWNrZXQ6CiAgLSBUZXZlIHVtIGNvbWXDp28gaW5kZXBlbmRldGUgYXNzaW0gY29tbyBvIEdIIG1hcyBmb2kgYWRxdWlyaWRvIGVtIDIwMTAKICAtIFBvciBzZXIgZGEgQXRsYXNzaWFuLCB0ZW0gbXVpdGEgaW50ZWdyYcOnw6NvIGNvbSBvcyBwcm9kdXRvcyBkYSBlbXByZXNhIGNvbW8gSklSQSBlIFRyZWxsbyBzZW0gbXVpdGFzIGNvbmZpZ3VyYcOnw7VlcyBjb21vIG5hcyBvdXRyYXMgb3DDp8O1ZXMKICAtIEEgQXRsYXNzaWFuIMOpIGZhbW9zYSBwb3Igc2V1IHN1cG9ydGUKCi0gR2l0TGFiCiAgLSBUZXZlIHVtIGdyYW5kZSBjcmVzY2ltZW50byBsb2dvIGRlcG9pcyBkYSBhcXVpc2nDp8OjbyBkbyBHSCBwZWxhIE1TCiAgLSBGb2kgbyBwcmltZWlybyBhIGFwcmVzZW50YXIgcmVwb3NpdMOzcmlvcyBwcml2YWRvcyBwYXJhIGNvbnRhcyBncmF0dWl0YXMKICAtIFRpbmhhIGZlcnJhbWVudGFzIGNvbW8gQ29udGludW91cyBJbnRlZ3JhdGlvbiAoQ0kpIC8gQ29udGludW91cyBEZWxpdmVyeSAoQ0QpIGFudGVzIGRvIEdIIEFjdGlvbnMKICAtIEZhbW9zbyBwb3IgcGVnYXIgbyBmZWVkYmFjayBkYSBjb211bmlkYWRlIGUgcHJvY3VyYXIgc2VtcHJlIGltcGxlbWVudGFyIG5vdmFzIGZlYXR1cmVzCgpVbWEgdmV6IGNpdGFkb3MgZXNzZXMgZmF0b3MsIG11aXRhcyBlbXByZXNhcyBlIHBlc3NvYXMgcG9kZW0gZXZpdGFyIGp1c3RhbWVudGUgdGFpcyBwcm9kdXRvcyBqdXN0YW1lbnRlIHBvciBlc3NlcyBtb3Rpdm9zLiBBc3NpbSBjb21vIG91dHJvczoKCi0gTVMgYWluZGEgdGVtIHVtICJwYXNzYWRvIHR1cmJ1bGVudG8iIHBvciBjYXVzYSBkZSBjb2lzYXMgcXVlIGFjb250ZWNlcmFtLCBwcmluY2lwYWxtZW50ZSBub3MgYW5vcyA5MDoKICAtIFtXaW5kb3dzIFJlZnVuZCBkYXldKGh0dHA6Ly9tYXJjLm1lcmxpbnMub3JnL2xpbnV4L3JlZnVuZGRheS8pIAogIC0gW01vbm9ww7NsaW9dKGh0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vYXNrL2Fuc3dlcnMvMDgvbWljcm9zb2Z0LWFudGl0cnVzdC5hc3ApCi0gQXRsYXNzaWFuIMOpIGZhbW9zYSBwb3Igc2VyIGNhcmEKLSBHTCBuw6NvIHBvc3N1aXUgdW1hIGNvbXVuaWRhZGUgbXVpdG8gZm9ydGUgbm8gUGHDrXMgY29tbyBhcyBvdXRyYXMgZHVhcyBvcMOnw7VlcywgbyBxdWUgZGlmaWN1bHRhIHBhcmEgYWNoYXIgY29udGXDumRvIGVtIFBvcnR1Z3XDqnMgb3UgcGVzc29hcyBxdWUgdXRpbGl6YW0gYSBzb2x1w6fDo287IGFsw6ltIGRpc3NvIG8gc2V1IHNpc3RlbWEgasOhIGFwcmVzZW50b3UgbWFpcyBpbnN0YWJpbGlkYWRlcyBkbyBxdWUgb3Mgb3V0cm9zIGRvaXMKCiMjIFBvciBxdWUgbyBHaXRlYT8KCkFudGVzIGRlIGNvbnRpbnVhciwgcG9yIG1haXMgcXVlIG8gR1Qgc2VqYSBvICJnYXJvdG8gbm92byBuYSBwYXJhZGEiLCBlbGUgw6kgYmVtIHJvYnVzdG8gY29tIGZhY2lsaWRhZGVzIGRlIGluc3RhbGHDp8OjbyBzZWphIHJvZGFuZG8gdW0gY29udGFpbmVyIERvY2tlciBlbSBxdWFscXVlciBsdWdhciBhdMOpIGNvbW8gbyBzdXBvcnRlIHBhcmEgaW5zdGFsYXIgZWxlIGNvbSBIZWxtLiBBbMOpbSBkaXNzbzoKCi0gQXMgdmV6ZXMgdHJhYmFsaGEgZW0gdW1hIHBlcXVlbmEgZW1wcmVzYSBlIG7Do28gdGVtIGEgZ3JhbmEgcGFyYSBwYWdhciB1bSBHSCwgQkIgb3UgbWVzbW8gdW0gR0wgb3duIGhvc3RlZAotIFJvZGEgZW0gQVJNCi0gSW50ZXJmYWNlIG3DrW5pbWEsIHNpbXBsZXMgZSBpbnR1aXRpdmEKLSBCYWl4YSBjb21wbGV4aWRhZGUgcXVhbmRvIGNvbXBhcmFkbyBhIGhvc3RlYXIgb3Mgb3V0cm9zIHNlcnZpw6dvcwoKRm9yYSBxdWUgdm9jw6ogcG9kZSB0ZXIgdGFtYsOpbSBvIGludGVyZXNzZSBlbSBlbnRlbmRlciBjb21vIHRhbCB0aXBvIGRlIHNpc3RlbWFzIGZ1bmNpb25hbSBlIHByb2N1cmFyIHZvY8OqIG1lc21vIGEgZmF6ZXIgbW9kaWZpY2HDp8O1ZXMgcXVlIGF0ZW5kYW0gbWVsaG9yIGEgc3VhIG5lY2Vzc2lkYWRlLgoKIVsxMjY5NjAxNzM2M182YTZmY2JmNTUwX28uanBnXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYwMjEyODU1NDI4NS9ZYm84Ym1FeUUuanBlZykKClsidGVhIGJhZ3MiXShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy8xODA5MDkyMEBOMDcvMTI2OTYwMTczNjMpIGJ5IFtTZWFuIE1hY0VudGVlXShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy8xODA5MDkyMEBOMDcpIGlzIGxpY2Vuc2VkIHVuZGVyIFtDQyBCWSAyLjBdKGh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS8yLjAvP3JlZj1jY3NlYXJjaCZhdHlwZT1yaWNoKQoKIyMgUmFuY2hlcgoKUGFyYW5kbyBkZSBvbmRlIG8gW8O6bHRpbW9dKGh0dHBzOi8vZmF6ZW5kYS5oYXNobm9kZS5kZXYvL2NlbnRyYWxpemUtb3MtZmF2b3JpdG9zLWVtLXF1YWxxdWVyLWJyb3dzZXItZS1lbS1xdWFscXVlci1kZXZpY2UpIHRleHRvIGNvbnRpbnVhLCBvIEdpdGVhIHNlcsOhIGRlcGxveWFkbyBlbSB1bWEgW1Jhc3BiZXJyeSBQaSA0XShodHRwczovL3d3dy5yYXNwYmVycnlwaS5vcmcvcHJvZHVjdHMvcmFzcGJlcnJ5LXBpLTQtbW9kZWwtYi8pOgoKIVs0ODExOTMxMzE2MV8zYjJhNWNiOWYwX28uanBnXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYwMjE2OTY1NDk0Mi80Z2M2YjBGWXIuanBlZykKClsiUmFzcGJlcnJ5IFBpIDQgTW9kZWwgQiBpcyBoZXJlISJdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzM1NDM0NDQ5QE4wOC80ODExOTMxMzE2MSkgYnkgW2FkYWZydWl0XShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy8zNTQzNDQ0OUBOMDgpIGlzIGxpY2Vuc2VkIHVuZGVyIFtDQyBCWS1OQy1TQSAyLjBdKGh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS1uYy1zYS8yLjAvP3JlZj1jY3NlYXJjaCZhdHlwZT1yaWNoKQoKRSBwYXJhIHBvZGVyIGV4cGxpY2FyIHVtIHBvdWNvIHNvYnJlIG8gcXVlIG8gW1JhbmNoZXJdKGh0dHBzOi8vcmFuY2hlci5jb20vKSDDqSBlbSBzaTogKiJ1bSAnc2lzdGVtYSBvcGVyYWNpb25hbCcgcHJvIHNldSBzZXJ2aWRvciBjb20gdW1hIGludGVyZmFjZSBzaW1wbGVzIGUgcsOhcGlkYSBkZSBjb25maWd1cmFyIHNldXMgc2VydmnDp29zIGEgc2VyZW0gdXRpbGl6YWRvcyIqCgpDYXNvIHZvY8OqIGrDoSB0ZW5oYSBzZWd1aWRvIGFsZ3VucyBkb3MgcG9zdHMgYXF1aSBwdWJsaWNhZG9zIGUvb3UgasOhIHRlbmhhIHVtIGNvbmhlY2ltZW50byBkZSBSYW5jaGVyLCBEb2NrZXIgZSBLdWJlcm5ldGVzLCBhIGltYWdlbSBkaXNwb27DrXZlbCBbbm8gRG9ja2VyIEh1Yl0oaHR0cHM6Ly9odWIuZG9ja2VyLmNvbS9yL2dpdGVhL2dpdGVhKSBuw6NvIHBvc3N1w60gbyBtZWxob3IgZXhlbXBsbyBkZSBjYXNvIGRlIHVzbywgdG9tZSBjdWlkYWRvLgoKIVs0NTY3NTg2MTkyMV8yOGZkM2YzOWNjX28uanBnXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYwMjAyMTI3OTI1NC9vaF90YV9hM3YuanBlZykKClsiTXQgQWRhbXMgQmFybnMgTGF0ZSBBdXR1bW4gRGF5IDIxMzUgRyJdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzEzNzg2NDU2MkBOMDYvNDU2NzU4NjE5MjEpIGJ5IFtqaW0uY2hvYXRlNTldKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzEzNzg2NDU2MkBOMDYpIGlzIGxpY2Vuc2VkIHVuZGVyIFtDQyBCWS1OQy1ORCAyLjBdKGh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS1uYy1uZC8yLjAvP3JlZj1jY3NlYXJjaCZhdHlwZT1yaWNoKQoKUGFyYSBpbnN0YWxhciBvIEdUIGjDoSBhbGd1bWFzIG9ww6fDtWVzIGRlIGJhbmNvIGRlIGRhZG9zIGFzc2ltIGNvbW8gYSAgW3Byw7NwcmlhIGRvY3VtZW50YcOnw6NvIGV4cGxpY2FdKGh0dHBzOi8vZG9jcy5naXRlYS5pby9lbi11cy9pbnN0YWxsLXdpdGgtZG9ja2VyLykuIFVtIGRvcyBleGVtcGxvcyDDqSBvIFtNeVNRTF0oaHR0cHM6Ly9odWIuZG9ja2VyLmNvbS9fL215c3FsKSA1LjcsIHRvZGF2aWEgZXN0YSB2ZXJzw6NvIG7Do28gc3Vwb3J0YSBtdWx0aSBhcnF1aXRldHVyYXMsIHPDsyBhIHBhcnRpciBkYSB2ZXJzw6NvIDguMC4uLiBPIHF1ZSBjb21vIGrDoSBtb3N0cmFkbyBbbmVzdGVdKGh0dHBzOi8vZmF6ZW5kYS5oYXNobm9kZS5kZXYvY2RzLXBhcmFkb3Mtc2V1LXByb3ByaW8tc3BvdGlmeS1kZS1ncmFjYSkgdGV4dG8gZG8gU3BvdGlmeSBESVkgKERvIEl0IFlvdXJzZWxmKSBow6EgY29tbyBzZSBmYXplciBmdW5jaW9uYXIgZWxlIGUgY29tIHVtYSBib2EgcGVyZm9ybWFuY2UgLS0gbyBxdWUgcmVkdXppcmlhIGEgbmVjZXNzaWRhZGUgZGUgc3ViaXIgdW0gY29udGFpbmVyIG5vdm8gY2FzbyBqw6EgZXN0ZWphIHJvZGFuZG8gdGFsIHNvbHXDp8OjbyBkZSBzdHJlYW1pbmcgZGUgbcO6c2ljYS4KCiAxLiBDYXNvIGFpbmRhIG7Do28gdGVuaGEgbyBiYW5jbyBkZSBkYWRvczoKCiAgSS4gU1NIIG5vIHNldSBzZXJ2aWRvcjoKYGBgc2hlbGwKc3NoIC1sIHNldVVzdWFyaW8gaXAuZG8uY2x1c3Rlci5yYW5jaGVyCmBgYAogIElJLiBSb2RlIG9zIHNlZ3VpbnRlcyBjb21hbmRvczoKYGBgc2hlbGwKbWtkaXIgfi9teXNxbApjZCB+L215c3FsCnB3ZCAjIHNhbHZlIG8gb3V0cHV0IGRlc3RlIGNvbWFuZG8KYGBgCiAgSUlJLiBDcmllIHVtIG5vdm8gZGVwbG95OgohW2ltYWdlMTAyMy5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjAyMjA4NDE4Nzc1L0F0eUVhNGxPYy5wbmcpCiAgSVYuIENvbG9xdWUgb3Mgc2VndWludGVzIHZhbG9yZXMgZGUgdmFyacOhdmVpcyBkZSBhbWJpZW50ZToKIVtpbWFnZTEwMDkucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYwMjIwODU0MjI2MC9NSThqX0lsOUEucG5nKQogIFYuIENvbmZpZ3VyZSBvIGNhbWluaG8gcXVlIGNvbnNlZ3VpdSBubyBwYXNzbyBgSUlgIC0tIG5vIG1ldSBjYXNvIGAvaG9tZS91YnVudHUvbXlzcWxgIG1hcyBubyBzZXUgcG9kZSBzZXIgcXVlIHNlamFtIG91dHJvcyB2YWxvcmVzOgohW2ltYWdlOTk1LnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2MDIyMDg3MTgyNjQvVWxzNUxtVFA3LnBuZykKICBWSS4gU2VsZWNpb25lIGEgb3DDp8OjbyBkZSBjb25maWd1cmHDp8O1ZXMgYXZhbsOnYWRhcyBubyBjYW50byBpbmZlcmlvciBkaXJlaXRvIGUgdsOhIG5hIGFiYSBkZSBgQ29tbWFuZGAgZSBjb2xvcXVlIG8gc2V1Z2ludGUgY29tYW5kbyAoYC0tZGVmYXVsdC1hdXRoZW50aWNhdGlvbi1wbHVnaW49bXlzcWxfbmF0aXZlX3Bhc3N3b3JkYCk6CiFbaW1hZ2U5ODEucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYwMjIwODg2OTExNS9JeTJWNkpjRlAucG5nKQoKMi4gQWdvcmEgbyBHVDoKCiAgSS4gU1NIIG5vIHNldSBzZXJ2aWRvcjoKYGBgc2hlbGwKc3NoIC1sIHNldVVzdWFyaW8gaXAuZG8uY2x1c3Rlci5yYW5jaGVyCmBgYAogIElJLiBSb2RlIG9zIHNlZ3VpbnRlcyBjb21hbmRvczoKYGBgc2hlbGwKbWtkaXIgfi9naXRlYQpjZCB+L2dpdGVhCnB3ZCAjIHNhbHZlIG8gb3V0cHV0IGRlc3RlIGNvbWFuZG8KYGBgCiAgSUlJLiBDb25maWd1cmUgYSBpbWFnZW0gLS0gcmVjb21lbmRvIHNpbSB0cmF2YXIgZWxhIHBvcnF1ZSBvIEdUIHRlbSBtdWl0YXMgYnVpbGRzIG5hIGBsYXN0ZXN0YDoKIVtpbWFnZTk2Ny5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjAyMjA5MjgyNTczL2tJdE1HbzJsbS5wbmcpCiAgSVYuIE1hcGVpZSBhcyBzdWFzIHBvcnRhcyAtLSBsZW1icmFuZG8gcXVlIGEgYDgwODJgIGUgYDgwODNgIGVyYW0gYXMgZGlzcG9uw612ZXMgbmEgbWluaGEgbcOhcXVpbmEsIG5hIHN1YSBwb2RlIHNlciBxdWUgc2VqYW0gb3V0cmFzOgohW2ltYWdlOTY3LTMucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYwMjIwOTM1ODE2NC9lN2FnTGNjWGcucG5nKQogIFYuIENvbG9xdWUgb3Mgc2VndWludGVzIHZhbG9yZXMgZGUgdmFyacOhdmVpcyBkZSBhbWJpZW50ZToKIVtpbWFnZTk1My5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjAyMjA5NDYxOTE3L180OTdRX2pxbS5wbmcpCiAgVkkuIENvbmZpZ3VyZSBvIGNhbWluaG8gcXVlIGNvbnNlZ3VpdSBubyBwYXNzbyBgSUlgIC0tIG5vIG1ldSBjYXNvIGAvaG9tZS91YnVudHUvZ2l0ZWFgIG1hcyBubyBzZXUgcG9kZSBzZXIgcXVlIHNlamFtIG91dHJvcyB2YWxvcmVzOgohW2cxMTQ4LnBuZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE2MDIyMDk1MjE1NDcvQ3h6T1NLZnVNLnBuZykKICBWSUkuIEFjZXNzZSBvIHNldSBlbmRlcmXDp286CiFbZzE0NDAucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYwMjIxMDA3MjQ5Mi9kV1o5T3F3QjMucG5nKQogIFZJSUkuIFJlZ2lzdHJlIHVtIG5vdm8gc2Vydmlkb3I6CiFbZzE0NDkucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYwMjIxMDA4ODk5MC9JWWFtcXpPTm0ucG5nKQogIElYLiBDb21lY2UgYSBzZSBkaXZlcnRpcjoKIVtnMTQ1OC5wbmddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjAyMjEwMDk4NTM4L1J3ekxjeV9jZi5wbmcpCgojIyBDb25zaWRlcmHDp8O1ZXMgRmluYWlzCgpDb20gbyBHSCBlbSB1bWEgYXBhcmVudGUgam9nYWRhIGRlIG1hcmtldGluZyBhbyBhcm1hemVuYXIgYWxndW5zIGPDs2RpZ29zIGVtIHVtIGNvZnJlIG5vIMOhcnRpY28sIGNhZGEgdmV6IG1haXMgZXN0w6Egc2UgcHJvY3VyYW5kbyBjb25zY2llbnRpemFyIGEgInBvcHVsYcOnw6NvIGNvbXVtIiAtLSBuZXN0ZSBjYXNvIHF1ZW0gbsOjbyBjb2RhIG91IHBlbG8gbWVub3MgZXhwb3N0b3Mgw6Agw6FyZWEgLS0gc29icmUgbyBxdcOjbyAiaW1wb3J0YW50ZSIgbyBjw7NkaWdvIMOpIHBhcmEgY29tcHV0YcOnw6NvLCB1bWEgdmV6IHF1ZSBmaWNvdSBjbGFybyBxdWUgYSBpZGVpYSBlcmEgZmF6ZXIgdW1hIGNvbXBhcmHDp8OjbyBkZSBpbXBvcnTDom5jaWEgY29tIG8gU3ZhbGJhcmQgR2xvYmFsIFNlZWQgVmF1bHQuCgpBbMOpbSBkZSByZXNzYWx0YXIgYSBpbXBvcnRhbmNpYSBkZSBsZWdhZG9zIGRlIGPDs2RpZ28sIHF1YW5kbyBhw6fDtWVzIGNvbW8gZXNzYXMgcHJvY3VyYW0gYXRpbmdpciBwcmluY2lwYWxtZW50ZSBvIHDDumJsaWNvIG7Do28gdMOpY25pY28sIG1vc3RyYSB1bWEgaW50ZW7Dp8OjbyBkZSBzZSBhdHJhaXIgcGVzc29hcyBwYXJhIGEgw6ByZWEsIHVtYSB2ZXogcXVlIGEgZGVtYW5kYXIgcG9yIHByb2Zpc3Npb25haXMgc2UgdG9ybmEgY2FkYSB2ZXogbWFpcyBldmlkZW50ZS4gTW9zdGFyIHF1ZSBuw6NvIHNlIHByZWNpc2EgdGVyIHVtYSBmb3JtYcOnw6NvIHTDqWNuaWNhLCBzdXBlcmlvciBvdSBhdMOpIG1lc21vIHVtIGJvb3RjYW1wIGVtIGPDs2RpZ28gcGFyYSBzZSBwb2RlciBwcm9ncmFtYXIgLS0gY29tbyBvICBbcXXDrW1pY28gcXVlIGTDoSBzdXBvcnRlIMOgIHVtYSBiaWJsaW90ZWNhIGRlIHNoZWxscyBlbSBQeXRob25dKGh0dHBzOi8vdGVzdGFuZGNvZGUuY29tLzEzMCkuCgpDYXNvIHRlbmhhIHZvbnRhZGUgZGUgcGFydGljaXBhciBlbSBjb250cmlidWlyIGVtIHF1YWxxdWVyIHByb2pldG8sIGVzdGUgbcOqcyBhIERpZ2l0YWwgT2NlYW4gZXN0w6EgW2RhbmRvIHVtYSBjYW1pc2V0YV0oaHR0cHM6Ly9oYWNrdG9iZXJmZXN0LmRpZ2l0YWxvY2Vhbi5jb20vKSBwYXJhIHF1ZW0gYXV4aWxpYXIgZWxlcyBlbSBwcm9qZXRvcyBjb21vIGFsZ3VucyBkbyBjaXRhZG9zIGUgdsOhcmlvcyBvdXRyb3MgZSBjYXNvIHF1ZWlyYSBhdXhpbGlhciBvIEdUIHZvY8OqIHBvZGUgZmF6ZXIgaXNzbyBkZSB2w6FyaWFzIG1hbmVpcmFzOgoKLSBDw7NkaWdvCi0gRG9jdW1lbnRhw6fDo28KLSBUZXN0ZXMKLSBldGMuCgpQcm9qZXRvcyBhc3NpbSBjcmVzY2VtIGNvbSBvIGHDunhpbGlvIHF1ZSByZWNlYmVtIGRlIGRpdmVyc2FzIHBlc3NvYXMsIGFzIHZlemVzIHZvY8OqIHBvZGUgYWp1ZGFyIGEgZXNjcmV2ZXIgYSBoaXN0w7NyaWEgZGVsZSBlIGRlIG11aXRvcyBvdXRyb3MuCgohWzQ5NzQxMTE2OV9mODdiYjdlZWE3X28uanBnXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTYwMjE2MTAwNDgzOS9KX2hfS1diWTIuanBlZykKClsiJ1N0b3J5IFJvYWQnIl0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvODI3MTEyNEBOMDMvNDk3NDExMTY5KSBieSBbdW1qYW5lZG9hbl0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvODI3MTEyNEBOMDMpIGlzIGxpY2Vuc2VkIHVuZGVyIFtDQyBCWSAyLjBdKGh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS8yLjAvP3JlZj1jY3NlYXJjaCZhdHlwZT1yaWNoKQoKIyMgQXDDqm5kaWNlCgotIE1lbsOnw7VlcyBob25yb3NhcyDDoCBzZXJ2acOnb3MgZGUgYXJtYXplbmFtZW50byBkZSBjw7NkaWdvIHF1ZSB0YWx2ZXogdm9jw6ogbsOjbyBzYWliYSBxdWUgZmF6ZW0gaXN0byB0YW1iw6ltOgogIC0gRHJvcGJveAogIC0gR29vZ2xlOiBDbG91ZCBTb3VyY2UgUmVwb3NpdG9yaWVzCi0gQSBvcMOnw6NvIG1haXMgcHLDs3hpbWEgw6kgbyBHaXRsYWIsIG8gcXVhbCB2b2PDqiBwb2RlIHRhbWLDqW0gdGVyIGNvbSBwYXNzb3Mgc2ltaWxhcmVzIGFvIG1vc3RyYWRvIGFxdWkgdG9kYXZpYSBuw6NvIGjDoSBzdXBvcnRlIG9maWNpYWwgcGFyYSBBUk0KLSBDYXNvIHF1ZXJpYSBzYWJlciBtYWlzIHNvYnJlIGdpdCwgdGVtIFtlc3RlXShodHRwczovL2dpdC1zY20uY29tL2Jvb2svZW4vdjIpIGxpdnJvIGdyYXR1aXRvIHBhcmEgZG93bmxvZHMKLSBDb20gYSBhcXVpc2nDp8OjbyByZWNlbnRlIGRvICoqbnBtKiogLS0gc2lzdGVtYSBkZSBkaXN0cmlidWnDp8OjbyBkZSBwYWNvdGVzIGRhIGxpbmd1YWdlbSBOb2RlIC0tIHBlbGEgTWljcm9zb2Z0IGlzc28gbW9zdHJhIHF1ZSBhIGRpc3RyaWJ1acOnw6NvIGRlIGPDs2RpZ28gw6kgaW1wb3J0YW50ZSBwYXJlIGVsZXMgdW1hIHZleiBxdWU6CiAgLSBGZWNoYXJhbSB1bSBjb250cmF0byBkZSAxMCBiaWxow7VlcyBkZSBkw7NsYXJlcyBjb20gbyBnb3Zlcm5vIGFtZXJpY2FubyBwYXJhIGEgcGxhdGFmb3JtYSBkZSBudXZlbSBkZWxlcywgYSBBenVyZS4KICAtIEVsZXMgc2FiZW0gasOhIGEgaW1wb3J0w6JuY2lhIGRlIEZyZWUgYW5kIE9wZW4gU291cmNlIFNvZnR3YXJlIChGT1NTKSBlbSBwcm9qZXRvcyB1dGlsaXphZG9zIG5hIGluZHVzdHJpYSBwb2RlbSBzZXIgdmlzdG9zIFthcXVpXShodHRwczovL3d3dy5taWNyb3NvZnQuY29tL2VuLXVzL3Jlc2VhcmNoL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzAyL293bmVyc2hpcC5wZGYpCi0gRW0gdW0gbsOtdmVsIHBlc3NvYWwsIHRlciB1bSByZXBvc2l0w7NyaW8gZ2l0IGluZGVwZW5kZW50ZW1lbnRlIGRhIHNvbHXDp8OjbywgaXN0byBzZXJ2ZSBjb21vIHVtICJwb3J0aWbDs2xpbyIgZG9zIHNldXMgcHJvamV0b3M6IHRhcmVmYXMgZGUgZmFjdWxkYWRlLCBjb3JyZcOnw7VlcyBlbSBwcm9qZXRvcyBxdWUgdXRpbGl6YSwgdGV4dG9zIC0tIGNvbW8gZXN0ZSBkYXF1aSAtLSBxdWUgZXNjcmV2ZXUsIGV0Yy4gRGl0byBpc3NvLCBob3N0ZWFyIG8gc2V1IHByw7NwcmlvIHNlcnZpw6dvIGRlIGdpdCBtb3N0cmEgcXVlIGZvaSB1bSBwYXNzbyBiZW0gYWzDqW0gZG9zIGFudGVyaW9yZXMuCgojIyBSZWZlcsOqbmNpYXMKCi0gW0luc3RhbGxhdGlvbiB3aXRoIERvY2tlcl0oaHR0cHM6Ly9kb2NzLmdpdGVhLmlvL2VuLXVzL2luc3RhbGwtd2l0aC1kb2NrZXIvKQotIFtHaXQgRnVuZGFtZW50YWxzXShodHRwczovL3N5bnRheC5mbS9zaG93LzI4Ni9naXQtZnVuZGFtZW50YWxzKQotIFtMYW1iZGEzIFBvZGNhc3QgMjA2IOKAkyBNb25vcmVwb10oaHR0cHM6Ly93d3cubGFtYmRhMy5jb20uYnIvMjAyMC8wNy9sYW1iZGEzLXBvZGNhc3QtMjA2LW1vbm9yZXBvLykKLSBbR2l0IHZzIE1lcmN1cmlhbCB2cyBTVk4gW2R1cGxpY2F0ZV1dKGh0dHBzOi8vc3RhY2tvdmVyZmxvdy5jb20vYS8zMTgzMDkzLzcwOTI5NTQpCi0gW0dpdCB2cy4gTWVyY3VyaWFsOiBIb3cgQXJlIFRoZXkgRGlmZmVyZW50PyBdKGh0dHBzOi8vd3d3LnBlcmZvcmNlLmNvbS9ibG9nL3Zjcy9naXQtdnMtbWVyY3VyaWFsLWhvdy1hcmUtdGhleS1kaWZmZXJlbnQpCi0gW01pY3Jvc29mdCBhY3F1aXJlcyBHaXRIdWJdKGh0dHBzOi8vbmV3cy5taWNyb3NvZnQuY29tL2Fubm91bmNlbWVudC9taWNyb3NvZnQtYWNxdWlyZXMtZ2l0aHViLykKLSBbTWljcm9zb2Z0IGJ1eXMgSmF2YVNjcmlwdCBkZXZlbG9wZXIgcGxhdGZvcm0gbnBtOyBwbGFucyB0byBpbnRlZ3JhdGUgaXQgd2l0aCBHaXRIdWJdKGh0dHBzOi8vd3d3LnpkbmV0LmNvbS9hcnRpY2xlL21pY3Jvc29mdC1idXlzLWphdmFzY3JpcHQtZGV2ZWxvcGVyLXBsYXRmb3JtLW5wbS1wbGFucy10by1pbnRlZ3JhdGUtaXQtd2l0aC1naXRodWIvKQotIFtHaXQgZSBHaXRodWIg4oCTIEhpcHN0ZXJzICMxMDldKGh0dHBzOi8vaGlwc3RlcnMudGVjaC9naXQtZS1naXRodWItaGlwc3RlcnMtMTA5LykKLSBbSmF2YXNjcmlwdCwgY296aW5oYSBlIGNvbWlkYSBuYSBMaXYgVXAg4oCTIEhpcHN0ZXJzIE9uIFRoZSBSb2FkICMyMl0oaHR0cHM6Ly9oaXBzdGVycy50ZWNoL2phdmFzY3JpcHQtY296aW5oYS1lLWNvbWlkYS1uYS1saXYtdXAtaGlwc3RlcnMtb24tdGhlLXJvYWQtMjIvKQotIFtFeHBsb3JlIHNvbWUgb2YgdGhlIHRvcCBwcm9qZWN0cyBhcmNoaXZlZCBpbiB0aGUgMjAyMCBBcmN0aWMgVmF1bHQgcHJvZ3JhbV0oaHR0cHM6Ly9hcmNoaXZlcHJvZ3JhbS5naXRodWIuY29tLykKLSBbWGJveCBhbmQgV2luZG93cyBOVCAzLjUgc291cmNlIGNvZGUgbGVha3Mgb25saW5lXShodHRwczovL3d3dy50aGV2ZXJnZS5jb20vMjAyMC81LzIxLzIxMjY1OTk1L3hib3gtc291cmNlLWNvZGUtbGVhay1vcmlnaW5hbC1jb25zb2xlLXdpbmRvd3MtMy01KQotIFtMaW51cyBUb3J2YWxkczogIkdpdCBwcm92ZWQgSSBjb3VsZCBiZSBtb3JlIHRoYW4gYSBvbmUtaGl0IHdvbmRlci4iXShodHRwczovL3d3dy50ZWNocmVwdWJsaWMuY29tL2FydGljbGUvbGludXMtdG9ydmFsZHMtZ2l0LXByb3ZlZC1pLWNvdWxkLWJlLW1vcmUtdGhhbi1hLW9uZS1oaXQtd29uZGVyLykKLSBbR2l0aHViIFJhbmtpbmddKGh0dHBzOi8vZ2l0aHViLmNvbS9FdmFuTGkvR2l0aHViLVJhbmtpbmcjbW9zdC1zdGFycykKLSBbMjAgSW50ZXJlc3RpbmcgRmFjdHMgYW5kIFN0YXRpc3RpY3MgQWJvdXQgR2l0SHViXShodHRwczovL3d3dy5yYW5rcmVkLmNvbS9mYWN0cy1hbmQtc3RhdGlzdGljcy1hYm91dC1naXRodWIvKSAK
+# Seu próprio "GitHub" em casa e de graça
+
+> Pra que usar GitHub, BitBucket, GitLab quando você pode ter o seu servidor de Git em casa enquanto prepara um chá?
+
+foto de capa: ["YDS Library"](https://www.flickr.com/photos/60668967@N00/3376164750) by [Chris and Amy Stroup](https://www.flickr.com/photos/60668967@N00) is licensed under [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/?ref=ccsearch&atype=rich)
+
+## Intro
+
+O que seria uma "solução" sem problemas?
+
+Caso você tenha caído de gaiato aqui e não saíba o que é [**git**](https://git-scm.com/), em uma resumida absurda ele seria *"o Google Docs do seu código"*:
+
+- Possui versionamento
+- Histórico
+- Várias pessoas podem editar ele
+- Trabalho simultâneo em diversas tarefas
+- etc
+
+Caso isso seja interessante para ti, antes de continuar a ler o texto por favor veja os seguintes conteúdos:
+
+- [Git Explained in 100 Seconds](https://youtu.be/hwP7WQkmECE)
+- [5 Ways to DevOps-ify your App - Github Actions Tutorial](https://youtu.be/eB0nUzAI7M8)
+- [Tech Talk: Linus Torvalds on git](https://youtu.be/4XpnKHJAok8)
+
+O git nasceu de um necessidade de Linus Torvalds em conseguir gerenciar o desenvolvimento do kernel que ele criou. Todavia o projeto cresceu tanto que o próprio Torvalds passou a tocha para Junio Hamano manter ele com outros desenvolvedores uma vez que ele acredita que já provou que conseguiria ir além do estigma de ser apenas *"o cara que fez o Linux"*.
+
+Só para não fazer um desserviço a apresentar a ferramenta como se não tivesse nada antes dela, já existiam soluções similares disponíveis no mercado: [Mercurial](https://www.mercurial-scm.org/) e [SVN](https://subversion.apache.org/). Ambas com seus paradigmas e abordagens diferentes:
+
+- Mercurial: modelo similar ao que o git emprega, código descentralizado, você pode fazer tudo na sua máquina sem precisar de um servidor
+- SVN: código centralizado, funciona como se você apenas fizesse um acesso remoto, sem possibilidade de ter acesso sem estar conectado ao seu servidor
+
+![24106967867_592385c3b9_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1602152987453/sBl6ud2v5.jpeg)
+
+["Hieroglyphic script on Rosetta Stone"](https://www.flickr.com/photos/98786299@N00/24106967867) by [PeterThoeny](https://www.flickr.com/photos/98786299@N00) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=rich)
+
+## Soluções atuais
+
+Não é apenas pela proximidade de nome que muita gente confunde o Git com o Github (GH), ele foi o primeiro a oferecer armazenamento de código baseado em Git quando comparado às outras soluções apresentadas aqui. Seguido pelo Bitbucket (BB) anos depois, então o GitLab (GL) e, por último, o Gitea (GT).
+
+O GH é o maior de todos, tanto que há dois anos sofreu o [maior ataque de DDoS da história](https://www.wired.com/story/github-ddos-memcached/) e armazena alguns dos maiores projetos de programação como:
+
+- [vue](https://github.com/vuejs/vue): ferramenta de desenvolvimento web em terceiro lugar no ranking de "likes"
+- [tensorflow](https://github.com/tensorflow/tensorflow): ferramenta de desenvolvimento de projetos de Machine Learning em sexto lugar
+- [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS): livro de programação em décimo lugar
+
+A diferença com relação a analogia feita anteirormente de ser é que serviços baseados em git hoje em dia fazem muito mais do que o já apresentado, normalmente eles constroem os artefatos necessários e os distribuem. Isso faz com que o simples "servidor de arquivos de textos" construa também o seu código e envie ele para onde ser necessário seja isso: uma loja de app, um site ou até mesmo outros sistemas de código. Só vale ressaltar que isto isso em si não tem a ver com o git como tecnologia, mas as soluções contruidas a partir dele. Tal facilidade reduz e, em alguns casos remove, a necessidade de se ter um time de "builds" e de "infra".
+
+![599820538_f98138ea32_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1602020900926/n3a3-gghf.jpeg)
+
+["Storage Servers"](https://www.flickr.com/photos/9246159@N06/599820538) by [grover_net](https://www.flickr.com/photos/9246159@N06) is licensed under [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/?ref=ccsearch&atype=rich)
+
+Agora mais sobre elas:
+
+- Github:
+  - Microsoft (MS) comprou ele em 2018
+  - Mais da metade das 50 maiores empresas em verba dos EUA utilizam ele
+  - Tem o [Linux](https://github.com/torvalds/linux) armazenado nele
+
+- BitBucket:
+  - Teve um começo independete assim como o GH mas foi adquirido em 2010
+  - Por ser da Atlassian, tem muita integração com os produtos da empresa como JIRA e Trello sem muitas configurações como nas outras opções
+  - A Atlassian é famosa por seu suporte
+
+- GitLab
+  - Teve um grande crescimento logo depois da aquisição do GH pela MS
+  - Foi o primeiro a apresentar repositórios privados para contas gratuitas
+  - Tinha ferramentas como Continuous Integration (CI) / Continuous Delivery (CD) antes do GH Actions
+  - Famoso por pegar o feedback da comunidade e procurar sempre implementar novas features
+
+Uma vez citados esses fatos, muitas empresas e pessoas podem evitar justamente tais produtos justamente por esses motivos. Assim como outros:
+
+- MS ainda tem um "passado turbulento" por causa de coisas que aconteceram, principalmente nos anos 90:
+  - [Windows Refund day](http://marc.merlins.org/linux/refundday/) 
+  - [Monopólio](https://www.investopedia.com/ask/answers/08/microsoft-antitrust.asp)
+- Atlassian é famosa por ser cara
+- GL não possuiu uma comunidade muito forte no País como as outras duas opções, o que dificulta para achar conteúdo em Português ou pessoas que utilizam a solução; além disso o seu sistema já apresentou mais instabilidades do que os outros dois
+
+## Por que o Gitea?
+
+Antes de continuar, por mais que o GT seja o "garoto novo na parada", ele é bem robusto com facilidades de instalação seja rodando um container Docker em qualquer lugar até como o suporte para instalar ele com Helm. Além disso:
+
+- As vezes trabalha em uma pequena empresa e não tem a grana para pagar um GH, BB ou mesmo um GL own hosted
+- Roda em ARM
+- Interface mínima, simples e intuitiva
+- Baixa complexidade quando comparado a hostear os outros serviços
+
+Fora que você pode ter também o interesse em entender como tal tipo de sistemas funcionam e procurar você mesmo a fazer modificações que atendam melhor a sua necessidade.
+
+![12696017363_6a6fcbf550_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1602128554285/Ybo8bmEyE.jpeg)
+
+["tea bags"](https://www.flickr.com/photos/18090920@N07/12696017363) by [Sean MacEntee](https://www.flickr.com/photos/18090920@N07) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich)
+
+## Rancher
+
+Parando de onde o [último](https://fazenda.hashnode.dev//centralize-os-favoritos-em-qualquer-browser-e-em-qualquer-device) texto continua, o Gitea será deployado em uma [Raspberry Pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/):
+
+![48119313161_3b2a5cb9f0_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1602169654942/4gc6b0FYr.jpeg)
+
+["Raspberry Pi 4 Model B is here!"](https://www.flickr.com/photos/35434449@N08/48119313161) by [adafruit](https://www.flickr.com/photos/35434449@N08) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=rich)
+
+E para poder explicar um pouco sobre o que o [Rancher](https://rancher.com/) é em si: *"um 'sistema operacional' pro seu servidor com uma interface simples e rápida de configurar seus serviços a serem utilizados"*
+
+Caso você já tenha seguido alguns dos posts aqui publicados e/ou já tenha um conhecimento de Rancher, Docker e Kubernetes, a imagem disponível [no Docker Hub](https://hub.docker.com/r/gitea/gitea) não possuí o melhor exemplo de caso de uso, tome cuidado.
+
+![45675861921_28fd3f39cc_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1602021279254/oh_ta_a3v.jpeg)
+
+["Mt Adams Barns Late Autumn Day 2135 G"](https://www.flickr.com/photos/137864562@N06/45675861921) by [jim.choate59](https://www.flickr.com/photos/137864562@N06) is licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=rich)
+
+Para instalar o GT há algumas opções de banco de dados assim como a  [própria documentação explica](https://docs.gitea.io/en-us/install-with-docker/). Um dos exemplos é o [MySQL](https://hub.docker.com/_/mysql) 5.7, todavia esta versão não suporta multi arquiteturas, só a partir da versão 8.0... O que como já mostrado [neste](https://fazenda.hashnode.dev/cds-parados-seu-proprio-spotify-de-graca) texto do Spotify DIY (Do It Yourself) há como se fazer funcionar ele e com uma boa performance -- o que reduziria a necessidade de subir um container novo caso já esteja rodando tal solução de streaming de música.
+
+ 1. Caso ainda não tenha o banco de dados:
+
+  I. SSH no seu servidor:
+```shell
+ssh -l seuUsuario ip.do.cluster.rancher
+```
+  II. Rode os seguintes comandos:
+```shell
+mkdir ~/mysql
+cd ~/mysql
+pwd # salve o output deste comando
+```
+  III. Crie um novo deploy:
+![image1023.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602208418775/AtyEa4lOc.png)
+  IV. Coloque os seguintes valores de variáveis de ambiente:
+![image1009.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602208542260/MI8j_Il9A.png)
+  V. Configure o caminho que conseguiu no passo `II` -- no meu caso `/home/ubuntu/mysql` mas no seu pode ser que sejam outros valores:
+![image995.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602208718264/Uls5LmTP7.png)
+  VI. Selecione a opção de configurações avançadas no canto inferior direito e vá na aba de `Command` e coloque o seuginte comando (`--default-authentication-plugin=mysql_native_password`):
+![image981.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602208869115/Iy2V6JcFP.png)
+
+2. Agora o GT:
+
+  I. SSH no seu servidor:
+```shell
+ssh -l seuUsuario ip.do.cluster.rancher
+```
+  II. Rode os seguintes comandos:
+```shell
+mkdir ~/gitea
+cd ~/gitea
+pwd # salve o output deste comando
+```
+  III. Configure a imagem -- recomendo sim travar ela porque o GT tem muitas builds na `lastest`:
+![image967.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602209282573/kItMGo2lm.png)
+  IV. Mapeie as suas portas -- lembrando que a `8082` e `8083` eram as disponíves na minha máquina, na sua pode ser que sejam outras:
+![image967-3.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602209358164/e7agLccXg.png)
+  V. Coloque os seguintes valores de variáveis de ambiente:
+![image953.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602209461917/_497Q_jqm.png)
+  VI. Configure o caminho que conseguiu no passo `II` -- no meu caso `/home/ubuntu/gitea` mas no seu pode ser que sejam outros valores:
+![g1148.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602209521547/CxzOSKfuM.png)
+  VII. Acesse o seu endereço:
+![g1440.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602210072492/dWZ9OqwB3.png)
+  VIII. Registre um novo servidor:
+![g1449.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602210088990/IYamqzONm.png)
+  IX. Comece a se divertir:
+![g1458.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1602210098538/RwzLcy_cf.png)
+
+## Considerações Finais
+
+Com o GH em uma aparente jogada de marketing ao armazenar alguns códigos em um cofre no ártico, cada vez mais está se procurando conscientizar a "população comum" -- neste caso quem não coda ou pelo menos expostos à área -- sobre o quão "importante" o código é para computação, uma vez que ficou claro que a ideia era fazer uma comparação de importância com o Svalbard Global Seed Vault.
+
+Além de ressaltar a importancia de legados de código, quando ações como essas procuram atingir principalmente o público não técnico, mostra uma intenção de se atrair pessoas para a àrea, uma vez que a demandar por profissionais se torna cada vez mais evidente. Mostar que não se precisa ter uma formação técnica, superior ou até mesmo um bootcamp em código para se poder programar -- como o  [químico que dá suporte à uma biblioteca de shells em Python](https://testandcode.com/130).
+
+Caso tenha vontade de participar em contribuir em qualquer projeto, este mês a Digital Ocean está [dando uma camiseta](https://hacktoberfest.digitalocean.com/) para quem auxiliar eles em projetos como alguns do citados e vários outros e caso queira auxiliar o GT você pode fazer isso de várias maneiras:
+
+- Código
+- Documentação
+- Testes
+- etc.
+
+Projetos assim crescem com o aúxilio que recebem de diversas pessoas, as vezes você pode ajudar a escrever a história dele e de muitos outros.
+
+![497411169_f87bb7eea7_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1602161004839/J_h_KWbY2.jpeg)
+
+["'Story Road'"](https://www.flickr.com/photos/8271124@N03/497411169) by [umjanedoan](https://www.flickr.com/photos/8271124@N03) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich)
+
+## Apêndice
+
+- Menções honrosas à serviços de armazenamento de código que talvez você não saiba que fazem isto também:
+  - Dropbox
+  - Google: Cloud Source Repositories
+- A opção mais próxima é o Gitlab, o qual você pode também ter com passos similares ao mostrado aqui todavia não há suporte oficial para ARM
+- Caso queria saber mais sobre git, tem [este](https://git-scm.com/book/en/v2) livro gratuito para downlods
+- Com a aquisição recente do **npm** -- sistema de distribuição de pacotes da linguagem Node -- pela Microsoft isso mostra que a distribuição de código é importante pare eles uma vez que:
+  - Fecharam um contrato de 10 bilhões de dólares com o governo americano para a plataforma de nuvem deles, a Azure.
+  - Eles sabem já a importância de Free and Open Source Software (FOSS) em projetos utilizados na industria podem ser vistos [aqui](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ownership.pdf)
+- Em um nível pessoal, ter um repositório git independentemente da solução, isto serve como um "portifólio" dos seus projetos: tarefas de faculdade, correções em projetos que utiliza, textos -- como este daqui -- que escreveu, etc. Dito isso, hostear o seu próprio serviço de git mostra que foi um passo bem além dos anteriores.
+
+## Referências
+
+- [Installation with Docker](https://docs.gitea.io/en-us/install-with-docker/)
+- [Git Fundamentals](https://syntax.fm/show/286/git-fundamentals)
+- [Lambda3 Podcast 206 – Monorepo](https://www.lambda3.com.br/2020/07/lambda3-podcast-206-monorepo/)
+- [Git vs Mercurial vs SVN [duplicate]](https://stackoverflow.com/a/3183093/7092954)
+- [Git vs. Mercurial: How Are They Different? ](https://www.perforce.com/blog/vcs/git-vs-mercurial-how-are-they-different)
+- [Microsoft acquires GitHub](https://news.microsoft.com/announcement/microsoft-acquires-github/)
+- [Microsoft buys JavaScript developer platform npm; plans to integrate it with GitHub](https://www.zdnet.com/article/microsoft-buys-javascript-developer-platform-npm-plans-to-integrate-it-with-github/)
+- [Git e Github – Hipsters #109](https://hipsters.tech/git-e-github-hipsters-109/)
+- [Javascript, cozinha e comida na Liv Up – Hipsters On The Road #22](https://hipsters.tech/javascript-cozinha-e-comida-na-liv-up-hipsters-on-the-road-22/)
+- [Explore some of the top projects archived in the 2020 Arctic Vault program](https://archiveprogram.github.com/)
+- [Xbox and Windows NT 3.5 source code leaks online](https://www.theverge.com/2020/5/21/21265995/xbox-source-code-leak-original-console-windows-3-5)
+- [Linus Torvalds: "Git proved I could be more than a one-hit wonder."](https://www.techrepublic.com/article/linus-torvalds-git-proved-i-could-be-more-than-a-one-hit-wonder/)
+- [Github Ranking](https://github.com/EvanLi/Github-Ranking#most-stars)
+- [20 Interesting Facts and Statistics About GitHub](https://www.rankred.com/facts-and-statistics-about-github/) 
