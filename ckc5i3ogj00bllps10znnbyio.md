@@ -1,1 +1,95 @@
-IyMgQ29tbyBkaXN0cmlidWlyIGPDs2RpZ28gcGFyYSByb2RhciBlbSBkaXZlcnNhcyBhcnF1aXRldHVyYXM/IFI6IERvY2tlciBidWlsZHgKCiMgSW50cm8KCkNhc28gdm9jw6ogbsOjbyBjb25oZcOnYSBEb2NrZXIuLi4gQ29tbyB2ZWlvIHBhcmFyIGFxdWk/CgpNYXMsIG1lc21vIGFzc2ltLCBjYXNvIG7Do28gY29uaGXDp2EsIHJlY29tZW5kbyBsZXIvdmVyL291dmlyIG9zIHNlZ3VpbnRlcyBjb250ZcO6ZG9zIGUgYW50ZXMgZGUgY29udGludWFyIGEgbGVpdHVyYSwgZMOqIGEgY2FyYSBhIHRhcGEgZSBmYcOnYSB1bSAgbWluaW11bSB2aWFibGUgcHJvZHVjdCAoTVZQKSBkZSBhbGd1bWEgY29pc2EgZW0gIFtEb2NrZXJdKGh0dHBzOi8vd3d3LmRvY2tlci5jb20vKSAtLSBhaW5kYSBpcmVpIHB1YmxpY2FyIGFsZ3VucyBleGVtcGxvcyBtYW5laXJvcyBkZSBkZXBsb3kgZGUgd2ViYXBwcyByb2RhbmRvICBbU2hpbnldKGh0dHBzOi8vc2hpbnkucnN0dWRpby5jb20vKSAgZSBhbsOhbGlzZSBkZSBkYWRvcyBjb20gIFtSXShodHRwczovL3d3dy5yLXByb2plY3Qub3JnLykgIC0tIHF1ZSB2b2PDqiBzZSBzZW50aXIgbWFpcyBjb25mb3J0w6F2ZWwgY29tOgoKLSBbV2hhdCBpcyBEb2NrZXIgaW4gNSBtaW51dGVzXShodHRwczovL3lvdXR1LmJlL19kZkxPenVJZzJvKQotIFtEb2NrZXIgMTAxXShodHRwczovL3d3dy5kb2NrZXIuY29tLzEwMS10dXRvcmlhbCkKLSBbTGFtYmRhMyAtIERvY2tlcl0oaHR0cHM6Ly93d3cubGFtYmRhMy5jb20uYnIvMjAxNi8wNS9wb2RjYXN0LTEtZG9ja2VyLykKCkFnb3JhLCBjYXNvIGrDoSBjb25oZcOnYSBEb2NrZXIgZSB0ZW5oYSBmZWl0byBhbGdvIGNvbSBlbGUsIHBvZGVtb3MgZmFsYXIgZGUgIFtidWlsZHhdKGh0dHBzOi8vZG9jcy5kb2NrZXIuY29tL2J1aWxkeC93b3JraW5nLXdpdGgtYnVpbGR4Lyk7IG1hcyBhbnRlcywgZ29zdGFyaWEgZGUgY29sb2NhciBhbGd1bnMgY2Vuw6FyaW9zOgoKMS4gIlZvY8OqIHRlbSB1bSBjb21wdXRhZG9yIGFudGlnbywgdW0gSW50ZWwgMzJiaXRzIGUgZ29zdGFyaWEgZGUgdXNhciBlbGUgY29tbyB1bSBzZXJ2aWRvciBuYSBzdWEgY2FzYSBwYXJhIHBvZGVyIHJvZGFyIGFsZ3VtYXMgZGFzIHN1YXMgYXBsaWNhw6fDtWVzLiBPIGNvbnRyYSBwb250byDDqSBxdWUgZ29zdGFyaWEgZGUgZGVzZW52b2x2ZXIgZGUgcXVhbHF1ZXIgbHVnYXIgYSBxdWFscXVlciBob3JhLiIKMi4gIlZvY8OqIHRlbSB1bWEgUmFzcGJlcnJ5IFBpIGUgZ29zdGFyaWEgZGUgY29sb2NhciBlbGEgcGFyYSBib20gdXNvLiIKMy4gIlNhYmVuZG8gcXVlIHNlcnZpw6dvcyBuYSBudXZlbSBjb21lw6dhcmFtIGEgYXByZXNlbnRhciBbc2VydmnDp29zIGNvbSBwcm9jZXNzYWRvcmVzIEFSTV0oaHR0cHM6Ly9hd3MuYW1hem9uLmNvbS9lYzIvZ3Jhdml0b24vKSwgcXVlIHBvc3N1ZW0gKipjdXN0b3MgbWFpcyBiYWl4b3MqKiwgdm9jw6ogZGVjaWRlIHF1ZXJlciByZWR1emlyIG9zIGN1c3RvcyBkYSBzdWEgZW1wcmVzYS4iCgpDb25zaWRlcmFuZG8gcXVlIG9zIGRvaXMgw7psdGltb3MgY2Vuw6FyaW9zIHRlbSBhIHZlciBjb20gYSBhcnF1aXRldHVyYSBBUk0gLS0gcXVlIGV1IHByZXRlbmRvIGVzY3JldmVyIGNhZGEgdmV6IG1haXMgYXF1aSBzb2JyZSAtLSwgZWxhcyBwb2RlbSBwYXJlY2VyICoiYSBtZXNtYSBjb2lzYSIqIGVtIHVtYSBhbsOhbGlzZSByw6FwaWRhIG5hIHZlcmRhZGUgZWxhcyBhcHJlc2VudGFtIGNvbnNpZGVyYcOnw7VlcyBkaWZlcmVudGVzLiBNYXMgdW0gYXTDqSBtZXNtbyB1bSBjZW7DoXJpbyBleHRyYSB0YWx2ZXogdGUgYWp1ZGUgYSBlbnRlbmRlciBtZWxob3IgbyBwb3RlbmNpYWw6Cgo0LiAiRXN0w6EgY2Fuc2FkbyBkZSBhIGNhZGEgMTAtMTUgYSBBcHBsZSBtdWRhciBkZSBhcnF1aXRldHVyYSBlIGNvbSByZWNlaW8gZGUgbm92byBmdXR1cm8gZWxlcyBkZWNpZGlyZW0gbXVkYXIgcGFyYSB1bSBbUklTQy1WXShodHRwczovL3Jpc2N2Lm9yZy8pIG91IGNvaXNhIGRvIHRpcG8/IgoKT2theSwgZXN0ZSDDumx0aW1vIMOpIG1haXMgdW0gY2h1dGUgZG8gcXVlIGFsZ28gY2VydG8gb3UgcXVlIHRlbmhhIGFsZ3VtIGVtYmFzYW1lbnRvIGF0dWFsLi4uIE1hcyBzZXJpYSBmw6FjaWwgaW5qZXRhciB1bSBbUUVNVV0oaHR0cHM6Ly93d3cucWVtdS5vcmcvKSBjb20gdGFsIGFycXVpdGV0dXJhIGUsIGRhIG5vaXRlIHBhcmEgbyBkaWEsIHRlciB0b2RhIGEgc3VhIGFwbGljYcOnw6NvIGF0dWFsIGVzdGFyIHJvZGFuZG8gcGFyYSBvdXRyYSBhcnF1aXRldHVyYSAtLSBjb20gcGVxdWVuYXMgcGFyYSBxdWFzZSBuZW5odW1hIGFsdGVyYcOnw6NvIGRlcGVuZGVuZG8gZG8gY2Vuw6FyaW8uCgojIE8gYnVpbGR4CgpPIGJ1aWxkeCBlbSB0ZXJtb3Mgc2ltcGxlczogKiLDqSBxdWUgdW1hIGNhbWFkYSBkZSBhYnN0cmHDp8OjbyBkbyBoYXJkd2FyZSBwYXJhIHF1ZSBvIERvY2tlciBjb25zaWdhIGNvbnN0cnVpciB1bWEgaW1hZ2VtIGRlIHVtYSBhcnF1aXRldHVyYSBlbSBvdXRyYS4iKgoKIVs0MTkxMjQxNjgxMl85NWYwMzUzMDUyX28uanBnXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTU5MzczMjk3ODM2Ny9QekJLLVRobzMuanBlZykKClZvY8OqIHBvZGUgdmVyLCBlbSBjaWNsbyBkZSB2aWRhIGRlIHVtIHByb2R1dG8sIG8gYnVpbGR4IGNvbW8gIGEgcHJldmlkw6puY2lhIHByaXZhZGE6ICp2b2PDqiBmYXogaG9qZSBtYXMgcGVuc2FuZG8gbm8gZnV0dXJvLioKCiMjIENvbW8gY29uZmlndXJhciBlbGUgbmEgc3VhIG3DoXF1aW5hCgpDYXNvIHF1ZXJpYSB1bSBzY3JpcHQgInByb250byIgcGFyYSByb2RhciBhcGVuYXMgZSBjb21lw6dhciBhIGRlc2Vudm9sdmVyIHBhcmEgbXVsdGlwbGFzIGFycXVpdGV0dXJhcywgcmVjb21lbmRvIFtlc3RlXShodHRwczovL2dpc3QuZ2l0aHViLmNvbS9GYXplbmRhYWEvZTEwZjc0NjQyYjMwZTg5M2E4NzI0ZWI3OTFlOTkzM2YpIGRhcXVpIHF1ZSBhY2FiZWkgbW9udGFuZG8gZHVyYW50ZSBhbGd1bnMgbWVzZXMuCgpDYXNvIHRlbmhhIGFsZ3VtIHJlY2VpbyBkZSBxdWUgc2V1IHRlbXBvIGRlIGJ1aWxkIHZhaSBjb21lw6dhciBhIGRlbW9yYXIgZGVtYWlzIG91IGNvbnN1bWlyIGVuZXJnaWEgZGVtYWlzLCBzw7MgbGVtYnJhciBxdWUgbWVzbW8gY29tIG8gc3Vwb3J0ZSBwYXJhIGNvbXBpbGFyIHBhcmEgdsOhcmlhcyBhcnF1aXRldHVyYXMgdm9jw6ogZXNjb2xoZSBxdWFpcyB2YWkgcXVlcmVyLCBmb3JhIHF1ZSBzZW1wcmUgdm91IHJlY29tZW5kYXIgcHJvY3VyYXIgZGFyIHVtIGBkb2NrZXIgYnVpbGQgLS1oZWxwYCBwYXJhIHZlciBwb2RlIHV0aWxpemFyIG1haXMgY29yZXMgZGEgc3VhIG3DoXF1aW5hLCBjYXNvIHRlbmhhcyBlc3NhIHBvc3NpYmlsaWRhZGUuIExlbWJyZS1zZTogKiJvIERvY2tlciDDqSBzZXUgYW1pZ28iKi4KCiMjIENvbW8gcm9kYXIgYWdvcmE/CgohWzI3ODcwOTU2NDA1XzFkY2EyNDRjZGFfby5qcGddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNTkzNzM2MDQ1NTU1L1d4eURQSkstdy5qcGVnKQoKYGBgc2hlbGwKZG9ja2VyIGJ1aWxkeCBidWlsZCAtLXBsYXRmb3JtIGxpbnV4L2FtZDY0LGxpbnV4L2FybTY0LGxpbnV4L2FybS92NyAtLXB1c2ggLS10YWcgPHNldVVzdWFyaW9Ob1JlcG9zaXRvcmlvPi88c2V1UHJvamV0bz4gLgpgYGAKCkVzdGUgw6kgdW0gZXhlbXBsbyBzaW1wbGVzIGRlIHVtIGNvbWFuZG8gcXVlIGV1IHJvZG8gcGFyYSBhbGd1bWFzIGRlIGFwbGljYcOnw7VlcyBkZSB1c28gcGVzc29hbCBlIGVtcHJlc2FyaWFsIHF1ZSBtYW50ZW5oby4gVG9kYXZpYSDDqSBpbXBvcnRhbnRlIGNvbWVudGFyIG91dHJhIHZhbnRhZ2VtIGRvIGJ1aWxkeCBxdWUgw6kgYSBhZ2x1dGluYcOnw6NvIGRlIGNvbWFuZG8sIHVtYSB2ZXogcXVlIG9zIGFudGlnb3MgYGRvY2tlciB0YWdgIGUgYGRvY2tlciBwdXNoYCBhZ29yYSBwb2RlbSBzZXIgcGFzc2Fkb3MgY29tbyBmbGFncyBlIGZhemVuZG8gdW0gY29tYW5kbyB0csOqcyBldGFwYXMgZG8gZGVzZW52b2x2aW1lbnRvIHNlcmVtIGNoYW1hZGFzIGNvbSBhcGVuYXMgdW0gY29tYW5kby4KCkFsZ3VtYXMgb3V0cmFzIHBsYXRhZm9ybWFzIGF0dWFsbWVudGUgc3Vwb3J0YWRhcyBzw6NvOgoKLSBsaW51eC9hcm0vdjYKLSBsaW51eC8zODYKLSBsaW51eC9wcGM2NGxlCi0gbGludXgvczM5MHgKCiMjIENvbW8gc2FiZXIgc2UgYSBtaW5oYSBhcGxpY2HDp8OjbyB2YWkgZnVuY2lvbmFyIGVtIGFsZ28gZGlmZXJlbnRlIGRvIG1ldSB4ODY/CgohWzQ5ODE2MjUzNjQ4X2NjNDAyN2E5MThfby5qcGddKGh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNTkzNzMzNjMwMDI2L1hwOU1QUHZwWS5qcGVnKQoKKkEgZ3JhbmRlIGTDunZpZGEsIG1hcyB0YW1iw6ltIHRlbSBhIHBpb3IgcmVzcG9zdGEgZGUgdG9kYXMuLi4gIkRlcGVuZGUiLioKCkF0dWFsbWVudGUgbsOjbyB0ZW5obyBwcm9ibGVtYXMgZW0gY29tcGlsYXIgcGFyYSBBUk0gbWFzIGlzc28gcG9ycXVlIG5vcm1hbG1lbnRlIHV0aWxpem8gaW1hZ2VucyBxdWUgcG9zc3VlbSB1bSBib20gc3Vwb3J0ZSBwYXJhIGxpbmd1YWdlbnMgY29tbyBbTm9kZV0oaHR0cHM6Ly9odWIuZG9ja2VyLmNvbS9fL25vZGUvKSBlIFtQeXRob25dKGh0dHBzOi8vaHViLmRvY2tlci5jb20vXy9weXRob24pOyB0b2RhdmlhLCBjYXJvIHF1ZWlyYSBpciBtYWlzIGFsw6ltLCBhbMOpbSBkZSB1bWEgc3RhY2sgZSBzdWJpciBzb2x1w6fDtWVzIG1haXMgY29tcGxleGFzLCByZWNvbWVuZG8gZGFyIHVtYSBvbGhhZGEgbm8gIFtBbHBpbmVdKGh0dHBzOi8vaHViLmRvY2tlci5jb20vXy9hbHBpbmVodHRwczovL2h1Yi5kb2NrZXIuY29tL18vYWxwaW5lKSBwYXJhIGNvbnN0cnVpciBzdWFzIGltYWdlbnMuCgojIyBFeGVtcGxvIGRlIGFwbGljYcOnw7VlcwoKQXR1YWxtZW50ZSBldSBtZXNtbyBqw6EgZGVzZW52b2x2byBlIHJvZG8gdHLDqnMgYXBsaWNhw6fDtWVzIG1pbmhhcyAtLSBib3RzIHBhcmEgVGVsZWdyYW0gLS0gZGVzdGEgbWFuZWlyYS4gUmVzb2x2aSBwYXJhciBkZSBwYWdhciBvcyBVUyQ6IDUgcG9yIGFwbGljYcOnw6NvIC0tIG8gcXVlIGRhcmlhIGFwcm94aW1hZGFtZW50ZSA4MCByZWFpcyAtLSBwb3IgbcOqcyBwYXJhIHJvZGFyIG5hIG1pbmhhIFNpbmdsZSBCb2FyZCBDb21wdXRlciAoU0JDKSAtLSBhcyBmYW1vc2FzICJwbGFxdWluaGFzIiAtLSBxdWUgZXN0w6Egcm9kYW5kbyBvcyB0csOqcyBzZXJ2acOnb3MgZSBtdWl0byBtYWlzLCB0dWRvIGlzc28gY29uZWN0YWRvIGEgdW0gY2FycmVnYWRvciBkZSBjZWx1bGFyLiBDYXNvIHF1ZWlyYSB2ZXIgbWFpcyBzb2JyZSBlbGFzOgoKLSBbQm90IGRlIHNwb2lsZXJdKGh0dHBzOi8vZmF6ZW5kYWFhLmdpdGh1Yi5pby9JLW0tYS1TcG9pbGVyLUJvdC8pCi0gW0JvdCBkZSBpbmZvcm1hw6fDo28gZGUgYW5pbWVzXShodHRwczovL2ZhemVuZGFhYS5naXRodWIuaW8vQW5pbGlzdEJvdC8pCi0gW0JvdCBkZSBpbmZvcm1hw6fDo28gZGUgcG9kY2FzdHNdKGh0dHBzOi8vZ2l0aHViLmNvbS9GYXplbmRhYWEvcG9kc2VhcmNoX2JvdCkKCkFnb3JhLCBvIHF1ZSB2b2PDqiBwb2RlIGNvbnRydWliaXIgZSByb2RhciBhbMOpbSBkaXNzbyBncmHDp2FzIGEgZmVycmFtZW50YXMgY29tbyBidWlsZHg/CgotICoqW1N1YSBwcsOzcGlhIG51dmVtXShodHRwczovL293bmNsb3VkLm9yZy8pKioKLSAqKltTZXUgcHLDs3ByaW8gc2Vydmlkb3IgZGUgY2FzYSBjb25lY3RhZGFdKGh0dHBzOi8vd3d3LmhvbWUtYXNzaXN0YW50LmlvLykqKgotICoqW1NldSBwcsOzcHJpbyBnZXJlbmNpYWRvciBkZSBjbHVzdGVyc10oaHR0cHM6Ly9mYXplbmRhLmhhc2hub2RlLmRldi9jb25maWd1cmFuZG8tcmFuY2hlci1lbS11bS1hcm0tY2tidm5hZDd1MDA3NmM3czFkbGpuZnduZikqKgoKIyMgVmFudGFnZW5zCgpUZXIgYSBzdWEgcHLDs3ByaWEgbnV2ZW0gZSBhIGdhcmFudGlhIGRlIHF1ZSBzZXVzIGRhZG9zIHPDo28gc2V1cyBtZXNtbywgdmFpIG11aXRvIGFsw6ltIGRlIHF1YWxxdWVyIFtMR1BEXShodHRwOi8vd3d3LnBsYW5hbHRvLmdvdi5ici9jY2l2aWxfMDMvX2F0bzIwMTUtMjAxOC8yMDE4L2xlaS9MMTM3MDkuaHRtKSBvdSBjb2lzYSBkbyB0aXBvLiBQb2RlciB0YW1iw6ltICBbYmxvcXVlYXIgcHJvcGFnYW5kYXMgZSByYXN0cmVhbWVudG9dKGh0dHBzOi8vcGktaG9sZS5uZXQvKSB0YW1iw6ltIMOpIGFsZ28gcXVlIHZhaSBhbMOpbSBkbyBxdWUgbXVpdGEgbGVpIHBvZGUgZmF6ZXIgb3UgasOhIGZleiBwYXJhIHZvY8OqLgoKIVszMjc2MDk5NDJfYTgwNGQ1NTAwOF9vLmpwZ10oaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE1OTM3MzUzMjYxNTQvbHlHT2RDVWhULmpwZWcpCgojIFBvbnRvcyBpbXBvcnRhbnRlcwoKQ2FzbyBnb3N0ZSBkZSBkZXNhZmlvcyBlIHF1ZWJyYXIgYSBjYWJlw6dhIGVtIG11aXRvcyBwb250b3MsIHByb2N1cmUgY29tcGlsYXIgdG9kYXMgYXMgc3VhcyBhcGxpY2HDp8O1ZXMgZGFxdWkgcGFyYSBmcmVudGUgZGFuZG8gc3Vwb3J0ZSBwYXJhIHRvZGFzIGFzIGFycXVpdGV0dXJhcywgbWVzbW8gcXVlIG7Do28gdXNlLiBPIHNldSB0cmFiYWxobyBwb2RlIGFqdWRhciBvdXRyb3MgY29tIHVtIHNjcmlwdCBhcGVuYXMuIEUgYSB0ZWNub2xvZ2lhIHF1YW50byBtYWlzIGVsYSBzZSB0b3JuYXIgYWNlc3PDrXZlbCwgbWFpb3IgbyBwb3RlbmNpYWwgZGVsYSBmYXplciBhIGRpZmVyZW7Dp2EgbmEgdmlkYSBkZSBvdXRyYXMgcGVzc29hcyBxdWUgYXTDqSBlbnTDo28gbsOjbyB0aW5oYW0gbyBhY2Vzc28gZsOhY2lsIGEgZWxhLgoKIyBSZWZlcsOqbmNpYXMKCi0gIFsiRG9ja2VyLTQiXShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy8xMzQ0MTYzNTVATjA3LzMxNTE4OTY5MDMwKSBieSBbbWFpam91MjUwMV0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvMTM0NDE2MzU1QE4wNykgaXMgbGljZW5zZWQgdW5kZXIgW0NDIEJZLVNBIDIuMF0oaHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LXNhLzIuMC8/cmVmPWNjc2VhcmNoJmF0eXBlPXJpY2gpCi0gWyJSb2xsZWQgdXAgQmx1ZXByaW50cyBIb21lIENvbnN0cnVjdGlvbiJdKAopIGJ5IFtTaGVibGV5Q0xdKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzI1NjM2ODUxQE4wMykgaXMgbGljZW5zZWQgdW5kZXIgIFtDQyBCWSAyLjBdKGh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS8yLjAvP3JlZj1jY3NlYXJjaCZhdHlwZT1yaWNoKQotICBbIkZhbGxpbmcgV2hlZWwiXShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy8zNzk5NjY0NjgwMkBOMDEvMjc4NzA5NTY0MDUpIGJ5IFtjb2dkb2dibG9nXShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy8zNzk5NjY0NjgwMkBOMDEpIGlzIGxpY2Vuc2VkIHVuZGVyIFtDQyBCWSAyLjBdKGh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS8yLjAvP3JlZj1jY3NlYXJjaCZhdHlwZT1yaWNoKSAKLSBbIkNQVSBQcm9jZXNzb3IiXShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy8xNzQyMzcxM0BOMDMvNDk4MTYyNTM2NDgpIGJ5IFtkYW5pZWxmb3N0ZXI0MzddKGh0dHBzOi8vd3d3LmZsaWNrci5jb20vcGhvdG9zLzE3NDIzNzEzQE4wMykgaXMgbGljZW5zZWQgdW5kZXIgW0NDIEJZLU5DLVNBIDIuMF0oaHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzIuMC8/cmVmPWNjc2VhcmNoJmF0eXBlPXJpY2gpCi0gIFsiQ2hhaW47IE1heSBCZSBSZW1vdmVkIl0oaHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvNjc1MzMxODFATjAwLzMyNzYwOTk0MikgYnkgIFtIYW1lZG9nXShodHRwczovL3d3dy5mbGlja3IuY29tL3Bob3Rvcy82NzUzMzE4MUBOMDApIGlzIGxpY2Vuc2VkIHVuZGVyIFtDQyBCWS1ORCAyLjAgXShodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnktbmQvMi4wLz9yZWY9Y2NzZWFyY2gmYXR5cGU9cmljaCk=
+# Como distribuir código para rodar em diversas arquiteturas? R: Docker buildx
+
+# Intro
+
+Caso você não conheça Docker... Como veio parar aqui?
+
+Mas, mesmo assim, caso não conheça, recomendo ler/ver/ouvir os seguintes conteúdos e antes de continuar a leitura, dê a cara a tapa e faça um  minimum viable product (MVP) de alguma coisa em  [Docker](https://www.docker.com/) -- ainda irei publicar alguns exemplos maneiros de deploy de webapps rodando  [Shiny](https://shiny.rstudio.com/)  e análise de dados com  [R](https://www.r-project.org/)  -- que você se sentir mais confortável com:
+
+- [What is Docker in 5 minutes](https://youtu.be/_dfLOzuIg2o)
+- [Docker 101](https://www.docker.com/101-tutorial)
+- [Lambda3 - Docker](https://www.lambda3.com.br/2016/05/podcast-1-docker/)
+
+Agora, caso já conheça Docker e tenha feito algo com ele, podemos falar de  [buildx](https://docs.docker.com/buildx/working-with-buildx/); mas antes, gostaria de colocar alguns cenários:
+
+1. "Você tem um computador antigo, um Intel 32bits e gostaria de usar ele como um servidor na sua casa para poder rodar algumas das suas aplicações. O contra ponto é que gostaria de desenvolver de qualquer lugar a qualquer hora."
+2. "Você tem uma Raspberry Pi e gostaria de colocar ela para bom uso."
+3. "Sabendo que serviços na nuvem começaram a apresentar [serviços com processadores ARM](https://aws.amazon.com/ec2/graviton/), que possuem **custos mais baixos**, você decide querer reduzir os custos da sua empresa."
+
+Considerando que os dois últimos cenários tem a ver com a arquitetura ARM -- que eu pretendo escrever cada vez mais aqui sobre --, elas podem parecer *"a mesma coisa"* em uma análise rápida na verdade elas apresentam considerações diferentes. Mas um até mesmo um cenário extra talvez te ajude a entender melhor o potencial:
+
+4. "Está cansado de a cada 10-15 a Apple mudar de arquitetura e com receio de novo futuro eles decidirem mudar para um [RISC-V](https://riscv.org/) ou coisa do tipo?"
+
+Okay, este último é mais um chute do que algo certo ou que tenha algum embasamento atual... Mas seria fácil injetar um [QEMU](https://www.qemu.org/) com tal arquitetura e, da noite para o dia, ter toda a sua aplicação atual estar rodando para outra arquitetura -- com pequenas para quase nenhuma alteração dependendo do cenário.
+
+# O buildx
+
+O buildx em termos simples: *"é que uma camada de abstração do hardware para que o Docker consiga construir uma imagem de uma arquitetura em outra."*
+
+![41912416812_95f0353052_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1593732978367/PzBK-Tho3.jpeg)
+
+Você pode ver, em ciclo de vida de um produto, o buildx como  a previdência privada: *você faz hoje mas pensando no futuro.*
+
+## Como configurar ele na sua máquina
+
+Caso queria um script "pronto" para rodar apenas e começar a desenvolver para multiplas arquiteturas, recomendo [este](https://gist.github.com/Fazendaaa/e10f74642b30e893a8724eb791e9933f) daqui que acabei montando durante alguns meses.
+
+Caso tenha algum receio de que seu tempo de build vai começar a demorar demais ou consumir energia demais, só lembrar que mesmo com o suporte para compilar para várias arquiteturas você escolhe quais vai querer, fora que sempre vou recomendar procurar dar um `docker build --help` para ver pode utilizar mais cores da sua máquina, caso tenhas essa possibilidade. Lembre-se: *"o Docker é seu amigo"*.
+
+## Como rodar agora?
+
+![27870956405_1dca244cda_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1593736045555/WxyDPJK-w.jpeg)
+
+```shell
+docker buildx build --platform linux/amd64,linux/arm64,linux/arm/v7 --push --tag <seuUsuarioNoRepositorio>/<seuProjeto> .
+```
+
+Este é um exemplo simples de um comando que eu rodo para algumas de aplicações de uso pessoal e empresarial que mantenho. Todavia é importante comentar outra vantagem do buildx que é a aglutinação de comando, uma vez que os antigos `docker tag` e `docker push` agora podem ser passados como flags e fazendo um comando três etapas do desenvolvimento serem chamadas com apenas um comando.
+
+Algumas outras plataformas atualmente suportadas são:
+
+- linux/arm/v6
+- linux/386
+- linux/ppc64le
+- linux/s390x
+
+## Como saber se a minha aplicação vai funcionar em algo diferente do meu x86?
+
+![49816253648_cc4027a918_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1593733630026/Xp9MPPvpY.jpeg)
+
+*A grande dúvida, mas também tem a pior resposta de todas... "Depende".*
+
+Atualmente não tenho problemas em compilar para ARM mas isso porque normalmente utilizo imagens que possuem um bom suporte para linguagens como [Node](https://hub.docker.com/_/node/) e [Python](https://hub.docker.com/_/python); todavia, caro queira ir mais além, além de uma stack e subir soluções mais complexas, recomendo dar uma olhada no  [Alpine](https://hub.docker.com/_/alpinehttps://hub.docker.com/_/alpine) para construir suas imagens.
+
+## Exemplo de aplicações
+
+Atualmente eu mesmo já desenvolvo e rodo três aplicações minhas -- bots para Telegram -- desta maneira. Resolvi parar de pagar os US$: 5 por aplicação -- o que daria aproximadamente 80 reais -- por mês para rodar na minha Single Board Computer (SBC) -- as famosas "plaquinhas" -- que está rodando os três serviços e muito mais, tudo isso conectado a um carregador de celular. Caso queira ver mais sobre elas:
+
+- [Bot de spoiler](https://fazendaaa.github.io/I-m-a-Spoiler-Bot/)
+- [Bot de informação de animes](https://fazendaaa.github.io/AnilistBot/)
+- [Bot de informação de podcasts](https://github.com/Fazendaaa/podsearch_bot)
+
+Agora, o que você pode contruibir e rodar além disso graças a ferramentas como buildx?
+
+- **[Sua própia nuvem](https://owncloud.org/)**
+- **[Seu próprio servidor de casa conectada](https://www.home-assistant.io/)**
+- **[Seu próprio gerenciador de clusters](https://fazenda.hashnode.dev/configurando-rancher-em-um-arm-ckbvnad7u0076c7s1dljnfwnf)**
+
+## Vantagens
+
+Ter a sua própria nuvem e a garantia de que seus dados são seus mesmo, vai muito além de qualquer [LGPD](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm) ou coisa do tipo. Poder também  [bloquear propagandas e rastreamento](https://pi-hole.net/) também é algo que vai além do que muita lei pode fazer ou já fez para você.
+
+![327609942_a804d55008_o.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1593735326154/lyGOdCUhT.jpeg)
+
+# Pontos importantes
+
+Caso goste de desafios e quebrar a cabeça em muitos pontos, procure compilar todas as suas aplicações daqui para frente dando suporte para todas as arquiteturas, mesmo que não use. O seu trabalho pode ajudar outros com um script apenas. E a tecnologia quanto mais ela se tornar acessível, maior o potencial dela fazer a diferença na vida de outras pessoas que até então não tinham o acesso fácil a ela.
+
+# Referências
+
+-  ["Docker-4"](https://www.flickr.com/photos/134416355@N07/31518969030) by [maijou2501](https://www.flickr.com/photos/134416355@N07) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich)
+- ["Rolled up Blueprints Home Construction"](
+) by [ShebleyCL](https://www.flickr.com/photos/25636851@N03) is licensed under  [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich)
+-  ["Falling Wheel"](https://www.flickr.com/photos/37996646802@N01/27870956405) by [cogdogblog](https://www.flickr.com/photos/37996646802@N01) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=rich) 
+- ["CPU Processor"](https://www.flickr.com/photos/17423713@N03/49816253648) by [danielfoster437](https://www.flickr.com/photos/17423713@N03) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=rich)
+-  ["Chain; May Be Removed"](https://www.flickr.com/photos/67533181@N00/327609942) by  [Hamedog](https://www.flickr.com/photos/67533181@N00) is licensed under [CC BY-ND 2.0 ](https://creativecommons.org/licenses/by-nd/2.0/?ref=ccsearch&atype=rich)
